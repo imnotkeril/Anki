@@ -1,0 +1,4 @@
+data/*.txt
+data/*.tsv
+data/*.tar.bz2
+!data/.gitkeep
