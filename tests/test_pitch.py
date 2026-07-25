@@ -1,3 +1,5 @@
+import pytest
+
 from jpvocab.pitch import render_pitch_svg
 
 
@@ -69,3 +71,8 @@ def test_nakadaka_nichiyoubi():
         '<circle cx="191" cy="30" r="3.25" style="opacity:1;fill:#fff;"></circle>'
         '</svg>'
     )
+
+
+def test_out_of_range_accent_raises():
+    with pytest.raises(ValueError):
+        render_pitch_svg(morae=["に"], accent=5)

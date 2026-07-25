@@ -15,6 +15,8 @@ def _dot_high(mora_index_from_1: int | None, accent: int) -> bool:
 @beartype
 def render_pitch_svg(morae: list[str], accent: int) -> str:
     n = len(morae)
+    if not (0 <= accent <= n):
+        raise ValueError(f"accent {accent} out of range for {n} morae")
     width = 32 + 35 * n
 
     texts = "".join(
