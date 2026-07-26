@@ -116,6 +116,7 @@ def quick_add(
     dry_run: bool = False,
     model_name: str = CORE_NOTETYPE.notetype_name,
     dedup_field: str = "Expression",
+    notetype: NotetypeSnapshot | None = None,
 ) -> QuickAddReport:
     expression_index = field_names.index(dedup_field)
 
@@ -136,6 +137,17 @@ def quick_add(
             skipped_duplicates=skipped,
             added_note_ids=[],
             dry_run_preview=to_add,
+        )
+
+    if notetype is not None and model_name not in ankiconnect.model_names():
+        card_templates = [
+            {"Name": t.name, "Front": t.qfmt, "Back": t.afmt} for t in notetype.templates
+        ]
+        ankiconnect.create_model(
+            model_name=notetype.notetype_name,
+            fields=notetype.fields,
+            css=notetype.css,
+            templates=card_templates,
         )
 
     ankiconnect.create_deck(deck_name)

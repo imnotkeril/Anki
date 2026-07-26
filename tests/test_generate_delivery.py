@@ -128,3 +128,52 @@ def test_build_deck_works_for_non_core_notetype(tmp_path):
         notetype=EN_GRAMMAR_NOTETYPE,
     )
     assert result.out_path.exists()
+
+
+# append to tests/test_generate_delivery.py
+from jpvocab.jpgrammar import JP_GRAMMAR_NOTETYPE
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.model_names")
+@patch("jpvocab.generate.ankiconnect.create_model")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_creates_missing_model(mock_create_deck, mock_find, mock_create_model, mock_model_names, mock_add):
+    mock_find.return_value = []
+    mock_model_names.return_value = ["Basic"]  # JP Grammar notetype not present yet
+    mock_add.return_value = [1]
+
+    quick_add(
+        [["expr", "reading", "meaning", "pattern", "connection", "clean"]],
+        field_names=JP_GRAMMAR_NOTETYPE.fields,
+        deck_name=JP_GRAMMAR_NOTETYPE.deck_name,
+        model_name=JP_GRAMMAR_NOTETYPE.notetype_name,
+        dedup_field="Expression",
+        notetype=JP_GRAMMAR_NOTETYPE,
+    )
+
+    mock_create_model.assert_called_once()
+    sent_name = mock_create_model.call_args.kwargs["model_name"]
+    assert sent_name == JP_GRAMMAR_NOTETYPE.notetype_name
+
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.model_names")
+@patch("jpvocab.generate.ankiconnect.create_model")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_skips_model_creation_if_already_exists(mock_create_deck, mock_find, mock_create_model, mock_model_names, mock_add):
+    mock_find.return_value = []
+    mock_model_names.return_value = [JP_GRAMMAR_NOTETYPE.notetype_name]  # already exists
+    mock_add.return_value = [1]
+
+    quick_add(
+        [["expr", "reading", "meaning", "pattern", "connection", "clean"]],
+        field_names=JP_GRAMMAR_NOTETYPE.fields,
+        deck_name=JP_GRAMMAR_NOTETYPE.deck_name,
+        model_name=JP_GRAMMAR_NOTETYPE.notetype_name,
+        dedup_field="Expression",
+        notetype=JP_GRAMMAR_NOTETYPE,
+    )
+
+    mock_create_model.assert_not_called()

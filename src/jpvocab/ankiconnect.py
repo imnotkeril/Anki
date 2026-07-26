@@ -24,6 +24,30 @@ def find_notes(query: str) -> list[int]:
 
 
 @beartype
+def model_names() -> list[str]:
+    return _invoke("modelNames")
+
+
+@beartype
+def create_model(
+    model_name: str,
+    fields: list[str],
+    css: str,
+    templates: list[dict[str, str]],
+) -> None:
+    """`templates` is a list of {"Name": ..., "Front": ..., "Back": ...} dicts —
+    AnkiConnect's createModel uses capitalized keys, unlike everything else in this
+    codebase (jpvocab.notetype.Template uses lowercase name/qfmt/afmt)."""
+    _invoke(
+        "createModel",
+        modelName=model_name,
+        inOrderFields=fields,
+        css=css,
+        cardTemplates=templates,
+    )
+
+
+@beartype
 def add_notes(
     deck_name: str,
     model_name: str,

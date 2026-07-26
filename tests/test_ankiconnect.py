@@ -1,5 +1,5 @@
 from unittest.mock import patch, MagicMock
-from jpvocab.ankiconnect import create_deck, find_notes, add_notes
+from jpvocab.ankiconnect import create_deck, find_notes, add_notes, model_names, create_model
 
 
 def _mock_response(result):
@@ -39,3 +39,26 @@ def test_add_notes_builds_field_dict_in_order(mock_post):
     assert note["fields"] == {"Expression": "それ", "Meaning": "that"}
     assert note["deckName"] == "Core 2k_6k [ Pitch Graphs, Optimized, Links ]"
     assert note["modelName"] == "Japanese Vocab Dynamic+"
+
+
+@patch("jpvocab.ankiconnect.requests.post")
+def test_model_names_returns_list(mock_post):
+    mock_post.return_value = _mock_response(["Basic", "Japanese Vocab Dynamic+"])
+    names = model_names()
+    assert names == ["Basic", "Japanese Vocab Dynamic+"]
+
+
+@patch("jpvocab.ankiconnect.requests.post")
+def test_create_model_sends_correct_payload(mock_post):
+    mock_post.return_value = _mock_response(None)
+    create_model(
+        model_name="Test Model",
+        fields=["Front", "Back"],
+        css=".card { color: red; }",
+        templates=[{"Name": "Card 1", "Front": "{{Front}}", "Back": "{{Back}}"}],
+    )
+    sent = mock_post.call_args.kwargs["json"]
+    assert sent["action"] == "createModel"
+    assert sent["params"]["modelName"] == "Test Model"
+    assert sent["params"]["inOrderFields"] == ["Front", "Back"]
+    assert sent["params"]["cardTemplates"] == [{"Name": "Card 1", "Front": "{{Front}}", "Back": "{{Back}}"}]
