@@ -23,6 +23,18 @@ def test_quick_add_skips_duplicates(mock_create, mock_find, mock_add):
 @patch("jpvocab.generate.ankiconnect.add_notes")
 @patch("jpvocab.generate.ankiconnect.find_notes")
 @patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_escapes_tricky_expression_in_query(mock_create, mock_find, mock_add):
+    mock_find.return_value = []
+    mock_add.return_value = [1]
+
+    quick_add([["四 (× yon)", "four"]], field_names=["Expression", "Meaning"])
+
+    query = mock_find.call_args.args[0]
+    assert 'Expression:"四 (× yon)"' in query
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
 def test_quick_add_dry_run_does_not_call_add_notes(mock_create, mock_find, mock_add):
     mock_find.return_value = []
 

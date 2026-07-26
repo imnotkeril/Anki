@@ -120,7 +120,8 @@ def quick_add(
     skipped = []
     for fields in notes_fields:
         expression = fields[expression_index]
-        existing = ankiconnect.find_notes(f'deck:"{deck_name}" Expression:{expression}')
+        escaped_expression = expression.replace('"', '\\"')
+        existing = ankiconnect.find_notes(f'deck:"{deck_name}" Expression:"{escaped_expression}"')
         if existing:
             skipped.append(expression)
         else:
