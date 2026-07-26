@@ -36,7 +36,14 @@ Reuses the field schema already present in the user's real `N3 Grammar.apkg`
 Grammar deck's own CSS is empty/bare — this fixes that, per the "always unified visual"
 requirement.
 
-Fields (unchanged from the real deck, order matters): `Expression, Reading, Meaning, Pattern, Connection, ExpressionClean`
+> **Revised after first live smoke test + user review (2026-07-27).** The 6-field schema
+> below (copied straight from the real N3 Grammar.apkg) tested poorly: no visual
+> separation between sections, the pattern explanation ran into the meaning as one
+> unbroken line, and the connection-rules content used bare Japanese grammar jargon
+> (ない形, 辞書形, ...) that the user can't read without furigana. Superseded by the
+> 8-field schema and content conventions documented below the original 6-field notes.
+
+Fields (original, now superseded — kept for history): `Expression, Reading, Meaning, Pattern, Connection, ExpressionClean`
 - `Expression`: full example sentence, pattern in bold (`<b>...</b>`), may include `<ruby>` furigana
 - `Reading`: same sentence in plain kana
 - `Meaning`: Russian translation
@@ -44,9 +51,33 @@ Fields (unchanged from the real deck, order matters): `Expression, Reading, Mean
 - `Connection`: the conjugation-form connection rules (`гл.辞書形→...`, etc.)
 - `ExpressionClean`: bare sentence, no bold/ruby (used on the front-card side)
 
-Cards: 1 card type, front = `ExpressionClean`, back = `Expression` + `Meaning` + `Pattern` + `Connection`,
-same shape as the real deck's existing templates but wrapped in the Core2k6k `.card`/`.cardClr`
-shell instead of bare unstyled divs.
+### Current fields (8, order matters): `Expression, Reading, Construction, Meaning, PatternForm, PatternMeaning, Connection, ExpressionClean`
+
+- `Expression`: full example sentence, the grammar point in `<b>...</b>`, may include `<ruby>` furigana
+- `Reading`: same sentence in plain kana
+- `Construction`: the bare grammar point alone, restated on its own line (e.g. `うちに`) — shown big/bold on its own, doesn't require the reader to re-spot it inside the bolded sentence
+- `Meaning`: Russian translation of the example sentence
+- `PatternForm`: the abstract pattern, e.g. `[отриц. форма гл.] + うちに` — own line, own field (previously crammed onto the same line as `PatternMeaning`)
+- `PatternMeaning`: what the pattern means, e.g. `сделай, пока состояние не изменилось` — own line, own field
+- `Connection`: conjugation-form examples. **Content convention (always follow this):**
+  never use bare Japanese grammar terminology (ない形, 辞書形, ている形, etc.) — always
+  give the Russian label instead (`отриц. форма`, `словарная форма`, `длительная форма`, ...).
+  Any Japanese word that appears must carry a literal `<ruby>kanji<rt>reading</rt></ruby>` tag —
+  never bare kanji with no reading shown, the user cannot parse unfamiliar kanji chains
+  without it. Example: `<ruby>食べる<rt>たべる</rt></ruby> (словарная форма) → 食べるうちに<br><ruby>見<rt>み</rt></ruby>ている (длительная форма) → 見ているうちに`
+- `ExpressionClean`: bare sentence, no bold/ruby (used on the front-card side)
+
+Cards: 1 card type. Front = `ExpressionClean`. Back = every field in the order above,
+separated by `<hr>` between EVERY section (not just some) — this was the other major
+readability complaint: the original template ran everything together with no visual
+break at all. `PatternForm`/`PatternMeaning` render as two explicitly labeled lines
+(`Конструкция: ...` / `Значение: ...`), never merged into one paragraph.
+
+CSS note: the shared Core2k6k stylesheet doesn't define a muted/secondary text color
+variable. This notetype's own CSS snapshot (`notetype_jpgrammar.json`, not the shared
+`notetype_snapshot.json`) adds `:root { --fg-subtle: #8a7c6a; }` locally for the
+`Конструкция:`/`Значение:`/`Примеры:` labels — don't add this to the shared Core2k6k
+snapshot, it's specific to this notetype's template needs.
 
 Notetype name: `JP Grammar (jpvocab)`. Default deck name: `N3 Grammar` (matches the
 existing deck the user already studies from — new cards land alongside it).
@@ -61,10 +92,11 @@ Fields: `Word, Transcription, POS, Meaning, ExampleEN, ExampleRU`
 - `ExampleEN`: example sentence, headword in `<b>`
 - `ExampleRU`: Russian translation of the example
 
-Cards: 2 card types (Listening-style / Reading-style, matching Core2k6k's own 2-card
-pattern) — Card 1 front = `Word`, Card 1 back = everything; Card 2 front = `ExampleEN`
-with `Word` blanked via CSS-hidden `<b>`, Card 2 back = everything (mirrors how Core2k6k's
-"Reading" card front-loads the sentence). Same CSS shell as Core2k6k.
+> **Revised after user review (2026-07-27):** originally 2 card types (Word→everything,
+> Example→word), mirroring Core2k6k's Listening/Reading pattern. User found 2 cards per
+> word confusing ("одна начинается как фраза другая как слово") — reduced to 1 card.
+
+Cards: 1 card type — front = `Word`, back = everything. Same CSS shell as Core2k6k.
 
 Notetype name: `EN Vocab (jpvocab)`. Default deck name: caller-supplied (no existing EN
 vocab deck to default to — `TOEIC 1600 Essential Words` exists but has a different,
@@ -72,10 +104,15 @@ inferior schema per the earlier deck analysis; don't default into it).
 
 ## New notetype 3: EN Grammar / Collocations
 
-Fields: `Pattern, Meaning, Example, Register`
+> **Revised after user review (2026-07-27):** added `ExampleRU` — the original 4-field
+> version left the example sentence untranslated, inconsistent with EN Vocab which
+> always translates its example.
+
+Fields: `Pattern, Meaning, Example, ExampleRU, Register`
 - `Pattern`: the collocation or grammar pattern itself (e.g. `on the other hand`)
-- `Meaning`: Russian translation
+- `Meaning`: Russian translation of the pattern
 - `Example`: example sentence, pattern in `<b>`
+- `ExampleRU`: Russian translation of the example sentence
 - `Register`: usage tag, e.g. `formal / academic`, `informal`, `IELTS Writing Task 2`
 
 Cards: 1 card type, front = `Pattern`, back = everything. Same CSS shell.
@@ -97,6 +134,24 @@ No dictionary/pitch/corpus lookups, no `WordDraft`/`draft_words` equivalent for 
 three — that machinery is specific to JP vocab's automatable data sources. Building a
 parallel "draft" abstraction here would be speculative generality for inputs that are,
 by the user's own decision, always agent-authored.
+
+## Cross-cutting content conventions (apply to all four notetypes, added 2026-07-27)
+
+- **Meaning fields are always Russian**, never left as JMdict's raw English gloss. JP
+  vocab's `draft_words` still resolves an English gloss internally (used for homograph
+  disambiguation and as a fallback), but `finalize_draft`'s parameters now take priority
+  over the draft value (`generate.py`, commit `a547053`) specifically so the calling
+  agent can — and should — always supply its own Russian translation instead of letting
+  the English JMdict gloss pass through unchanged.
+- **Never show raw Japanese grammar terminology without a Russian gloss** (no bare ない形,
+  辞書形, ている形, etc. anywhere in generated content) — always pair with a Russian label.
+- **Never show kanji without furigana** in any field the user is expected to read for
+  comprehension (not just headwords) — literal `<ruby>kanji<rt>reading</rt></ruby>` tags,
+  every time, including inside example/connection/explanation text, not only the main
+  expression field.
+- **Visually separate every distinct piece of information with `<hr>`** — cramming
+  multiple semantically different lines together (as the very first JP Grammar template
+  did) was the single most common complaint across both live smoke tests.
 
 ## Testing
 
