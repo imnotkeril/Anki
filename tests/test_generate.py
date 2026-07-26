@@ -46,3 +46,18 @@ def test_finalize_fills_gaps_and_assembles_fields():
     assert fields[1] == "an unclear term (example)"
     assert "不明語" in fields[2]
     assert fields[4] == "これは<b>不明語</b>です。"
+
+
+def test_finalize_draft_explicit_override_wins_over_dictionary_hit():
+    draft = WordDraft(
+        expression="それ",
+        reading="それ",
+        meaning="that, that one",
+        pitch_svg=None,
+        sentence=None,
+        sentence_kana=None,
+        sentence_english=None,
+        source={"meaning": "jmdict", "reading": "jmdict"},
+    )
+    fields = finalize_draft(draft, meaning="это, то")
+    assert fields[1] == "это, то"

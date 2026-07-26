@@ -75,8 +75,8 @@ def finalize_draft(
     sentence_kana: str | None = None,
     sentence_english: str | None = None,
 ) -> list[str]:
-    final_reading = draft.reading or reading or ""
-    final_meaning = draft.meaning or meaning or ""
+    final_reading = reading or draft.reading or ""
+    final_meaning = meaning or draft.meaning or ""
     if draft.pitch_svg:
         # A rendered pitch-accent diagram is the richest option.
         reading_field = draft.pitch_svg
@@ -86,9 +86,9 @@ def finalize_draft(
         reading_field = f"{draft.expression}[{final_reading}]"
     else:
         reading_field = ""
-    final_sentence = draft.sentence or sentence or ""
-    final_sentence_kana = draft.sentence_kana or sentence_kana or ""
-    final_sentence_english = draft.sentence_english or sentence_english or ""
+    final_sentence = sentence or draft.sentence or ""
+    final_sentence_kana = sentence_kana or draft.sentence_kana or ""
+    final_sentence_english = sentence_english or draft.sentence_english or ""
 
     return assemble_note(
         expression=draft.expression,
