@@ -6,7 +6,7 @@ ANKICONNECT_URL = "http://127.0.0.1:8765"
 
 def _invoke(action: str, **params) -> object:
     response = requests.post(
-        ANKICONNECT_URL, json={"action": action, "version": 6, "params": params}
+        ANKICONNECT_URL, json={"action": action, "version": 6, "params": params}, timeout=30
     ).json()
     if response.get("error"):
         raise RuntimeError(f"AnkiConnect error on {action}: {response['error']}")
