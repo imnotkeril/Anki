@@ -7,7 +7,7 @@ from jpvocab import ankiconnect
 from jpvocab.assembler import assemble_note
 from jpvocab.dictionary import lookup_word
 from jpvocab.genanki_adapter import build_apkg
-from jpvocab.notetype import CORE_NOTETYPE
+from jpvocab.notetype import CORE_NOTETYPE, NotetypeSnapshot
 from jpvocab.pitch import render_pitch_svg, split_morae
 from jpvocab.pitch_lookup import PitchLookup
 from jpvocab.tatoeba import TatoebaLookup
@@ -114,15 +114,17 @@ def quick_add(
     field_names: list[str],
     deck_name: str = CORE_NOTETYPE.deck_name,
     dry_run: bool = False,
+    model_name: str = CORE_NOTETYPE.notetype_name,
+    dedup_field: str = "Expression",
 ) -> QuickAddReport:
-    expression_index = field_names.index("Expression")
+    expression_index = field_names.index(dedup_field)
 
     to_add = []
     skipped = []
     for fields in notes_fields:
         expression = fields[expression_index]
         escaped_expression = expression.replace('"', '\\"')
-        existing = ankiconnect.find_notes(f'deck:"{deck_name}" Expression:"{escaped_expression}"')
+        existing = ankiconnect.find_notes(f'deck:"{deck_name}" {dedup_field}:"{escaped_expression}"')
         if existing:
             skipped.append(expression)
         else:
@@ -141,7 +143,7 @@ def quick_add(
     if to_add:
         added_ids = ankiconnect.add_notes(
             deck_name=deck_name,
-            model_name=CORE_NOTETYPE.notetype_name,
+            model_name=model_name,
             field_names=field_names,
             notes_fields=to_add,
         )
@@ -164,6 +166,7 @@ def build_deck(
     out_path: Path,
     existing_words: set[str],
     expression_index: int = 0,
+    notetype: NotetypeSnapshot = CORE_NOTETYPE,
 ) -> BuildDeckReport:
     to_add = []
     skipped = []
@@ -174,5 +177,5 @@ def build_deck(
         else:
             to_add.append(fields)
 
-    build_apkg(to_add, deck_name=deck_name, out_path=out_path)
+    build_apkg(to_add, deck_name=deck_name, out_path=out_path, notetype=notetype)
     return BuildDeckReport(out_path=out_path, skipped_duplicates=skipped)

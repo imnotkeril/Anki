@@ -80,3 +80,51 @@ def _read_expressions(apkg_path: Path) -> set[str]:
     cur = con.cursor()
     cur.execute("select flds from notes")
     return {row[0].split("\x1f")[0] for row in cur.fetchall()}
+
+
+# append to tests/test_generate_delivery.py
+from jpvocab.engrammar import EN_GRAMMAR_NOTETYPE, build_note as build_engrammar_note
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_works_for_non_core_notetype(mock_create, mock_find, mock_add):
+    mock_find.return_value = []
+    mock_add.return_value = [999]
+
+    fields = build_engrammar_note({
+        "Pattern": "on the other hand",
+        "Meaning": "с другой стороны",
+        "Example": "Example sentence.",
+        "Register": "formal",
+    })
+
+    report = quick_add(
+        [fields],
+        field_names=EN_GRAMMAR_NOTETYPE.fields,
+        deck_name=EN_GRAMMAR_NOTETYPE.deck_name,
+        model_name=EN_GRAMMAR_NOTETYPE.notetype_name,
+        dedup_field="Pattern",
+    )
+
+    assert report.added_count == 1
+    sent_model_name = mock_add.call_args.kwargs["model_name"]
+    assert sent_model_name == "EN Grammar Collocations (jpvocab)"
+
+
+def test_build_deck_works_for_non_core_notetype(tmp_path):
+    fields = build_engrammar_note({
+        "Pattern": "on the other hand",
+        "Meaning": "с другой стороны",
+        "Example": "Example sentence.",
+        "Register": "formal",
+    })
+    out_path = tmp_path / "engrammar_deck_test.apkg"
+    result = build_deck(
+        [fields],
+        deck_name=EN_GRAMMAR_NOTETYPE.deck_name,
+        out_path=out_path,
+        existing_words=set(),
+        notetype=EN_GRAMMAR_NOTETYPE,
+    )
+    assert result.out_path.exists()
