@@ -88,9 +88,10 @@ def finalize_draft(
         # A rendered pitch-accent diagram is the richest option.
         reading_field = draft.pitch_svg
     elif final_reading:
-        # No accent data available — fall back to the conventional
-        # Anki "kanji[reading]" furigana bracket notation.
-        reading_field = f"{draft.expression}[{final_reading}]"
+        # No accent data available — show the plain reading, same as the real deck's
+        # own convention (reading is its own text line, never rendered as ruby
+        # hovering over the kanji headword).
+        reading_field = final_reading
     else:
         reading_field = ""
     final_sentence = sentence or draft.sentence or ""

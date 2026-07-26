@@ -44,7 +44,7 @@ def test_finalize_fills_gaps_and_assembles_fields():
     )
     assert fields[0] == "不明語"
     assert fields[1] == "an unclear term (example)"
-    assert "不明語" in fields[2]
+    assert fields[2] == "ふめいご"
     assert fields[4] == "これは<b>不明語</b>です。"
 
 
