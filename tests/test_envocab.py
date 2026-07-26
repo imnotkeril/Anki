@@ -15,7 +15,7 @@ def test_en_vocab_notetype_loaded():
         "ExampleRU",
     ]
     assert EN_VOCAB_NOTETYPE.css != "" and "PLACEHOLDER" not in EN_VOCAB_NOTETYPE.css
-    assert len(EN_VOCAB_NOTETYPE.templates) == 2
+    assert len(EN_VOCAB_NOTETYPE.templates) == 1
 
 
 def test_build_note_and_round_trip(tmp_path: Path):

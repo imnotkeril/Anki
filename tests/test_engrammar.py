@@ -6,7 +6,7 @@ from jpvocab.engrammar import EN_GRAMMAR_NOTETYPE, build_note
 
 
 def test_en_grammar_notetype_loaded():
-    assert EN_GRAMMAR_NOTETYPE.fields == ["Pattern", "Meaning", "Example", "Register"]
+    assert EN_GRAMMAR_NOTETYPE.fields == ["Pattern", "Meaning", "Example", "ExampleRU", "Register"]
     assert EN_GRAMMAR_NOTETYPE.css != "" and "PLACEHOLDER" not in EN_GRAMMAR_NOTETYPE.css
 
 
@@ -15,9 +15,10 @@ def test_build_note_and_round_trip(tmp_path: Path):
         "Pattern": "on the other hand",
         "Meaning": "с другой стороны",
         "Example": "Some prefer cities. <b>On the other hand</b>, others value quiet.",
+        "ExampleRU": "Некоторые предпочитают города. С другой стороны, другие ценят тишину.",
         "Register": "formal / academic",
     })
-    assert len(fields) == 4
+    assert len(fields) == 5
 
     out_path = tmp_path / "engrammar_test.apkg"
     build_apkg([fields], deck_name="EN Grammar Collocations", out_path=out_path, notetype=EN_GRAMMAR_NOTETYPE)
