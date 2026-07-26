@@ -92,14 +92,16 @@ from jpvocab.envocab import EN_VOCAB_NOTETYPE, build_note as build_envocab_note
 from jpvocab.engrammar import EN_GRAMMAR_NOTETYPE, build_note as build_engrammar_note
 from jpvocab.generate import quick_add, build_deck
 
-# JP Grammar — fields: Expression, Reading, Meaning, Pattern, Connection, ExpressionClean
+# JP Grammar — fields: Expression, Reading, Construction, Meaning, PatternForm,
+# PatternMeaning, Connection
 fields = build_jpgrammar_note({
-    "Expression": "〜てしまう",
-    "Reading": "てしまう",
-    "Meaning": "to end up doing / to do completely",
-    "Pattern": "Verb-te + しまう",
-    "Connection": "て-form",
-    "ExpressionClean": "てしまう",
+    "Expression": "日本にいる<b>うちに</b>富士山に登ってみたい。",
+    "Reading": "にほんにいるうちにふじさんにのぼってみたい。",
+    "Construction": "うちに",
+    "Meaning": "Пока я в Японии, хочу подняться на Фудзи.",
+    "PatternForm": "[отриц. форма гл.] + うちに",
+    "PatternMeaning": "сделай, пока состояние не изменилось",
+    "Connection": "食べるうちに / 見ているうちに / 溶けないうちに",
 })
 
 # EN Vocab — fields: Word, Transcription, POS, Meaning, ExampleEN, ExampleRU
@@ -112,11 +114,12 @@ fields = build_envocab_note({
     "ExampleRU": "Смартфоны сегодня повсеместны.",
 })
 
-# EN Grammar/Collocations — fields: Pattern, Meaning, Example, Register
+# EN Grammar/Collocations — fields: Pattern, Meaning, Example, ExampleRU, Register
 fields = build_engrammar_note({
     "Pattern": "on the other hand",
     "Meaning": "с другой стороны",
-    "Example": "Example sentence.",
+    "Example": "On the other hand, the new plan costs more.",
+    "ExampleRU": "С другой стороны, новый план стоит дороже.",
     "Register": "formal",
 })
 

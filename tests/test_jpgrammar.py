@@ -14,7 +14,6 @@ def test_jp_grammar_notetype_loaded():
         "PatternForm",
         "PatternMeaning",
         "Connection",
-        "ExpressionClean",
     ]
     assert JP_GRAMMAR_NOTETYPE.css != ""
 
@@ -37,9 +36,8 @@ def test_build_note_and_round_trip(tmp_path: Path):
             "<ruby>見<rt>み</rt></ruby>ている (длительная форма) → 見ているうちに<br>"
             "<ruby>溶<rt>と</rt></ruby>けない (отриц. форма) → 溶けないうちに"
         ),
-        "ExpressionClean": "日本にいるうちに富士山に登ってみたい。",
     })
-    assert len(fields) == 8
+    assert len(fields) == 7
 
     out_path = tmp_path / "grammar_test.apkg"
     build_apkg([fields], deck_name="N3 Grammar", out_path=out_path, notetype=JP_GRAMMAR_NOTETYPE)

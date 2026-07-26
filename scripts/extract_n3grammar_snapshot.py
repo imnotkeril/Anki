@@ -8,6 +8,8 @@ OUT_PATH = Path(__file__).parent.parent / "src" / "jpvocab" / "notetype_jpgramma
 # (Construction, PatternForm, PatternMeaning) that don't exist in the real deck at all.
 # So the field list is hardcoded here to match what the new template needs, while the
 # CSS shell is still pulled from Core2k6k exactly as before.
+# ExpressionClean is dropped: it's not referenced by qfmt/afmt since the front-card
+# redesign, so it was dead weight in the schema.
 FIELDS = [
     "Expression",
     "Reading",
@@ -16,7 +18,6 @@ FIELDS = [
     "PatternForm",
     "PatternMeaning",
     "Connection",
-    "ExpressionClean",
 ]
 
 CORE_SNAPSHOT_PATH = Path(__file__).parent.parent / "src" / "jpvocab" / "notetype_snapshot.json"

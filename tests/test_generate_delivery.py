@@ -82,7 +82,6 @@ def _read_expressions(apkg_path: Path) -> set[str]:
     return {row[0].split("\x1f")[0] for row in cur.fetchall()}
 
 
-# append to tests/test_generate_delivery.py
 from jpvocab.engrammar import EN_GRAMMAR_NOTETYPE, build_note as build_engrammar_note
 
 @patch("jpvocab.generate.ankiconnect.add_notes")
@@ -130,7 +129,6 @@ def test_build_deck_works_for_non_core_notetype(tmp_path):
     assert result.out_path.exists()
 
 
-# append to tests/test_generate_delivery.py
 from jpvocab.jpgrammar import JP_GRAMMAR_NOTETYPE
 
 @patch("jpvocab.generate.ankiconnect.add_notes")
@@ -144,7 +142,7 @@ def test_quick_add_creates_missing_model(mock_create_deck, mock_find, mock_creat
     mock_add.return_value = [1]
 
     quick_add(
-        [["expr", "reading", "meaning", "pattern", "connection", "clean"]],
+        [["expr", "reading", "construction", "meaning", "pattern_form", "pattern_meaning", "connection"]],
         field_names=JP_GRAMMAR_NOTETYPE.fields,
         deck_name=JP_GRAMMAR_NOTETYPE.deck_name,
         model_name=JP_GRAMMAR_NOTETYPE.notetype_name,
@@ -168,7 +166,7 @@ def test_quick_add_skips_model_creation_if_already_exists(mock_create_deck, mock
     mock_add.return_value = [1]
 
     quick_add(
-        [["expr", "reading", "meaning", "pattern", "connection", "clean"]],
+        [["expr", "reading", "construction", "meaning", "pattern_form", "pattern_meaning", "connection"]],
         field_names=JP_GRAMMAR_NOTETYPE.fields,
         deck_name=JP_GRAMMAR_NOTETYPE.deck_name,
         model_name=JP_GRAMMAR_NOTETYPE.notetype_name,
@@ -177,3 +175,21 @@ def test_quick_add_skips_model_creation_if_already_exists(mock_create_deck, mock
     )
 
     mock_create_model.assert_not_called()
+
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_dedups_within_same_batch(mock_create, mock_find, mock_add):
+    mock_find.return_value = []
+    mock_add.return_value = [1]
+
+    report = quick_add(
+        [["それ", "that"], ["それ", "duplicate in same batch"]],
+        field_names=["Expression", "Meaning"],
+    )
+
+    assert report.added_count == 1
+    assert report.skipped_duplicates == ["それ"]
+    added_fields = mock_add.call_args.kwargs["notes_fields"]
+    assert added_fields == [["それ", "that"]]

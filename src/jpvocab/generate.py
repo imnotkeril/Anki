@@ -128,17 +128,26 @@ def quick_add(
     notetype: NotetypeSnapshot | None = None,
 ) -> QuickAddReport:
     expression_index = field_names.index(dedup_field)
+    escaped_deck_name = deck_name.replace('"', '\\"')
+    escaped_dedup_field = dedup_field.replace('"', '\\"')
 
     to_add = []
     skipped = []
+    seen_in_batch: set[str] = set()
     for fields in notes_fields:
         expression = fields[expression_index]
+        if expression in seen_in_batch:
+            skipped.append(expression)
+            continue
         escaped_expression = expression.replace('"', '\\"')
-        existing = ankiconnect.find_notes(f'deck:"{deck_name}" {dedup_field}:"{escaped_expression}"')
+        existing = ankiconnect.find_notes(
+            f'deck:"{escaped_deck_name}" {escaped_dedup_field}:"{escaped_expression}"'
+        )
         if existing:
             skipped.append(expression)
         else:
             to_add.append(fields)
+            seen_in_batch.add(expression)
 
     if dry_run:
         return QuickAddReport(
