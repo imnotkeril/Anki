@@ -3,8 +3,11 @@ from pathlib import Path
 
 from beartype import beartype
 
+from jpvocab import ankiconnect
 from jpvocab.assembler import assemble_note
 from jpvocab.dictionary import lookup_word
+from jpvocab.genanki_adapter import build_apkg
+from jpvocab.notetype import CORE_NOTETYPE
 from jpvocab.pitch import render_pitch_svg
 from jpvocab.pitch_lookup import PitchLookup
 from jpvocab.tatoeba import TatoebaLookup
@@ -94,3 +97,80 @@ def finalize_draft(
         sentence_kana=final_sentence_kana,
         sentence_english=final_sentence_english,
     )
+
+
+@dataclass
+class QuickAddReport:
+    added_count: int
+    skipped_duplicates: list[str]
+    added_note_ids: list[int | None]
+    dry_run_preview: list[list[str]] | None = None
+
+
+@beartype
+def quick_add(
+    notes_fields: list[list[str]],
+    field_names: list[str],
+    deck_name: str = CORE_NOTETYPE.deck_name,
+    dry_run: bool = False,
+) -> QuickAddReport:
+    expression_index = field_names.index("Expression")
+
+    to_add = []
+    skipped = []
+    for fields in notes_fields:
+        expression = fields[expression_index]
+        existing = ankiconnect.find_notes(f'deck:"{deck_name}" Expression:{expression}')
+        if existing:
+            skipped.append(expression)
+        else:
+            to_add.append(fields)
+
+    if dry_run:
+        return QuickAddReport(
+            added_count=len(to_add),
+            skipped_duplicates=skipped,
+            added_note_ids=[],
+            dry_run_preview=to_add,
+        )
+
+    ankiconnect.create_deck(deck_name)
+    added_ids: list[int | None] = []
+    if to_add:
+        added_ids = ankiconnect.add_notes(
+            deck_name=deck_name,
+            model_name=CORE_NOTETYPE.notetype_name,
+            field_names=field_names,
+            notes_fields=to_add,
+        )
+
+    return QuickAddReport(
+        added_count=len(to_add), skipped_duplicates=skipped, added_note_ids=added_ids
+    )
+
+
+@dataclass
+class BuildDeckReport:
+    out_path: Path
+    skipped_duplicates: list[str]
+
+
+@beartype
+def build_deck(
+    notes_fields: list[list[str]],
+    deck_name: str,
+    out_path: Path,
+    existing_words: set[str],
+    expression_index: int = 0,
+) -> BuildDeckReport:
+    to_add = []
+    skipped = []
+    for fields in notes_fields:
+        expression = fields[expression_index]
+        if expression in existing_words:
+            skipped.append(expression)
+        else:
+            to_add.append(fields)
+
+    build_apkg(to_add, deck_name=deck_name, out_path=out_path)
+    return BuildDeckReport(out_path=out_path, skipped_duplicates=skipped)
