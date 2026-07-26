@@ -34,7 +34,7 @@ def main() -> None:
     core_css = json.loads(CORE_SNAPSHOT_PATH.read_text(encoding="utf-8"))["css"]
     css = core_css + FG_SUBTLE_DEFINITION
 
-    qfmt = "<div class=\"card\"><div class=\"cardClr\">{{ExpressionClean}}</div></div>"
+    qfmt = "<div class=\"card\"><div class=\"cardClr\">{{Expression}}<hr>{{Construction}}</div></div>"
     afmt = (
         "<div class=\"card\">"
         "<div class=\"cardClr\">{{Expression}}</div>"

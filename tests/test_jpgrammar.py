@@ -19,6 +19,11 @@ def test_jp_grammar_notetype_loaded():
     assert JP_GRAMMAR_NOTETYPE.css != ""
 
 
+def test_jp_grammar_qfmt_shows_construction_inline():
+    qfmt = JP_GRAMMAR_NOTETYPE.templates[0].qfmt
+    assert "{{Expression}}" in qfmt and "{{Construction}}" in qfmt
+
+
 def test_build_note_and_round_trip(tmp_path: Path):
     fields = build_note({
         "Expression": "日本にいる<b>うちに</b>富士山に登ってみたい。",

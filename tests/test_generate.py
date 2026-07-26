@@ -1,4 +1,4 @@
-from jpvocab.generate import draft_words, finalize_draft, WordDraft
+from jpvocab.generate import _bold_first_occurrence, draft_words, finalize_draft, WordDraft
 
 
 def test_draft_known_word_has_no_gaps():
@@ -46,6 +46,30 @@ def test_finalize_fills_gaps_and_assembles_fields():
     assert fields[1] == "an unclear term (example)"
     assert "不明語" in fields[2]
     assert fields[4] == "これは<b>不明語</b>です。"
+
+
+def test_bold_first_occurrence_wraps_unbolded_expression():
+    assert _bold_first_occurrence("彼は推しについて語った。", "推し") == "彼は<b>推し</b>について語った。"
+
+
+def test_bold_first_occurrence_leaves_already_bolded_text_alone():
+    text = "彼は<b>推し</b>について語った。"
+    assert _bold_first_occurrence(text, "推し") == text
+
+
+def test_bold_first_occurrence_leaves_text_without_expression_alone():
+    assert _bold_first_occurrence("何もない文章。", "推し") == "何もない文章。"
+
+
+def test_finalize_draft_auto_bolds_sentence():
+    draft = WordDraft(
+        expression="推し", reading="おし", meaning="fan",
+        pitch_svg=None, sentence="彼は推しについて語った。",
+        sentence_kana=None, sentence_english="He talked about his favorite.",
+        source={},
+    )
+    fields = finalize_draft(draft)
+    assert fields[4] == "彼は<b>推し</b>について語った。"
 
 
 def test_finalize_draft_explicit_override_wins_over_dictionary_hit():

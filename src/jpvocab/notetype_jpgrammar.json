@@ -13,7 +13,7 @@
   "templates": [
     {
       "name": "Card 1",
-      "qfmt": "<div class=\"card\"><div class=\"cardClr\">{{ExpressionClean}}</div></div>",
+      "qfmt": "<div class=\"card\"><div class=\"cardClr\">{{Expression}}<hr>{{Construction}}</div></div>",
       "afmt": "<div class=\"card\"><div class=\"cardClr\">{{Expression}}</div><hr>{{Reading}}<hr><b style=\"font-size:1.3em\">{{Construction}}</b><hr>{{Meaning}}<hr><span style=\"color:var(--fg-subtle)\">Конструкция:</span> {{PatternForm}}<br><span style=\"color:var(--fg-subtle)\">Значение:</span> {{PatternMeaning}}<hr><span style=\"color:var(--fg-subtle)\">Примеры:</span><br>{{Connection}}</div>"
     }
   ],

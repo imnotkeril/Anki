@@ -66,6 +66,13 @@ def draft_words(words: list[str]) -> list[WordDraft]:
     return drafts
 
 
+def _bold_first_occurrence(text: str, target: str) -> str:
+    if not text or not target or target not in text or "<b>" in text:
+        return text
+    idx = text.index(target)
+    return text[:idx] + f"<b>{target}</b>" + text[idx + len(target):]
+
+
 @beartype
 def finalize_draft(
     draft: WordDraft,
@@ -87,6 +94,7 @@ def finalize_draft(
     else:
         reading_field = ""
     final_sentence = sentence or draft.sentence or ""
+    final_sentence = _bold_first_occurrence(final_sentence, draft.expression)
     final_sentence_kana = sentence_kana or draft.sentence_kana or ""
     final_sentence_english = sentence_english or draft.sentence_english or ""
 
