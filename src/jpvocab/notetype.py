@@ -19,9 +19,9 @@ class NotetypeSnapshot:
     deck_name: str
 
 
-def _load() -> NotetypeSnapshot:
-    path = Path(__file__).parent / "notetype_snapshot.json"
-    data = json.loads(path.read_text(encoding="utf-8"))
+def load_notetype(json_path: Path) -> NotetypeSnapshot:
+    """Load a notetype snapshot from a JSON file at the given path."""
+    data = json.loads(json_path.read_text(encoding="utf-8"))
     return NotetypeSnapshot(
         notetype_name=data["notetype_name"],
         fields=data["fields"],
@@ -31,4 +31,4 @@ def _load() -> NotetypeSnapshot:
     )
 
 
-CORE_NOTETYPE = _load()
+CORE_NOTETYPE = load_notetype(Path(__file__).parent / "notetype_snapshot.json")

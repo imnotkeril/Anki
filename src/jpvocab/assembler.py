@@ -21,3 +21,10 @@ def assemble_note(
         sentence_english,
         "",  # Sentence Audio — left blank, filled locally via AwesomeTTS
     ]
+
+
+@beartype
+def assemble_fields(values: dict[str, str], field_order: list[str]) -> list[str]:
+    """Generic field assembler for any notetype: looks up each field name in
+    `field_order` inside `values`, defaulting to "" for anything not supplied."""
+    return [values.get(name, "") for name in field_order]

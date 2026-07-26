@@ -1,4 +1,4 @@
-from jpvocab.assembler import assemble_note
+from jpvocab.assembler import assemble_note, assemble_fields
 
 
 def test_assemble_note_field_order():
@@ -20,3 +20,11 @@ def test_assemble_note_field_order():
         "That's a really nice story.",
         "",
     ]
+
+
+def test_assemble_fields_in_order_with_missing_defaults_empty():
+    fields = assemble_fields(
+        values={"Pattern": "on the other hand", "Meaning": "с другой стороны"},
+        field_order=["Pattern", "Meaning", "Example", "Register"],
+    )
+    assert fields == ["on the other hand", "с другой стороны", "", ""]
