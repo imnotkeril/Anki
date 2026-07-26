@@ -1,0 +1,29 @@
+{
+  "TOEIC Formatted": {
+    "templates": {
+      "Card 1": {
+        "Front": "<div style=\"font-family: Arial; font-size: 22px; text-align: center; padding: 20px;\">{{Front}}</div>",
+        "Back": "<div style=\"font-family: Arial; font-size: 20px; text-align: center; padding: 20px;\">\n{{Front}}\n<br><br>\n{{Back}}\n</div>"
+      }
+    },
+    "css": ".card { font-family: Arial; }"
+  },
+  "N3 Grammar+": {
+    "templates": {
+      "Card 1": {
+        "Front": "<div class=\"expression\">{{ExpressionClean}}</div>",
+        "Back": "<div class=\"expression\">{{Expression}}</div><div class=\"meaning\">{{Meaning}}</div><div class=\"pattern\">{{Pattern}}</div><div class=\"connection\">{{Connection}}</div>"
+      }
+    },
+    "css": "\n.card {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 22px;\n    text-align: center;\n    color: #e8e8e8;\n    background-color: #2b2b2b;\n    padding: 20px 24px;\n    line-height: 1.7;\n}\n\nruby { font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif; ruby-align: center; }\nrt { font-size: 0.5em; color: #e8e8e8; }\n\n.expression {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 26px;\n    margin-bottom: 14px;\n    color: #e8e8e8;\n    display: block;\n}\n.expression b { font-weight: bold; color: #e8e8e8; }\n\n.meaning {\n    font-family: sans-serif;\n    font-size: 22px;\n    font-weight: bold;\n    color: #e8e8e8;\n    margin-bottom: 14px;\n    display: block;\n}\n\n.pattern {\n    font-family: sans-serif;\n    font-size: 14px;\n    color: #e8e8e8;\n    white-space: pre-line;\n    text-align: center;\n    display: block;\n    margin-bottom: 10px;\n}\n\n.connection {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 14px;\n    color: #e8e8e8;\n    white-space: pre-line;\n    text-align: center;\n    display: block;\n}\n"
+  },
+  "N2 Grammar v3": {
+    "templates": {
+      "N2 Card": {
+        "Front": "<div class=\"expression\">{{ExpressionClean}}</div>",
+        "Back": "<div class=\"expression\">{{Expression}}</div><div class=\"meaning\">{{Meaning}}</div><div class=\"pattern\">{{Pattern}}</div><div class=\"connection\">{{Connection}}</div>"
+      }
+    },
+    "css": "\n.card {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 22px;\n    text-align: center;\n    color: #e8e8e8;\n    background-color: #2b2b2b;\n    padding: 20px 24px;\n    line-height: 1.7;\n}\nruby { font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif; ruby-align: center; }\nrt { font-size: 0.5em; color: #e8e8e8; }\n.expression {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 26px;\n    margin-bottom: 14px;\n    color: #e8e8e8;\n    display: block;\n}\n.expression b { font-weight: bold; color: #e8e8e8; }\n.meaning {\n    font-family: sans-serif;\n    font-size: 22px;\n    font-weight: bold;\n    color: #e8e8e8;\n    margin-bottom: 14px;\n    display: block;\n}\n.pattern {\n    font-family: sans-serif;\n    font-size: 14px;\n    color: #e8e8e8;\n    white-space: pre-line;\n    text-align: center;\n    display: block;\n    margin-bottom: 10px;\n}\n.connection {\n    font-family: \"Hiragino Kaku Gothic Pro\", \"Noto Sans JP\", \"Meiryo\", \"MS PGothic\", sans-serif;\n    font-size: 14px;\n    color: #e8e8e8;\n    white-space: pre-line;\n    text-align: center;\n    display: block;\n}\n"
+  }
+}

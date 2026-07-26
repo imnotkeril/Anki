@@ -142,6 +142,68 @@ build_deck(
 )
 ```
 
+## Usage: TOEIC / N3 Grammar / N2 Grammar (live notetypes)
+
+These three notetypes are the user's own pre-existing, real Anki notetypes with real
+study data (`TOEIC Formatted`, `N3 Grammar+`, `N2 Grammar v3`) — restyled to match the
+Core2k6k visual shell but otherwise unchanged. Unlike JP Grammar/EN Vocab/EN Grammar
+above, there's no parallel jpvocab notetype for these: new notes are generated straight
+into the existing notetypes so old and new cards look and behave identically. Same
+`build_note`/`quick_add`/`build_deck` pattern as above:
+
+```python
+from pathlib import Path
+from jpvocab.toeic import TOEIC_NOTETYPE, build_note as build_toeic_note
+from jpvocab.n3grammar_live import N3_GRAMMAR_LIVE_NOTETYPE, build_note as build_n3grammar_note
+from jpvocab.n2grammar_live import N2_GRAMMAR_LIVE_NOTETYPE, build_note as build_n2grammar_note
+from jpvocab.generate import quick_add, build_deck
+
+# TOEIC Formatted — fields: Front, Back
+fields = build_toeic_note({
+    "Front": "meeting",
+    "Back": "встреча<br><br>The meeting was scheduled for Monday morning.<br>Встреча была запланирована на утро понедельника.",
+})
+
+# N3 Grammar+ — fields: Expression, Reading, Meaning, Pattern, Connection, ExpressionClean
+fields = build_n3grammar_note({
+    "Expression": "電車が<b>着いたばかり</b>だ。",
+    "Reading": "でんしゃが ついたばかりだ。",
+    "Meaning": "Поезд только что прибыл.",
+    "Pattern": "[гл. прош. вр.] + ばかり",
+    "Connection": "着いたばかり / 食べたばかり",
+    "ExpressionClean": "電車が着いたばかりだ。",
+})
+
+# N2 Grammar v3 — fields: Expression, ExpressionClean, Reading, Meaning, Pattern, Connection
+# (note the different field order from N3 Grammar+ above)
+fields = build_n2grammar_note({
+    "Expression": "彼は失敗<b>にもかかわらず</b>諦めなかった。",
+    "ExpressionClean": "彼は失敗にもかかわらず諦めなかった。",
+    "Reading": "かれは しっぱいにもかかわらず あきらめなかった。",
+    "Meaning": "Он не сдался, несмотря на неудачу.",
+    "Pattern": "[сущ./гл.] + にもかかわらず",
+    "Connection": "失敗にもかかわらず / 雨が降るにもかかわらず",
+})
+
+# Push to a running Anki:
+quick_add(
+    [fields],
+    field_names=N2_GRAMMAR_LIVE_NOTETYPE.fields,
+    deck_name=N2_GRAMMAR_LIVE_NOTETYPE.deck_name,
+    model_name=N2_GRAMMAR_LIVE_NOTETYPE.notetype_name,
+    dedup_field="Expression",
+)
+
+# ...or export an .apkg instead:
+build_deck(
+    [fields],
+    deck_name=N2_GRAMMAR_LIVE_NOTETYPE.deck_name,
+    out_path=Path("n2grammar_deck.apkg"),
+    existing_words=set(),
+    notetype=N2_GRAMMAR_LIVE_NOTETYPE,
+)
+```
+
 ## Project layout
 
 - `generate.py` — top-level delivery pipeline: `draft_words`/`finalize_draft` (JP vocab
@@ -150,6 +212,9 @@ build_deck(
   JSON file; `CORE_NOTETYPE` is the JP Vocab snapshot.
 - `jpgrammar.py`, `envocab.py`, `engrammar.py` — each defines its notetype snapshot and a
   `build_note(values: dict) -> list[str]` field assembler.
+- `toeic.py`, `n3grammar_live.py`, `n2grammar_live.py` — same `build_note` pattern, but
+  targeting the user's real, pre-existing `TOEIC Formatted`/`N3 Grammar+`/`N2 Grammar v3`
+  notetypes (extracted live from Anki, not authored from scratch like the three above).
 - `assembler.py` — turns raw values into an ordered field list (`assemble_note` for the
   fixed JP Vocab layout, `assemble_fields` as the generic by-name version used by the
   other three notetypes).
@@ -171,4 +236,7 @@ build_deck(
 `scripts/` holds the one-time data-fetch scripts (`fetch_pitch_data.py`,
 `fetch_tatoeba_data.py`, `build_tatoeba_pairs.py`) plus one-off snapshot extraction
 scripts (`extract_notetype_snapshot.py`, `extract_n3grammar_snapshot.py`) used to
-generate the `notetype_*.json` files from a real Anki collection.
+generate the `notetype_*.json` files from a real Anki collection, and
+`extract_live_notetype.py`, which pulls a notetype's fields/templates/CSS straight from
+a running Anki via AnkiConnect — for notetypes (TOEIC/N3/N2 grammar) that only exist
+live, with no clean `.apkg` to extract from.
