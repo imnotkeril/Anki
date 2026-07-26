@@ -1,5 +1,20 @@
 from beartype import beartype
 
+_YOON_MERGE_CHARS = set("ゃゅょぁぃぅぇぉ")
+
+
+@beartype
+def split_morae(reading: str) -> list[str]:
+    """Split a kana reading into morae. Small ya/yu/yo and small vowels merge into
+    the preceding kana (yōon digraphs = one mora); small tsu (sokuon) stays its own mora."""
+    morae: list[str] = []
+    for char in reading:
+        if char in _YOON_MERGE_CHARS and morae:
+            morae[-1] += char
+        else:
+            morae.append(char)
+    return morae
+
 
 def _dot_high(mora_index_from_1: int | None, accent: int) -> bool:
     """mora_index_from_1 is None for the trailing particle dot."""

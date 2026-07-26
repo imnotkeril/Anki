@@ -10,6 +10,11 @@ def test_draft_known_word_has_no_gaps():
     assert draft.meaning is not None
 
 
+def test_draft_always_flags_sentence_kana_gap():
+    drafts = draft_words(["それ"])
+    assert drafts[0].source["sentence_kana"] == "needs_llm"
+
+
 def test_draft_unknown_word_flags_gaps():
     drafts = draft_words(["ぞぞぞぞぞ存在しない単語です"])
     draft = drafts[0]

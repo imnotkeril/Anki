@@ -8,7 +8,7 @@ from jpvocab.assembler import assemble_note
 from jpvocab.dictionary import lookup_word
 from jpvocab.genanki_adapter import build_apkg
 from jpvocab.notetype import CORE_NOTETYPE
-from jpvocab.pitch import render_pitch_svg
+from jpvocab.pitch import render_pitch_svg, split_morae
 from jpvocab.pitch_lookup import PitchLookup
 from jpvocab.tatoeba import TatoebaLookup
 
@@ -42,13 +42,14 @@ def draft_words(words: list[str]) -> list[WordDraft]:
         if reading:
             accents = _pitch_lookup.get(expression, reading)
             if accents:
-                pitch_svg = render_pitch_svg(list(reading), accents[0])
+                pitch_svg = render_pitch_svg(split_morae(reading), accents[0])
         source["pitch"] = "kanjium" if pitch_svg else "missing"
 
         sentence_pair = _tatoeba_lookup.find(expression)
         sentence = sentence_pair.japanese if sentence_pair else None
         sentence_english = sentence_pair.english if sentence_pair else None
         source["sentence"] = "tatoeba" if sentence_pair else "needs_llm"
+        source["sentence_kana"] = "needs_llm"
 
         drafts.append(
             WordDraft(

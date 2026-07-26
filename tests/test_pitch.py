@@ -1,6 +1,18 @@
 import pytest
 
-from jpvocab.pitch import render_pitch_svg
+from jpvocab.pitch import render_pitch_svg, split_morae
+
+
+def test_split_morae_plain():
+    assert split_morae("それ") == ["そ", "れ"]
+
+
+def test_split_morae_yoon_digraph():
+    assert split_morae("きょうしつ") == ["きょ", "う", "し", "つ"]
+
+
+def test_split_morae_sokuon_stays_separate():
+    assert split_morae("みっつ") == ["み", "っ", "つ"]
 
 
 def test_heiban_sore():
