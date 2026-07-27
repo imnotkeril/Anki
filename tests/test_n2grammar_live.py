@@ -13,6 +13,9 @@ def test_n2_grammar_live_notetype_loaded():
         "Meaning",
         "Pattern",
         "Connection",
+        "Construction",
+        "PatternForm",
+        "PatternMeaning",
     ]
     assert N2_GRAMMAR_LIVE_NOTETYPE.css != ""
     assert N2_GRAMMAR_LIVE_NOTETYPE.deck_name == "Japanese Grammar::Shin Kanzen Master N2"
@@ -29,8 +32,11 @@ def test_build_note_and_round_trip(tmp_path: Path):
             "<ruby>失敗<rt>しっぱい</rt></ruby> (сущ.) → 失敗にもかかわらず<br>"
             "<ruby>雨<rt>あめ</rt></ruby>が降る (гл.) → 雨が降るにもかかわらず"
         ),
+        "Construction": "にもかかわらず",
+        "PatternForm": "[сущ./гл.] + にもかかわらず",
+        "PatternMeaning": "несмотря на",
     })
-    assert len(fields) == 6
+    assert len(fields) == 9
 
     out_path = tmp_path / "n2grammar_live_test.apkg"
     build_apkg(

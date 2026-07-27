@@ -13,6 +13,9 @@ def test_n3_grammar_live_notetype_loaded():
         "Pattern",
         "Connection",
         "ExpressionClean",
+        "Construction",
+        "PatternForm",
+        "PatternMeaning",
     ]
     assert N3_GRAMMAR_LIVE_NOTETYPE.css != ""
     assert N3_GRAMMAR_LIVE_NOTETYPE.deck_name == "Japanese Grammar::Shin Kanzen Master N3"
@@ -29,8 +32,11 @@ def test_build_note_and_round_trip(tmp_path: Path):
             "<ruby>食<rt>た</rt></ruby>べる (прош. вр.) → 食べたばかり"
         ),
         "ExpressionClean": "電車が着いたばかりだ。",
+        "Construction": "着いたばかり",
+        "PatternForm": "[гл. прош. вр.] + ばかり",
+        "PatternMeaning": "действие только что завершилось",
     })
-    assert len(fields) == 6
+    assert len(fields) == 9
 
     out_path = tmp_path / "n3grammar_live_test.apkg"
     build_apkg(
