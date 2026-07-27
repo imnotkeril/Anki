@@ -25,11 +25,21 @@ def extract_construction(expression: str) -> str:
     return m.group(1) if m else ""
 
 
+_LEADING_LABEL_RE = re.compile(r"^[^:：]{0,20}[:：]\s*")
+
+
+def _strip_leading_label(text: str) -> str:
+    """Strip a leading '{label}:' prefix (Паттерн:, 尊敬語:, 尊敬語 特別形:, 禁止:, ...) —
+    the template already renders its own 'Конструкция:' label, so keeping the
+    original prefix here would duplicate it (e.g. 'Конструкция: Паттерн:[...]')."""
+    return _LEADING_LABEL_RE.sub("", text, count=1)
+
+
 def split_pattern(pattern: str) -> tuple[str, str]:
     if "Значение:" in pattern:
         form, meaning = pattern.split("Значение:", 1)
-        return form.strip(), meaning.strip()
-    return pattern.strip(), ""
+        return _strip_leading_label(form.strip()), meaning.strip()
+    return _strip_leading_label(pattern.strip()), ""
 
 
 def build_updates(notes: list[dict]) -> tuple[list[dict], list[int]]:
