@@ -58,6 +58,7 @@ def main() -> None:
 
         if args.apply:
             invoke("updateNoteFields", note={"id": c["noteId"], "fields": fields})
+            invoke("addTags", notes=[c["noteId"]], tags="skm-migrated")
             print(f"pushed {expression} ({c['noteId']})")
         else:
             print(f"=== {expression} ({c['noteId']}) ===")
