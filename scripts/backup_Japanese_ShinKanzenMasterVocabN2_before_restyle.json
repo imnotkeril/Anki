@@ -1,0 +1,9 @@
+{
+  "templates": {
+    "Recognition": {
+      "Front": "<div class=\"center\">\n  <span style=\"font-family: irohamaru mikami; font-size: 50px;\">{{Expression}}</span>\n</div>",
+      "Back": "<div class=\"card-content center\">\n  <span style=\"font-size: 50px;\">{{furigana:Reading}}</span>\n\n  <hr id=\"answer\" class=\"separator\" />\n\n  <div class=\"left\">\n    <span style=\"font-size: 30px;\">{{furigana:Meaning}}</span>\n  </div>\n\n  <hr id=\"answer\" class=\"separator\" />\n\n  <div class=\"left\">\n    <span style=\"font-size: 30px;\">{{furigana:Notes}}</span>\n  </div>\n\n  <div class=\"card-tags-container\">\n    <div class=\"bottom\">{{Tags}}</div>\n  </div>\n</div>"
+    }
+  },
+  "css": "@font-face {\n    font-family: irohamaru mikami; \n    src: url('_irohamaru mikami.ttf');\n}\n\n.card-content {\n    display: flex;\n    flex-wrap: wrap;\n    flex-direction: column;\n    font-family: irohamaru mikami;\n}\n\n.card-tags-container {\n    margin-top: auto;\n    align-self: flex-start;\n    background-color: #f5f5f5;\n}\n\n.separator {\n    border: 0;\n    height: 1px;\n    background-color: #ccc;\n    width: 100%;\n    margin: 16px 0;\n}\n\n.center {\n    text-align: center;\n}\n\n.bottom {\n    font-size: 12px;\n    text-align: left;\n    padding: 4px;\n    overflow: hidden;\n}\n\n.left {\n    text-align: left;\n}\n\n.card.nightMode .card-tags-container {\n    background-color: #333;\n}"
+}

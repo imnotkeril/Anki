@@ -1,0 +1,722 @@
+[
+  {
+    "expression": "愛",
+    "reading_plain": "あい",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">い</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "愛してる。",
+    "tatoeba_english": "I love you.",
+    "noteId": 1619291929878,
+    "meaning_en": "love"
+  },
+  {
+    "expression": "相手",
+    "reading_plain": "あいて",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">て</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "遊び相手がなくて孤独だった。",
+    "tatoeba_english": "I was lonely, with nobody to play with.",
+    "noteId": 1619291953704,
+    "meaning_en": "partner, rival, the other person"
+  },
+  {
+    "expression": "アイデア",
+    "reading_plain": "アイデア",
+    "pitch_svg": null,
+    "tatoeba_japanese": "良いアイデアが思いついた。",
+    "tatoeba_english": "I had a good idea.",
+    "noteId": 1619291968719,
+    "meaning_en": "idea"
+  },
+  {
+    "expression": "アイロン",
+    "reading_plain": "アイロン",
+    "pitch_svg": null,
+    "tatoeba_japanese": "妹にブラウスのアイロン掛けをさせた。",
+    "tatoeba_english": "She had her blouse ironed by her sister.",
+    "noteId": 1619291978325,
+    "meaning_en": "iron"
+  },
+  {
+    "expression": "遭う",
+    "reading_plain": "あう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">う</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "猛吹雪に遭うまでは順調に進んだ。",
+    "tatoeba_english": "We made good time until we ran into a blizzard.",
+    "noteId": 1619291987800,
+    "meaning_en": "to sustain, to suffer"
+  },
+  {
+    "expression": "あきらめる",
+    "reading_plain": "あきらめる",
+    "pitch_svg": null,
+    "tatoeba_japanese": "妹にあきらめるように説得してもだめだった。",
+    "tatoeba_english": "It was no good persuading my sister to give up.",
+    "noteId": 1619291999843,
+    "meaning_en": "to give up, to abandon"
+  },
+  {
+    "expression": "飽きる",
+    "reading_plain": "あきる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">き</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "ただ、毎日だとさすがに飽きるだろう。もっと料理のバリエーションを増やさないと。",
+    "tatoeba_english": "It's just if we have it every day we're bound to get fed up with it. I must increase the variety of my cooking.",
+    "noteId": 1619292008335,
+    "meaning_en": "to get bored with, to tire of"
+  },
+  {
+    "expression": "あくび",
+    "reading_plain": "あくび",
+    "pitch_svg": null,
+    "tatoeba_japanese": "眠い時や退屈な時にはあくびが出る。",
+    "tatoeba_english": "We yawn when sleepy or bored.",
+    "noteId": 1619292016224,
+    "meaning_en": "yawn, yawning"
+  },
+  {
+    "expression": "明ける",
+    "reading_plain": "あける",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">け</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "夜が明ける。",
+    "tatoeba_english": "Day breaks.",
+    "noteId": 1619292028029,
+    "meaning_en": "to end"
+  },
+  {
+    "expression": "揚げる",
+    "reading_plain": "あげる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">げ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "得手に帆を揚げる。",
+    "tatoeba_english": "Hoist your sail when the wind is fair.",
+    "noteId": 1619292057262,
+    "meaning_en": "to fry"
+  },
+  {
+    "expression": "挙げる",
+    "reading_plain": "あげる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">げ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "「冬のソナタ」を例に挙げるまでもなく、いまや時ならぬ韓流ブームである。",
+    "tatoeba_english": "You don't need to bring up \"A Winter Sonata\" to show that South Korean culture is having an unexpected boom in Japan.",
+    "noteId": 1619292065265,
+    "meaning_en": "to hold, to arrange"
+  },
+  {
+    "expression": "預ける",
+    "reading_plain": "あずける",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ず</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">け</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼にそのような大金を預けるな。",
+    "tatoeba_english": "Don't trust him with such a large sum of money.",
+    "noteId": 1619292106696,
+    "meaning_en": "to deposit"
+  },
+  {
+    "expression": "汗",
+    "reading_plain": "あせ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">せ</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "脇の下に汗をかいた。",
+    "tatoeba_english": "I perspired under the arms.",
+    "noteId": 1619292115581,
+    "meaning_en": "sweat"
+  },
+  {
+    "expression": "与える",
+    "reading_plain": "あたえる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">え</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "指導部の交代は、国際政治経済に重要な影響を与える。",
+    "tatoeba_english": "Changes of leadership have a great effect on the international political economy.",
+    "noteId": 1619292125951,
+    "meaning_en": "to have, to exert (influence), to provide (nutrition); to give"
+  },
+  {
+    "expression": "温める",
+    "reading_plain": "あたためる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 207 75\" width=\"207px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">め</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"145\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 156,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "お粥も作ってきました。チンして温めるだけですから。",
+    "tatoeba_english": "I also brought some gruel I made. It just needs warming up.",
+    "noteId": 1619292134417,
+    "meaning_en": "to warm up"
+  },
+  {
+    "expression": "当たり前",
+    "reading_plain": "あたりまえ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 207 75\" width=\"207px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">り</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">ま</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"145\" y=\"67.5\">え</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 156,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "「親父これって・・・真剣？」「当たり前だろう、決闘なのだからな」",
+    "tatoeba_english": "\"Dad, this a real sword?\" \"Of course, it is a duel after all.\"",
+    "noteId": 1619292152972,
+    "meaning_en": "as a matter of course, goes without saying"
+  },
+  {
+    "expression": "当たる",
+    "reading_plain": "あたる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "誰しもがぶち当たるダイエットの壁。",
+    "tatoeba_english": "Everyone hits a wall when dieting.",
+    "noteId": 1619292170986,
+    "meaning_en": "to catch (the sun), to hit; to get it right, to be accurate"
+  },
+  {
+    "expression": "扱う",
+    "reading_plain": "あつかう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">つ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">か</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "近年では人間心理の謎を扱うサイコホラーも人気である。",
+    "tatoeba_english": "Psycho-horror films dealing with the mysteries of human psychology are popular these days.",
+    "noteId": 1619292178236,
+    "meaning_en": "to handle, to treat"
+  },
+  {
+    "expression": "アドバイス",
+    "reading_plain": "アドバイス",
+    "pitch_svg": null,
+    "tatoeba_japanese": "彼は私によいアドバイスを一つしてくれた。",
+    "tatoeba_english": "He gave me a good piece of advice.",
+    "noteId": 1619292290695,
+    "meaning_en": "する：to advise"
+  },
+  {
+    "expression": "アニメ",
+    "reading_plain": "アニメ",
+    "pitch_svg": null,
+    "tatoeba_japanese": "さてさて、みなさんは舞姫というアニメを知っているでしょうか？",
+    "tatoeba_english": "Well then, does everybody know the anime called Mai Hime?",
+    "noteId": 1619292313117,
+    "meaning_en": "anime"
+  },
+  {
+    "expression": "油",
+    "reading_plain": "あぶら",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ぶ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ら</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "自然な状態の髪の毛には、油分が含まれています。",
+    "tatoeba_english": "There is oil in hair in its natural state.",
+    "noteId": 1619292327812,
+    "meaning_en": "oil, grease"
+  },
+  {
+    "expression": "あふれる",
+    "reading_plain": "あふれる",
+    "pitch_svg": null,
+    "tatoeba_japanese": "彼女の愛情あふれる手紙に感動した。",
+    "tatoeba_english": "Her affectionate letter moved me.",
+    "noteId": 1619292335924,
+    "meaning_en": "to flood, to overflow"
+  },
+  {
+    "expression": "余る",
+    "reading_plain": "あまる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ま</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "仕事が忙しすぎるのも考えものだけど、時間が余るのもなぁ。",
+    "tatoeba_english": "Being too busy with work is a problem, but then so is having too much free time.",
+    "noteId": 1619292344015,
+    "meaning_en": "to be left over, to be in excess"
+  },
+  {
+    "expression": "怪しい",
+    "reading_plain": "あやしい",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">や</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">し</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "今年もいくつか怪しいグッズを見つけたので、それらをまとめて紹介しよう。",
+    "tatoeba_english": "This year again I found a number of dodgy goods so I'll introduce them all here.",
+    "noteId": 1619292359264,
+    "meaning_en": "suspicious, fishy"
+  },
+  {
+    "expression": "誤り",
+    "reading_plain": "あやまり",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">や</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ま</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">り</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "失礼だが、上記の記事にある３つの誤りを指摘しておきたい。",
+    "tatoeba_english": "Excuse me; allow me to point out three errors in the above article.",
+    "noteId": 1619292367424,
+    "meaning_en": "error, mistake"
+  },
+  {
+    "expression": "アラーム",
+    "reading_plain": "アラーム",
+    "pitch_svg": null,
+    "tatoeba_japanese": null,
+    "tatoeba_english": null,
+    "noteId": 1619292374407,
+    "meaning_en": "alarm"
+  },
+  {
+    "expression": "嵐",
+    "reading_plain": "あらし",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ら</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">し</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "吹き荒れる嵐の予感に、僕らはこぞって震えあがった。",
+    "tatoeba_english": "At this hint of the violent storm to come we shuddered as one.",
+    "noteId": 1619292381525,
+    "meaning_en": "storm"
+  },
+  {
+    "expression": "争う",
+    "reading_plain": "あらそう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ら</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">そ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "試合は終始一点を争うシーソーゲームだった。",
+    "tatoeba_english": "The game was one point back and forth the whole game.",
+    "noteId": 1619292390181,
+    "meaning_en": "to contest, to vie"
+  },
+  {
+    "expression": "合わせる",
+    "reading_plain": "あわせる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">わ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">せ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "東北・秋田新幹線が運転を見合わせるなど交通も混乱した。",
+    "tatoeba_english": "Traffic was also disrupted including the suspension of the Akita, Tohoku bullet train.",
+    "noteId": 1619292404815,
+    "meaning_en": "to match, to go well with; to put hands together (in prayer); to synchronise (time)"
+  },
+  {
+    "expression": "慌てる",
+    "reading_plain": "あわてる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">わ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">て</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "ですから、玲子。アンタは慌てることはありません。",
+    "tatoeba_english": "And so, Reiko, it's nothing for you to panic about.",
+    "noteId": 1619292412817,
+    "meaning_en": "to be flustered; to do something in a flustered way"
+  },
+  {
+    "expression": "案外",
+    "reading_plain": "あんがい",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">が</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">い</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "案外、この本は読みやすいね。",
+    "tatoeba_english": "This book is surprisingly easy to read, isn't it?",
+    "noteId": 1619292422208,
+    "meaning_en": "unexpectedly"
+  },
+  {
+    "expression": "暗記",
+    "reading_plain": "あんき",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">き</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "来週までにその詩を暗記しなさい。",
+    "tatoeba_english": "Memorize the poem by next week.",
+    "noteId": 1619292437867,
+    "meaning_en": "memorisation"
+  },
+  {
+    "expression": "安定",
+    "reading_plain": "あんてい",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">あ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">て</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "肌がヒリつくどころか、使う前より肌が安定してるんです。",
+    "tatoeba_english": "Far from irritating my skin it was better than before I used it.",
+    "noteId": 1619292464686,
+    "meaning_en": "stability"
+  },
+  {
+    "expression": "胃",
+    "reading_plain": "い",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 67 75\" width=\"67px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "ストレスが胃の粘膜を荒らす原因のひとつは次のように考えられています。",
+    "tatoeba_english": "The following is thought to be one of the reasons stress damages the stomach's mucous membrane.",
+    "noteId": 1619292474973,
+    "meaning_en": "stomach"
+  },
+  {
+    "expression": "医学部",
+    "reading_plain": "いがくぶ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">が</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">く</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">ぶ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼は医学部の教授だ。",
+    "tatoeba_english": "He is a professor of the medical department.",
+    "noteId": 1619292486964,
+    "meaning_en": "department of medicine"
+  },
+  {
+    "expression": "息",
+    "reading_plain": "いき",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">き</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "小学５年の息子が静岡から名古屋の小学校に転入しました。",
+    "tatoeba_english": "My fifth-year junior school son has transferred into a school in Nagoya from Shizuoka.",
+    "noteId": 1619292494984,
+    "meaning_en": "breathing, breath"
+  },
+  {
+    "expression": "行き先",
+    "reading_plain": "いきさき",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">き</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">さ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">き</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "郵便局では、郵便は、行き先に応じて分類される。",
+    "tatoeba_english": "In the post office, mail is classified according to the place where it is to go.",
+    "noteId": 1619292515736,
+    "meaning_en": "destination"
+  },
+  {
+    "expression": "生き物",
+    "reading_plain": "いきもの",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">き</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">も</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">の</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "王を得た麒麟もまた寿命を持たない生き物だが、この病ばかりは治癒の方法がない。",
+    "tatoeba_english": "A qilin with a king too has no limit on its lifespan, but this illness alone admits of no remedy.",
+    "noteId": 1619292529787,
+    "meaning_en": "creature"
+  },
+  {
+    "expression": "いくら",
+    "reading_plain": "いくら",
+    "pitch_svg": null,
+    "tatoeba_japanese": "上司がいくら立派なことを言っても、部下は、見るところはちゃんと見ている。",
+    "tatoeba_english": "However fine the words of the management, those working for them see what is to be seen.",
+    "noteId": 1619292536434,
+    "meaning_en": "however much, however many"
+  },
+  {
+    "expression": "～以後",
+    "reading_plain": "いご",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ご</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "夜１０時以後に人に電話するには避けるべきだ。",
+    "tatoeba_english": "You should avoid calling a person after ten at night.",
+    "noteId": 1619292551592,
+    "meaning_en": "after ～"
+  },
+  {
+    "expression": "意志",
+    "reading_plain": "いし",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">し</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "これらはどちらも“意志未来”と呼ばれるもので、主語の意図が含まれています。",
+    "tatoeba_english": "These are both called \"future volitional\" and include the intent of the subject.",
+    "noteId": 1619292576932,
+    "meaning_en": "will, volition"
+  },
+  {
+    "expression": "医師",
+    "reading_plain": "いし",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">し</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "シンガポールの医師は殆どの場合皆お互いを知っている、というのが日本と異なります。",
+    "tatoeba_english": "What's different from Japan is that the doctors of Singapore generally all know each other.",
+    "noteId": 1619292589560,
+    "meaning_en": "doctor"
+  },
+  {
+    "expression": "いじめる",
+    "reading_plain": "いじめる",
+    "pitch_svg": null,
+    "tatoeba_japanese": "基本はアスカがシンジをいじめる。で、たまにキレたシンジがアスカを襲う。その時のアスカはやけにしおらしい。",
+    "tatoeba_english": "The key is that Asuka abuses Shinji. So, rarely, Shinji flips and assaults Asuka. Then Asuka is surprisingly meek.",
+    "noteId": 1619292656195,
+    "meaning_en": "to bully, to mistreat"
+  },
+  {
+    "expression": "異常",
+    "reading_plain": "いじょう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">じょ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "そうです、異常音は空冷ファンの最後の断末魔だったのです。",
+    "tatoeba_english": "That's right, that strange sound was the final death scream of the cooling fan.",
+    "noteId": 1619292669499,
+    "meaning_en": "abnormality"
+  },
+  {
+    "expression": "意地悪な",
+    "reading_plain": "いじわるな",
+    "pitch_svg": null,
+    "tatoeba_japanese": "彼女の意地悪な言葉は結局自分の身に跳ね返ってきた。",
+    "tatoeba_english": "Her unkind words boomeranged.",
+    "noteId": 1619293084819,
+    "meaning_en": "spiteful, ill-natured; spite"
+  },
+  {
+    "expression": "イスラム教",
+    "reading_plain": "イスラムきょう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 242 75\" width=\"242px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">イ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ス</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ラ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">ム</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"145\" y=\"67.5\">きょ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"180\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 156,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 191,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"226\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"226\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "私たちの友達の中には、セルビア人もいるし、クロアチア人もいるし、イスラム教徒もいるのよ。",
+    "tatoeba_english": "Among our friends, there are Serbs and Croats and Muslims.",
+    "noteId": 1619293099395,
+    "meaning_en": "Islam"
+  },
+  {
+    "expression": "～以前",
+    "reading_plain": "いぜん",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ぜ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ん</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "「以前にどこかで会ったことがありませんか」とその学生はたずねた。",
+    "tatoeba_english": "\"Haven't we met somewhere before?\" asked the student.",
+    "noteId": 1619293165869,
+    "meaning_en": "before ～"
+  },
+  {
+    "expression": "痛み",
+    "reading_plain": "いたみ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">み</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "薬を飲み始めると、すぐに痛みなどの症状はとれてきますが、すぐに潰瘍がなおるわけではありません。",
+    "tatoeba_english": "When you start taking medicine it begins working on symptoms, like pain, right away, but that doesn't mean that the ulcer heals right away.",
+    "noteId": 1619293182883,
+    "meaning_en": "pain"
+  },
+  {
+    "expression": "一度に",
+    "reading_plain": "いちどに",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ち</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ど</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">に</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "両方一度にはできんよ。",
+    "tatoeba_english": "You can't have your cake and eat it too.",
+    "noteId": 1619293194103,
+    "meaning_en": "at once, simultaneously"
+  },
+  {
+    "expression": "一部",
+    "reading_plain": "いちぶ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ち</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ぶ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "消息筋によると、○○社は東証一部への上場を準備している。",
+    "tatoeba_english": "According to informed sources, ____ Ltd. is preparing for the move up to the first section of the Tokyo Stock exchange.",
+    "noteId": 1619293206548,
+    "meaning_en": "some of"
+  },
+  {
+    "expression": "一流",
+    "reading_plain": "いちりゅう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ち</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">りゅ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼女はなかなかやるようだが、一流じゃないね。",
+    "tatoeba_english": "She's pretty good at it, but she lacks class.",
+    "noteId": 1619293226923,
+    "meaning_en": "first-rate, top ranking"
+  },
+  {
+    "expression": "一致",
+    "reading_plain": "いっち",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">っ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ち</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "言葉と行動は一致すべきものだが、実行は難しい。",
+    "tatoeba_english": "Your words are supposed to correspond to your actions, but that is not easy to put into practice.",
+    "noteId": 1619293343026,
+    "meaning_en": "consistency, agreement"
+  },
+  {
+    "expression": "移動",
+    "reading_plain": "いどう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ど</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "これから火葬場へ移動しますので、小川様と君は車へ。",
+    "tatoeba_english": "We are now going to move to the crematorium so if Mr. Ogawa and you would enter the car ...",
+    "noteId": 1619293587280,
+    "meaning_en": "する：to move"
+  },
+  {
+    "expression": "いとこ",
+    "reading_plain": "いとこ",
+    "pitch_svg": null,
+    "tatoeba_japanese": "この公園の西側に近いところは、道路の騒音も大きいが、奥にはいるともう聞こえない。",
+    "tatoeba_english": "Near the west side of the park there's a lot of noise from the road, but when you go into the park you can't hear it any more.",
+    "noteId": 1619293599265,
+    "meaning_en": "cousin"
+  },
+  {
+    "expression": "居眠り",
+    "reading_plain": "いねむり",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ね</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">む</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">り</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "先の時間に居眠りした分も合わせて、今度の試験はどうも一筋縄ではいかない感じが漂っている。",
+    "tatoeba_english": "Taking into account the time I'd just spent napping, I'm really picking up the sense that this time's exam really won't be straight forward.",
+    "noteId": 1619293619802,
+    "meaning_en": "nap"
+  },
+  {
+    "expression": "命",
+    "reading_plain": "いのち",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">の</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ち</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "１００万人の人々がその戦争で命を落とした。",
+    "tatoeba_english": "One million people lost their lives in the war.",
+    "noteId": 1619293705832,
+    "meaning_en": "life"
+  },
+  {
+    "expression": "違反",
+    "reading_plain": "いはん",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">は</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ん</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "小泉首相が「憲法違反だから靖国神社参拝しちゃいかんという人がいます」と語った。",
+    "tatoeba_english": "Prime Minister Koizumi said, \"There are people who say that, because it's unconstitutional, I should not pray at the Yasukuni Shrine\".",
+    "noteId": 1619293730875,
+    "meaning_en": "breach, violation"
+  },
+  {
+    "expression": "イベント",
+    "reading_plain": "イベント",
+    "pitch_svg": null,
+    "tatoeba_japanese": "同様に振る舞う他のイベントでも結構です。",
+    "tatoeba_english": "Another event that has the same behaviour would also be fine.",
+    "noteId": 1619293739824,
+    "meaning_en": "(one-time) event, function"
+  },
+  {
+    "expression": "今にも",
+    "reading_plain": "いまにも",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ま</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">に</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">も</text><path d=\"m 16,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "雷が今にも落ちてきそうだ。",
+    "tatoeba_english": "A thunderbolt is likely to fall any minute.",
+    "noteId": 1619293956918,
+    "meaning_en": "at any moment, imminently"
+  },
+  {
+    "expression": "イメージ",
+    "reading_plain": "イメージ",
+    "pitch_svg": null,
+    "tatoeba_japanese": "６００００キリリクイラスト：キリ番を踏んだBeikyuさんのサイト「小さなカエデの木のそばで」のイメージイラストを描いてほしいというリクエストを頂きました。",
+    "tatoeba_english": "60,000 lucky number request: I got a request to draw an illustration for the site of Beikyu, who hit the lucky number, \"Standing By A Little Maple Tree\".",
+    "noteId": 1619293968131,
+    "meaning_en": "image"
+  },
+  {
+    "expression": "いよいよ",
+    "reading_plain": "いよいよ",
+    "pitch_svg": null,
+    "tatoeba_japanese": "いよいよ今週を限りに、しばらくのお休みです。",
+    "tatoeba_english": "I've finally got some vacation coming as of the end of this week.",
+    "noteId": 1619293974999,
+    "meaning_en": "at last, finally"
+  },
+  {
+    "expression": "いらいら",
+    "reading_plain": "いらいら",
+    "pitch_svg": null,
+    "tatoeba_japanese": "君は僕にとてもいらいらしている。",
+    "tatoeba_english": "You're so impatient with me.",
+    "noteId": 1619293987306,
+    "meaning_en": "する：to express state of annoyance [frustration]"
+  },
+  {
+    "expression": "祝う",
+    "reading_plain": "いわう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">わ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼女はいとこのために誕生日を祝う食事を計画した。",
+    "tatoeba_english": "She planned a birthday dinner for her cousin.",
+    "noteId": 1619293994237,
+    "meaning_en": "to celebrate"
+  },
+  {
+    "expression": "印刷",
+    "reading_plain": "いんさつ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">さ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">つ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "同一差出人から同一受取人に宛てて郵袋という、文字通り袋に印刷物を入れて郵送します。",
+    "tatoeba_english": "A mailbag from a single sender addressed to one recipient, as the name suggests, is for delivering a bag of printed matter.",
+    "noteId": 1619294010300,
+    "meaning_en": "printing"
+  },
+  {
+    "expression": "印象",
+    "reading_plain": "いんしょう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">しょ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "おもちゃコンサルタントの方々が甲斐甲斐しく働く姿がとても印象的でした。",
+    "tatoeba_english": "Seeing the briskly working toy consultants also left a strong impression.",
+    "noteId": 1619294076063,
+    "meaning_en": "impression"
+  },
+  {
+    "expression": "インターネット",
+    "reading_plain": "インターネット",
+    "pitch_svg": null,
+    "tatoeba_japanese": "教育産業に関する情報を掲載したインターネットサイトには以下のようなものがあります。",
+    "tatoeba_english": "Among the Internet sites that publish information on education related businesses are those given below.",
+    "noteId": 1619294087479,
+    "meaning_en": "the Internet"
+  },
+  {
+    "expression": "引退",
+    "reading_plain": "いんたい",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ん</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">い</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "引退するつもりは毛頭ない。",
+    "tatoeba_english": "I have no intention whatever of resigning.",
+    "noteId": 1619294158448,
+    "meaning_en": "retirement"
+  },
+  {
+    "expression": "インテリア",
+    "reading_plain": "インテリア",
+    "pitch_svg": null,
+    "tatoeba_japanese": "彼女はインテリア・デザインの仕事をしていきたいと考えている。",
+    "tatoeba_english": "She is pursuing her career in interior design.",
+    "noteId": 1619294168019,
+    "meaning_en": "interior (design)"
+  },
+  {
+    "expression": "ウール",
+    "reading_plain": "ウール",
+    "pitch_svg": null,
+    "tatoeba_japanese": "彼女はウールの服を着ていた。",
+    "tatoeba_english": "She was clothed in wool.",
+    "noteId": 1619294174930,
+    "meaning_en": "wool"
+  },
+  {
+    "expression": "ウェブサイト",
+    "reading_plain": "ウェブサイト",
+    "pitch_svg": null,
+    "tatoeba_japanese": "ウェブサイトのタグラインは、その企業が何を行っていて、競合他社とどこが違うのかがわかるようなものでなくてはならない。",
+    "tatoeba_english": "The website's tagline has to let people know what that business does and how it differs from the competition.",
+    "noteId": 1619294187881,
+    "meaning_en": "website"
+  },
+  {
+    "expression": "植える",
+    "reading_plain": "うえる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">え</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "母は庭に花を植えるのに忙しい。",
+    "tatoeba_english": "My mother is busy planting flowers in the garden.",
+    "noteId": 1619294199914,
+    "meaning_en": "to plant"
+  },
+  {
+    "expression": "浮かぶ",
+    "reading_plain": "うかぶ",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 137 75\" width=\"137px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">か</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">ぶ</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "メモには、水に浮かぶ練習をさせるように、と殴り書きされていた。",
+    "tatoeba_english": "On the memo was scrawled, \"have her practice floating in the water.\"",
+    "noteId": 1619294207471,
+    "meaning_en": "to float"
+  },
+  {
+    "expression": "うきうき",
+    "reading_plain": "うきうき",
+    "pitch_svg": null,
+    "tatoeba_japanese": "寒さの後の暖かさで我々はうきうきした。",
+    "tatoeba_english": "The warmth after the chills intoxicated us.",
+    "noteId": 1619294219557,
+    "meaning_en": "する：to express state of cheerfulness, light-heartedness"
+  },
+  {
+    "expression": "浮く",
+    "reading_plain": "うく",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">く</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "油は水に浮く性質がある。",
+    "tatoeba_english": "Oil floats on water.",
+    "noteId": 1619294331162,
+    "meaning_en": "to float"
+  },
+  {
+    "expression": "受け入れる",
+    "reading_plain": "うけいれる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 207 75\" width=\"207px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">け</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">い</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">れ</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"145\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 156,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"191\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼女は両親以外なら、誰の批判でも受け入れる。",
+    "tatoeba_english": "She accepts criticism from anyone but her parents.",
+    "noteId": 1619294346455,
+    "meaning_en": "to accept"
+  },
+  {
+    "expression": "受け取る",
+    "reading_plain": "うけとる",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">け</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">と</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">る</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "田中さんのミスを僕がフォローするんだから、労働に見合った報酬を受け取るのは当然だ。",
+    "tatoeba_english": "I'm patching things up after Tanaka's mistake so it's only natural that I get a reward appropriate to my labours.",
+    "noteId": 1619294565688,
+    "meaning_en": "to receive"
+  },
+  {
+    "expression": "動かす",
+    "reading_plain": "うごかす",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">ご</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">か</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">す</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,30 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"30\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "下手に手を動かすと気付かれてしまうという強迫観念が俺を襲う。",
+    "tatoeba_english": "I was assailed by the stupid, but unshakeable, idea that if I was imprudent enough to move my hand I'd be noticed.",
+    "noteId": 1619294573456,
+    "meaning_en": "to move, to shift"
+  },
+  {
+    "expression": "牛",
+    "reading_plain": "うし",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 102 75\" width=\"102px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">し</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "私なんぞには野牛と鹿と馬とを描き分けることなど到底出来ない。",
+    "tatoeba_english": "Me? I can't even begin to draw buffalo, deer and horses so you can tell them apart.",
+    "noteId": 1619294705468,
+    "meaning_en": "cow, bovine"
+  },
+  {
+    "expression": "失う",
+    "reading_plain": "うしなう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">し</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">な</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "友を永遠に失うくらいならばその友達のことを我慢しなさい。",
+    "tatoeba_english": "Have patience with a friend rather than lose him forever.",
+    "noteId": 1619294712617,
+    "meaning_en": "to lose"
+  },
+  {
+    "expression": "疑う",
+    "reading_plain": "うたがう",
+    "pitch_svg": "<svg class=\"pitch\" height=\"75px\" viewbox=\"0 0 172 75\" width=\"172px\"><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"5\" y=\"67.5\">う</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"40\" y=\"67.5\">た</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"75\" y=\"67.5\">が</text><text style=\"font-size:20px;font-family:sans-serif;fill:#000;\" x=\"110\" y=\"67.5\">う</text><path d=\"m 16,30 35,-25\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 51,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 86,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><path d=\"m 121,5 35,0\" style=\"fill:none;stroke:#000;stroke-width:1.5;\"></path><circle cx=\"16\" cy=\"30\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"51\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"86\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"121\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"5\" style=\"opacity:1;fill:#000;\"></circle><circle cx=\"156\" cy=\"5\" r=\"3.25\" style=\"opacity:1;fill:#fff;\"></circle></svg>",
+    "tatoeba_japanese": "彼女の美しさに関しては、疑う余地がない。",
+    "tatoeba_english": "There is no doubt as to her beauty.",
+    "noteId": 1619294719832,
+    "meaning_en": "to doubt, to suspect"
+  }
+]
