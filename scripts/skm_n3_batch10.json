@@ -1,0 +1,423 @@
+[
+  {
+    "expression": "国語",
+    "sentence_jp": "国語のテストがある。",
+    "sentence_kana": "こくごのテストがある。",
+    "meaning_ru": "японский язык (как предмет), родной язык",
+    "sentence_ru": "Будет тест по (японскому) языку.",
+    "note": "Tatoeba match was about 中国語 (Chinese), a false positive substring match, replaced",
+    "noteId": 1619301649865
+  },
+  {
+    "expression": "国際線",
+    "sentence_jp": "国際線は3番ゲートです。",
+    "sentence_kana": "こくさいせんはさんばんゲートです。",
+    "meaning_ru": "международный рейс",
+    "sentence_ru": "Международный рейс — у выхода №3.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619301671551
+  },
+  {
+    "expression": "国内線",
+    "sentence_jp": null,
+    "sentence_kana": "わたしのちちはこくないせんのパイロットです。",
+    "meaning_ru": "внутренний рейс",
+    "sentence_ru": "Мой отец — пилот внутренних рейсов.",
+    "noteId": 1619301684105
+  },
+  {
+    "expression": "国民",
+    "sentence_jp": null,
+    "sentence_kana": "そのようなときにげるしかかんがえていないにほんこくみんはなさけない。",
+    "meaning_ru": "народ, граждане",
+    "sentence_ru": "Жалко, что японские граждане в такие моменты думают только о бегстве.",
+    "noteId": 1619301694513
+  },
+  {
+    "expression": "国立",
+    "sentence_jp": null,
+    "sentence_kana": "ろうじんのためのこくりつのびょういんがもっとあってしかるべきだ。",
+    "meaning_ru": "государственный (об учреждении)",
+    "sentence_ru": "Должно быть больше государственных больниц для пожилых людей.",
+    "noteId": 1619301703176
+  },
+  {
+    "expression": "腰",
+    "sentence_jp": null,
+    "sentence_kana": "こしのいたみからあしがなまりのようにおもくひきずるようにあるいていました。",
+    "meaning_ru": "поясница, талия",
+    "sentence_ru": "Из-за боли в пояснице я шёл(шла), волоча ноги, тяжёлые как свинец.",
+    "noteId": 1619301710375
+  },
+  {
+    "expression": "個数",
+    "sentence_jp": "商品の個数を数える。",
+    "sentence_kana": "しょうひんのこすうをかぞえる。",
+    "meaning_ru": "количество (штук)",
+    "sentence_ru": "Считать количество товаров.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619301723703
+  },
+  {
+    "expression": "ごちゃごちゃ",
+    "sentence_jp": "部屋がごちゃごちゃしている。",
+    "sentence_kana": "へやがごちゃごちゃしている。",
+    "meaning_ru": "беспорядок, мешанина",
+    "sentence_ru": "В комнате беспорядок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619301735870
+  },
+  {
+    "expression": "骨折",
+    "sentence_jp": null,
+    "sentence_kana": "スキーをしたら、あしをこっせつしたんだ。",
+    "meaning_ru": "перелом кости",
+    "sentence_ru": "Катаясь на лыжах, я сломал(а) ногу.",
+    "noteId": 1619301749923
+  },
+  {
+    "expression": "こっそり",
+    "sentence_jp": null,
+    "sentence_kana": "ゆうしょくご、おとうさんはジョージをこっそりとよびだした。",
+    "meaning_ru": "тайком, украдкой",
+    "sentence_ru": "После ужина отец тайком позвал Джорджа.",
+    "noteId": 1619301756301
+  },
+  {
+    "expression": "～毎",
+    "sentence_jp": null,
+    "sentence_kana": "まいゆう、ほうかごにぼくたちはかれのいえのうらにわであって、インディアンせんそうごっこをした。",
+    "meaning_ru": "каждый (суффикс)",
+    "sentence_ru": "Каждый вечер после уроков мы встречались у него на заднем дворе и играли в «войну с индейцами».",
+    "noteId": 1619301772732
+  },
+  {
+    "expression": "子供っぽい",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはかのじょのふるまいをこどもっぽいとかんがえた。",
+    "meaning_ru": "детский, ребяческий",
+    "sentence_ru": "Они сочли её поведение ребяческим.",
+    "noteId": 1619301787291
+  },
+  {
+    "expression": "断る",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはかれのプロポーズをことわるほかなかった。",
+    "meaning_ru": "отказывать(ся)",
+    "sentence_ru": "Ей не оставалось ничего, кроме как отказать ему в предложении.",
+    "noteId": 1619301795164
+  },
+  {
+    "expression": "この頃",
+    "sentence_jp": "この頃、忙しい。",
+    "sentence_kana": "このごろ、いそがしい。",
+    "meaning_ru": "в последнее время",
+    "sentence_ru": "В последнее время я занят(а).",
+    "note": "Tatoeba match was overly long/general, replaced",
+    "noteId": 1619301808633
+  },
+  {
+    "expression": "好む",
+    "sentence_jp": null,
+    "sentence_kana": "ふこうはなかまをこのむ。",
+    "meaning_ru": "любить, предпочитать",
+    "sentence_ru": "Беда любит компанию.",
+    "noteId": 1619301815978
+  },
+  {
+    "expression": "コメント",
+    "sentence_jp": null,
+    "sentence_kana": "えいごのコミュニティでおなまえとコメントをはいけんし、プロフィールをはいどくしました。",
+    "meaning_ru": "комментарий",
+    "sentence_ru": "Я увидел(а) ваше имя и комментарий в англоязычном сообществе и прочитал(а) профиль.",
+    "noteId": 1619301825644
+  },
+  {
+    "expression": "ごろごろ",
+    "sentence_jp": null,
+    "sentence_kana": "かみなりがいまにもおちそうなはげしいおとでごろごろとなった。",
+    "meaning_ru": "грохотать (о громе); валяться без дела",
+    "sentence_ru": "Гром грохотал так сильно, будто вот-вот ударит молния.",
+    "noteId": 1619301836568
+  },
+  {
+    "expression": "殺す",
+    "sentence_jp": "彼は虫を殺すのが嫌いだ。",
+    "sentence_kana": "かれはむしをころすのがきらいだ。",
+    "meaning_ru": "убивать",
+    "sentence_ru": "Он не любит убивать насекомых.",
+    "note": "Tatoeba match used the set phrase 自殺する (to commit suicide), replaced to show plain transitive 殺す",
+    "noteId": 1619301844374
+  },
+  {
+    "expression": "転ぶ",
+    "sentence_jp": null,
+    "sentence_kana": "かれはすべって、すんでのところでころぶところだった。",
+    "meaning_ru": "падать, спотыкаться",
+    "sentence_ru": "Он поскользнулся и чуть было не упал.",
+    "noteId": 1619301850414
+  },
+  {
+    "expression": "今回",
+    "sentence_jp": null,
+    "sentence_kana": "こんかい、まだりょうがえしていなかったので、にほんえんをじんみんげんにかえるひつようがあった。",
+    "meaning_ru": "в этот раз",
+    "sentence_ru": "В этот раз я ещё не поменял(а) деньги, поэтому нужно было обменять японские иены на юани.",
+    "noteId": 1619301859768
+  },
+  {
+    "expression": "コンクール",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはそのコンクールにさんかした。",
+    "meaning_ru": "конкурс",
+    "sentence_ru": "Я участвовал(а) в этом конкурсе.",
+    "noteId": 1619301867352
+  },
+  {
+    "expression": "混雑",
+    "sentence_jp": null,
+    "sentence_kana": "ろうかはたいへんこんざつしていたのであるけなかった。",
+    "meaning_ru": "затор, скопление людей",
+    "sentence_ru": "В коридоре была такая толкучка, что невозможно было пройти.",
+    "noteId": 1619301881037
+  },
+  {
+    "expression": "混乱",
+    "sentence_jp": null,
+    "sentence_kana": "とうほく・あきたしんかんせんがうんてんをみあわせるなど こうつうもこんらんした。",
+    "meaning_ru": "путаница, хаос",
+    "sentence_ru": "Движение поездов Тохоку и Акита Синкансэн было приостановлено, транспорт тоже пришёл в хаос.",
+    "noteId": 1619301892403
+  },
+  {
+    "expression": "～差",
+    "sentence_jp": "二つの意見には大きな差がある。",
+    "sentence_kana": "ふたつのいけんにはおおきなさがある。",
+    "meaning_ru": "разница (в чём-л., суффикс)",
+    "sentence_ru": "Между двумя мнениями большая разница.",
+    "note": "Tatoeba match used the specific term 偏差値 (deviation score), replaced with a plainer example",
+    "noteId": 1619301904443
+  },
+  {
+    "expression": "サークル",
+    "sentence_jp": "大学のサークルに入った。",
+    "sentence_kana": "だいがくのサークルにはいった。",
+    "meaning_ru": "кружок, клуб по интересам",
+    "sentence_ru": "Я вступил(а) в университетский кружок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619301913497
+  },
+  {
+    "expression": "サービス",
+    "sentence_jp": "このホテルはサービスがいい。",
+    "sentence_kana": "このホテルはサービスがいい。",
+    "meaning_ru": "сервис, обслуживание",
+    "sentence_ru": "В этом отеле хороший сервис.",
+    "note": "Tatoeba match was bureaucratic (care-insurance jargon), replaced",
+    "noteId": 1619301925110
+  },
+  {
+    "expression": "最高",
+    "sentence_jp": "今日は最高の一日だった。",
+    "sentence_kana": "きょうはさいこうのいちにちだった。",
+    "meaning_ru": "высший, наилучший",
+    "sentence_ru": "Сегодня был лучший день.",
+    "note": "Tatoeba match was a complex political statement, replaced",
+    "noteId": 1619301934915
+  },
+  {
+    "expression": "最終",
+    "sentence_jp": null,
+    "sentence_kana": "ようきゅうどおりにさいしゅうほうこくしょをていしゅつします。",
+    "meaning_ru": "последний, финальный",
+    "sentence_ru": "Я подам итоговый отчёт согласно требованиям.",
+    "noteId": 1619301945553
+  },
+  {
+    "expression": "最小",
+    "sentence_jp": "コストを最小限に抑える。",
+    "sentence_kana": "コストをさいしょうげんにおさえる。",
+    "meaning_ru": "минимальный",
+    "sentence_ru": "Свести затраты к минимуму.",
+    "note": "Tatoeba match was marketing copy, replaced",
+    "noteId": 1619301957016
+  },
+  {
+    "expression": "最新",
+    "sentence_jp": "最新の携帯電話を買った。",
+    "sentence_kana": "さいしんのけいたいでんわをかった。",
+    "meaning_ru": "новейший, последний (о версии)",
+    "sentence_ru": "Я купил(а) новейший мобильный телефон.",
+    "note": "Tatoeba match was proper-noun-heavy software release news, replaced",
+    "noteId": 1619301966906
+  },
+  {
+    "expression": "サイズ",
+    "sentence_jp": null,
+    "sentence_kana": "とっかんさぎょうだったから、サイズがあわないかもしれません。",
+    "meaning_ru": "размер",
+    "sentence_ru": "Работа была в спешке, так что размер может не подойти.",
+    "noteId": 1619302003527
+  },
+  {
+    "expression": "再生",
+    "sentence_jp": "動画を再生する。",
+    "sentence_kana": "どうがをさいせいする。",
+    "meaning_ru": "воспроизведение",
+    "sentence_ru": "Воспроизвести видео.",
+    "note": "Tatoeba match was overly technical (error message), replaced",
+    "noteId": 1619302024318
+  },
+  {
+    "expression": "最大",
+    "sentence_jp": "最大の問題は費用だ。",
+    "sentence_kana": "さいだいのもんだいはひようだ。",
+    "meaning_ru": "максимальный",
+    "sentence_ru": "Самая большая проблема — стоимость.",
+    "note": "Tatoeba match was a complex political statement, replaced",
+    "noteId": 1619302036453
+  },
+  {
+    "expression": "最低",
+    "sentence_jp": "彼のマナーは最低だ。",
+    "sentence_kana": "かれのマナーはさいていだ。",
+    "meaning_ru": "минимальный, худший",
+    "sentence_ru": "У него ужасные манеры.",
+    "note": "Tatoeba match was crude/casual, replaced",
+    "noteId": 1619302043058
+  },
+  {
+    "expression": "才能",
+    "sentence_jp": null,
+    "sentence_kana": "かれはじょうじかれのさいのうをねたむひとびとからちゅうしょうされることにうんざりしていた。",
+    "meaning_ru": "талант",
+    "sentence_ru": "Ему надоело, что его постоянно оговаривают люди, завидующие его таланту.",
+    "noteId": 1619302059908
+  },
+  {
+    "expression": "材料",
+    "sentence_jp": null,
+    "sentence_kana": "せきゆがかがくせいひんのざいりょうとしてもちいられるようになったのはごくさいきんのことである。",
+    "meaning_ru": "материалы, ингредиенты",
+    "sentence_ru": "Использование нефти как сырья для химической продукции — довольно недавнее явление.",
+    "noteId": 1619302069249
+  },
+  {
+    "expression": "作業",
+    "sentence_jp": null,
+    "sentence_kana": "じっしせっけいとはきほんせっけいできまったけいかくを、こうじができるずめんにかくさぎょうです。",
+    "meaning_ru": "работа, операция (техническая)",
+    "sentence_ru": "Рабочее проектирование — это работа по переносу плана, определённого базовым проектом, в чертежи, пригодные для строительства.",
+    "noteId": 1619302081889
+  },
+  {
+    "expression": "昨年",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはさくねんぶたいをさった。",
+    "meaning_ru": "в прошлом году",
+    "sentence_ru": "В прошлом году она ушла со сцены.",
+    "noteId": 1619302090578
+  },
+  {
+    "expression": "作品",
+    "sentence_jp": "この作品は素晴らしい。",
+    "sentence_kana": "このさくひんはすばらしい。",
+    "meaning_ru": "произведение, работа (творческая)",
+    "sentence_ru": "Это произведение прекрасно.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619302099580
+  },
+  {
+    "expression": "叫ぶ",
+    "sentence_jp": null,
+    "sentence_kana": "れつをうえにしたにあるきまわるとき、「ホットドッグはいかが。ホットドッグはいかが」とさけぶ。",
+    "meaning_ru": "кричать",
+    "sentence_ru": "Расхаживая вдоль рядов, он кричал: «Не желаете хот-дог? Не желаете хот-дог?»",
+    "noteId": 1619302108568
+  },
+  {
+    "expression": "刺す",
+    "sentence_jp": "蚊が私を刺した。",
+    "sentence_kana": "かがわたしをさした。",
+    "meaning_ru": "жалить, колоть",
+    "sentence_ru": "Комар меня укусил.",
+    "note": "Tatoeba match used the idiom 釘を刺す (to give a warning), replaced to match the card's 'to bite' sense",
+    "noteId": 1619302117448
+  },
+  {
+    "expression": "指す",
+    "sentence_jp": null,
+    "sentence_kana": "ひとをさすのはしつれいです。",
+    "meaning_ru": "указывать",
+    "sentence_ru": "Указывать на человека (пальцем) невежливо.",
+    "noteId": 1619302123739
+  },
+  {
+    "expression": "誘う",
+    "sentence_jp": "友達を映画に誘った。",
+    "sentence_kana": "ともだちをえいがにさそった。",
+    "meaning_ru": "приглашать",
+    "sentence_ru": "Я пригласил(а) друга в кино.",
+    "note": "Tatoeba match used the sense 'to evoke/induce' (哀れを誘う), replaced to match the card's 'to invite' sense",
+    "noteId": 1619302139329
+  },
+  {
+    "expression": "作家",
+    "sentence_jp": "彼女は有名な作家だ。",
+    "sentence_kana": "かのじょはゆうめいなさっかだ。",
+    "meaning_ru": "писатель, автор",
+    "sentence_ru": "Она известная писательница.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619302149843
+  },
+  {
+    "expression": "さっき",
+    "sentence_jp": "さっき、彼に会った。",
+    "sentence_kana": "さっき、かれにあった。",
+    "meaning_ru": "только что, недавно",
+    "sentence_ru": "Я только что встретил(а) его.",
+    "note": "Tatoeba match was rude/casual, replaced",
+    "noteId": 1619302164408
+  },
+  {
+    "expression": "早速",
+    "sentence_jp": "早速取り掛かります。",
+    "sentence_kana": "さっそくとりかかります。",
+    "meaning_ru": "немедленно, сразу же",
+    "sentence_ru": "Немедленно приступаю.",
+    "note": "Tatoeba match had a negative/complex context, replaced",
+    "noteId": 1619302176655
+  },
+  {
+    "expression": "さっぱり",
+    "sentence_jp": null,
+    "sentence_kana": "ばんごうをきれいさっぱりわすれてしまった。",
+    "meaning_ru": "освежающе; совершенно (не)",
+    "sentence_ru": "Я совершенно забыл(а) номер.",
+    "noteId": 1619302190850
+  },
+  {
+    "expression": "砂漠",
+    "sentence_jp": null,
+    "sentence_kana": "ゆうやみがさばくをつつんだ。",
+    "meaning_ru": "пустыня",
+    "sentence_ru": "Вечерняя тьма окутала пустыню.",
+    "noteId": 1619302205259
+  },
+  {
+    "expression": "覚める",
+    "sentence_jp": null,
+    "sentence_kana": "めざめると、みなれないへやにいた。",
+    "meaning_ru": "просыпаться",
+    "sentence_ru": "Проснувшись, я оказался(лась) в незнакомой комнате.",
+    "noteId": 1619302211764
+  },
+  {
+    "expression": "冷める",
+    "sentence_jp": null,
+    "sentence_kana": "あいがさめると、けってんがおおくめにつくてくる。",
+    "meaning_ru": "остывать",
+    "sentence_ru": "Когда любовь остывает, начинаешь замечать много недостатков.",
+    "noteId": 1619302220386
+  }
+]
