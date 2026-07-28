@@ -1,0 +1,416 @@
+[
+  {
+    "expression": "活気",
+    "sentence_jp": null,
+    "sentence_kana": "ふけいきなかのきかんがすぎると、しょうばいはかっきづいた。",
+    "meaning_ru": "живость, оживление",
+    "sentence_ru": "Когда прошёл период спада, торговля оживилась.",
+    "noteId": 1618733282663
+  },
+  {
+    "expression": "担ぐ",
+    "sentence_jp": null,
+    "sentence_kana": "おれはかぞくぜんいんにみおくられながら、たびじたくをととのえたザックをかつぐ。",
+    "meaning_ru": "нести на плечах",
+    "sentence_ru": "Провожаемый всей семьёй, я взваливаю на плечи собранный в дорогу рюкзак.",
+    "noteId": 1618733294306
+  },
+  {
+    "expression": "勝手",
+    "sentence_jp": null,
+    "sentence_kana": "かってにすいしつけんさをおこなったあげくじょうすいきをうりつけるなど、あくしつなほうもんはんばいがたはつしています。",
+    "meaning_ru": "своевольный, самовольный",
+    "sentence_ru": "Участились случаи недобросовестных продаж на дому: под предлогом «проверки воды», проведённой без разрешения, впаривают фильтры.",
+    "noteId": 1618733319246
+  },
+  {
+    "expression": "かつて",
+    "sentence_jp": null,
+    "sentence_kana": "かつてはロードローラーはうまがひいていたが、じょうききかんのはつめいにより、スチームローラーがあらわれた。",
+    "meaning_ru": "когда-то, прежде",
+    "sentence_ru": "Раньше дорожный каток тянули лошади, но с изобретением паровой машины появился паровой каток.",
+    "noteId": 1618733328662
+  },
+  {
+    "expression": "～活動",
+    "sentence_jp": null,
+    "sentence_kana": "このドクロマークはじゅうななせいきこうはんにイギリスでかつどうしたせかいてきにゆうめいなかいぞくキャプテン・キッドにちなんでつけられた。",
+    "meaning_ru": "деятельность (суффикс)",
+    "sentence_ru": "Этот череп со скрещёнными костями назван в честь всемирно известного пирата капитана Кидда, действовавшего в Англии во второй половине 17 века.",
+    "noteId": 1618733354599
+  },
+  {
+    "expression": "活発",
+    "sentence_jp": null,
+    "sentence_kana": "あしたからつゆぜんせんがかっぱつになります。",
+    "meaning_ru": "активный, оживлённый",
+    "sentence_ru": "С завтрашнего дня фронт сезона дождей активизируется.",
+    "noteId": 1618733366641
+  },
+  {
+    "expression": "活躍",
+    "sentence_jp": null,
+    "sentence_kana": "きぎょうけいえいでかつやくするためにひつようとなるのがおおくのなかまとしごとをすいこうするためのきょうちょうせいしんです。",
+    "meaning_ru": "активная деятельность, успех",
+    "sentence_ru": "Для успешной работы в управлении компанией необходим дух сотрудничества с товарищами.",
+    "noteId": 1618733379351
+  },
+  {
+    "expression": "活用法",
+    "sentence_jp": "このアプリの活用法を教えて。",
+    "sentence_kana": "このアプリのかつようほうをおしえて。",
+    "meaning_ru": "способ использования",
+    "sentence_ru": "Расскажи, как использовать это приложение.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733487730
+  },
+  {
+    "expression": "悲しみ",
+    "sentence_jp": null,
+    "sentence_kana": "こいはかなしみにみちたやまいであり、あらゆるちりょうをもくすりをもうけつけない。",
+    "meaning_ru": "печаль",
+    "sentence_ru": "Любовь — это болезнь, полная печали, которая не поддаётся никакому лечению и лекарствам.",
+    "noteId": 1618733526939
+  },
+  {
+    "expression": "悲しむ",
+    "sentence_jp": null,
+    "sentence_kana": "かなしむことなんてないでしょう。",
+    "meaning_ru": "печалиться",
+    "sentence_ru": "Не о чем грустить, правда?",
+    "noteId": 1618733542724
+  },
+  {
+    "expression": "必ずしも",
+    "sentence_jp": null,
+    "sentence_kana": "りょうしょとあくしょをみわけるのはかならずしもようういではない。",
+    "meaning_ru": "не всегда, не обязательно",
+    "sentence_ru": "Отличить хорошую книгу от плохой не всегда легко.",
+    "noteId": 1618733560992
+  },
+  {
+    "expression": "加熱",
+    "sentence_jp": null,
+    "sentence_kana": "みずはじゅうぶんにかねつするとふっとうする。",
+    "meaning_ru": "нагревание",
+    "sentence_ru": "Вода закипает при достаточном нагревании.",
+    "noteId": 1618733574990
+  },
+  {
+    "expression": "金遣い",
+    "sentence_jp": "彼は金遣いが荒い。",
+    "sentence_kana": "かれはかねづかいがあらい。",
+    "meaning_ru": "манера тратить деньги",
+    "sentence_ru": "Он транжирит деньги.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733634410
+  },
+  {
+    "expression": "かび",
+    "sentence_jp": "パンにかびが生えた。",
+    "sentence_kana": "パンにかびがはえた。",
+    "meaning_ru": "плесень",
+    "sentence_ru": "На хлебе появилась плесень.",
+    "note": "Tatoeba match used the unrelated verb 浮かび上がる, replaced",
+    "noteId": 1618733645732
+  },
+  {
+    "expression": "株",
+    "sentence_jp": null,
+    "sentence_kana": "みむら・やすゆきし（みむら・やすゆき＝コニチカかぶしきがいしゃとりしまりやく）みっか、しんふぜんでしきょ。よんじゅうごさい。",
+    "meaning_ru": "акция",
+    "sentence_ru": "Господин Ясуюки Мимура (директор акционерного общества «Конитика») скончался 3-го числа от сердечной недостаточности. 45 лет.",
+    "noteId": 1618733758944
+  },
+  {
+    "expression": "株式",
+    "sentence_jp": null,
+    "sentence_kana": "みむら・やすゆきし（みむら・やすゆき＝コニチカかぶしきがいしゃとりしまりやく）みっか、しんふぜんでしきょ。よんじゅうごさい。",
+    "meaning_ru": "акции компании",
+    "sentence_ru": "Господин Ясуюки Мимура (директор акционерного общества «Конитика») скончался 3-го числа от сердечной недостаточности. 45 лет.",
+    "noteId": 1618733799374
+  },
+  {
+    "expression": "花粉",
+    "sentence_jp": null,
+    "sentence_kana": "かふんよりもちいさなこうさをマスクでどれだけふせぐことができるのか？かふんよりもずっとやっかいもののようにおもいます。",
+    "meaning_ru": "пыльца",
+    "sentence_ru": "Насколько маска может защитить от жёлтой пыли, которая мельче пыльцы? Мне кажется, это гораздо большая проблема.",
+    "noteId": 1618734213625
+  },
+  {
+    "expression": "構う",
+    "sentence_jp": "誰も私に構わない。",
+    "sentence_kana": "だれもわたしにかまわない。",
+    "meaning_ru": "заботиться, обращать внимание",
+    "sentence_ru": "Никто не обращает на меня внимания.",
+    "note": "Tatoeba match used 結構 (quite/rather), an unrelated false positive, replaced",
+    "noteId": 1618734221498
+  },
+  {
+    "expression": "神",
+    "sentence_jp": "彼は神を信じている。",
+    "sentence_kana": "かれはかみをしんじている。",
+    "meaning_ru": "бог",
+    "sentence_ru": "Он верит в Бога.",
+    "note": "Tatoeba match was about a treaty's spirit, unrelated, replaced",
+    "noteId": 1618734227468
+  },
+  {
+    "expression": "かみそり",
+    "sentence_jp": null,
+    "sentence_kana": "このでんきかみそりはかうまえにためしてみるべきだった。",
+    "meaning_ru": "бритва",
+    "sentence_ru": "Эту электробритву стоило попробовать перед покупкой.",
+    "noteId": 1618734235586
+  },
+  {
+    "expression": "科目",
+    "sentence_jp": null,
+    "sentence_kana": "ふつうかもくのほかにきかいについてのきそてきなことがらをがくしゅうし、かくしゅのきかいのしようほうやぎじゅつをみにつけるじっしゅうなどをおこないます。",
+    "meaning_ru": "предмет (учебный)",
+    "sentence_ru": "Помимо общеобразовательных предметов, изучаются основы механики и проводится практика по освоению эксплуатации различных машин.",
+    "noteId": 1618734247847
+  },
+  {
+    "expression": "かゆみ",
+    "sentence_jp": null,
+    "sentence_kana": "きょくぶにかゆみがあります。",
+    "meaning_ru": "зуд",
+    "sentence_ru": "У меня местный зуд.",
+    "noteId": 1618734318633
+  },
+  {
+    "expression": "柄",
+    "sentence_jp": "この布は花柄だ。",
+    "sentence_kana": "このぬのははながらだ。",
+    "meaning_ru": "узор",
+    "sentence_ru": "Эта ткань с цветочным узором.",
+    "note": "Tatoeba match used 事柄 (matter), a different word sharing the kanji, replaced",
+    "noteId": 1618734334948
+  },
+  {
+    "expression": "体つき",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょあたまはわるいけどいいからだつきをしている。",
+    "meaning_ru": "телосложение",
+    "sentence_ru": "Она не особо умна, но у неё хорошее телосложение.",
+    "noteId": 1618734382558
+  },
+  {
+    "expression": "辛み",
+    "sentence_jp": "この料理は辛みが強い。",
+    "sentence_kana": "このりょうりはからみがつよい。",
+    "meaning_ru": "острота (вкус)",
+    "sentence_ru": "Это блюдо очень острое.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618734406927
+  },
+  {
+    "expression": "刈る",
+    "sentence_jp": null,
+    "sentence_kana": "はははわたしにしばをかるようにいった。",
+    "meaning_ru": "стричь, косить",
+    "sentence_ru": "Мама сказала мне подстричь газон.",
+    "noteId": 1618734418434
+  },
+  {
+    "expression": "乾かす",
+    "sentence_jp": "髪を乾かす。",
+    "sentence_kana": "かみをかわかす。",
+    "meaning_ru": "сушить",
+    "sentence_ru": "Сушить волосы.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618734488712
+  },
+  {
+    "expression": "川沿い",
+    "sentence_jp": null,
+    "sentence_kana": "てっきょうまでかわぞいにあるいていった。",
+    "meaning_ru": "вдоль реки",
+    "sentence_ru": "Я шёл(шла) вдоль реки до железного моста.",
+    "noteId": 1618734504183
+  },
+  {
+    "expression": "勘",
+    "sentence_jp": "彼の勘は鋭い。",
+    "sentence_kana": "かれのかんはするどい。",
+    "meaning_ru": "чутьё, интуиция",
+    "sentence_ru": "У него острая интуиция.",
+    "note": "Tatoeba match used 丼勘定 (rough accounting), a different sense, replaced",
+    "noteId": 1618734519861
+  },
+  {
+    "expression": "缶",
+    "sentence_jp": "缶に入った飲み物を買った。",
+    "sentence_kana": "かんにはいったのみものをかった。",
+    "meaning_ru": "банка (жестяная)",
+    "sentence_ru": "Я купил(а) напиток в банке.",
+    "note": "Tatoeba match used 薬缶 (kettle, different word), replaced",
+    "noteId": 1618734791190
+  },
+  {
+    "expression": "～官",
+    "sentence_jp": null,
+    "sentence_kana": "しんめいをかけてしょくむをじっせんし、すべてのけいさつかんのこころにひをともしてくれました。",
+    "meaning_ru": "чиновник, служащий (суффикс)",
+    "sentence_ru": "Рискуя жизнью, он выполнял свой долг и зажёг огонь в сердцах всех полицейских.",
+    "noteId": 1618734815172
+  },
+  {
+    "expression": "～感",
+    "sentence_jp": "彼には責任感がある。",
+    "sentence_kana": "かれにはせきにんかんがある。",
+    "meaning_ru": "чувство, ощущение (суффикс)",
+    "sentence_ru": "У него есть чувство ответственности.",
+    "note": "Tatoeba match used 感嘆詞 (interjection), replaced with a clearer suffix example",
+    "noteId": 1618734859562
+  },
+  {
+    "expression": "考え直す",
+    "sentence_jp": "計画を考え直す。",
+    "sentence_kana": "けいかくをかんがえなおす。",
+    "meaning_ru": "передумать, пересмотреть",
+    "sentence_ru": "Пересмотреть план.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618734884646
+  },
+  {
+    "expression": "間隔",
+    "sentence_jp": null,
+    "sentence_kana": "かれがこたえるまえにながいじかんのかんかくがあった。",
+    "meaning_ru": "интервал, промежуток",
+    "sentence_ru": "Прежде чем он ответил, прошёл долгий промежуток времени.",
+    "noteId": 1618734907417
+  },
+  {
+    "expression": "観客",
+    "sentence_jp": null,
+    "sentence_kana": "よそういじょうにおおくのかんきゃくがきていました。",
+    "meaning_ru": "зрители",
+    "sentence_ru": "Пришло больше зрителей, чем ожидалось.",
+    "noteId": 1618734921014
+  },
+  {
+    "expression": "環境破壊",
+    "sentence_jp": null,
+    "sentence_kana": "かんきょうはかいはおどろくほどすすんでいる。",
+    "meaning_ru": "разрушение окружающей среды",
+    "sentence_ru": "Разрушение окружающей среды продвинулось до удивительной степени.",
+    "noteId": 1618734942961
+  },
+  {
+    "expression": "環境保護",
+    "sentence_jp": null,
+    "sentence_kana": "かれはかんきょうほごについてりっぱなえんぜつをした。",
+    "meaning_ru": "охрана окружающей среды",
+    "sentence_ru": "Он произнёс прекрасную речь об охране окружающей среды.",
+    "noteId": 1618734962945
+  },
+  {
+    "expression": "歓迎会",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょのかんげいかいをおこなった。",
+    "meaning_ru": "приветственная вечеринка",
+    "sentence_ru": "Провели вечеринку в честь её прибытия.",
+    "noteId": 1618734985868
+  },
+  {
+    "expression": "看護師",
+    "sentence_jp": "彼女は看護師として働いている。",
+    "sentence_kana": "かのじょはかんごしとしてはたらいている。",
+    "meaning_ru": "медсестра",
+    "sentence_ru": "Она работает медсестрой.",
+    "note": "Tatoeba match was crude/vulgar, replaced",
+    "noteId": 1618735000787
+  },
+  {
+    "expression": "患者",
+    "sentence_jp": null,
+    "sentence_kana": "よいいしゃはかんじゃにせつめいするとき、じんたいもけいをつかうなどして、わかりやすくせつめいしてくれる。",
+    "meaning_ru": "пациент",
+    "sentence_ru": "Хороший врач, объясняя пациенту, использует, например, макет человеческого тела.",
+    "noteId": 1618735011500
+  },
+  {
+    "expression": "勘定",
+    "sentence_jp": null,
+    "sentence_kana": "くにのけいざいだって、かていのけいざいだって、こじんのけいざいだって、どんぶりかんじょうでいいものではない。",
+    "meaning_ru": "расчёт, счёт (в ресторане)",
+    "sentence_ru": "Ни экономика страны, ни семейный бюджет, ни личные финансы — нельзя вести их «на глазок».",
+    "noteId": 1618735030021
+  },
+  {
+    "expression": "感染",
+    "sentence_jp": null,
+    "sentence_kana": "ばいどくはせいこういをつうじてかんせんするびょうきです。",
+    "meaning_ru": "заражение",
+    "sentence_ru": "Сифилис — болезнь, передающаяся половым путём.",
+    "noteId": 1618735044208
+  },
+  {
+    "expression": "官庁街",
+    "sentence_jp": "霞が関は官庁街として有名だ。",
+    "sentence_kana": "かすみがせきはかんちょうがいとしてゆうめいだ。",
+    "meaning_ru": "правительственный квартал",
+    "sentence_ru": "Касумигасэки известен как правительственный квартал.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618735063977
+  },
+  {
+    "expression": "監督",
+    "sentence_jp": null,
+    "sentence_kana": "いいかんとくをさがすのにさんねんついやしたが、みつからなかった。",
+    "meaning_ru": "тренер, режиссёр",
+    "sentence_ru": "Три года потратили на поиск хорошего тренера, но так и не нашли.",
+    "noteId": 1618735076072
+  },
+  {
+    "expression": "看病",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはびょうきのははをかんびょうしている。",
+    "meaning_ru": "уход за больным",
+    "sentence_ru": "Она ухаживает за больной матерью.",
+    "noteId": 1618735087313
+  },
+  {
+    "expression": "管理",
+    "sentence_jp": null,
+    "sentence_kana": "これはせかいのじょうしきであり、しげんかんりのだいげんそくだ。",
+    "meaning_ru": "управление",
+    "sentence_ru": "Это общемировая норма и основной принцип управления ресурсами.",
+    "noteId": 1618735112151
+  },
+  {
+    "expression": "管理職",
+    "sentence_jp": null,
+    "sentence_kana": "かれはかんりしょくにしょうしんした。",
+    "meaning_ru": "руководящая должность",
+    "sentence_ru": "Он получил повышение на руководящую должность.",
+    "noteId": 1618735128133
+  },
+  {
+    "expression": "～機",
+    "sentence_jp": null,
+    "sentence_kana": "このくうこうはしんちとせくうこうほどびんすうがおおくないので、そうげいデッキからみてもさいしょはひこうきがいませんでした。",
+    "meaning_ru": "аппарат, машина (суффикс)",
+    "sentence_ru": "У этого аэропорта не так много рейсов, как у Нового Титосэ, поэтому сначала с площадки для встречающих не было видно самолётов.",
+    "noteId": 1618735145298
+  },
+  {
+    "expression": "～器",
+    "sentence_jp": null,
+    "sentence_kana": "たいようねつはにほんでははつでんよりたいようねつおんすいきとしてりようされています。",
+    "meaning_ru": "прибор, устройство (суффикс)",
+    "sentence_ru": "Солнечное тепло в Японии используется больше для солнечных водонагревателей, чем для выработки электричества.",
+    "noteId": 1618735176053
+  },
+  {
+    "expression": "気が合う",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょとはきがあう。",
+    "meaning_ru": "сходиться характерами",
+    "sentence_ru": "Мы с ней сходимся характерами.",
+    "noteId": 1618735260856
+  }
+]
