@@ -1,0 +1,414 @@
+[
+  {
+    "expression": "加える",
+    "sentence_jp": null,
+    "sentence_kana": "ビーバーはひとにきがいをくわえることはめったにない。",
+    "meaning_ru": "добавлять",
+    "sentence_ru": "Бобры редко причиняют вред людям.",
+    "noteId": 1619300825170
+  },
+  {
+    "expression": "詳しい",
+    "sentence_jp": null,
+    "sentence_kana": "ざいじょうはさつじんらしいが、くわしいことはくちにだそうとしない。",
+    "meaning_ru": "подробный, хорошо разбирающийся",
+    "sentence_ru": "Похоже, обвинение в убийстве, но подробности никто не хочет озвучивать.",
+    "noteId": 1619300867598
+  },
+  {
+    "expression": "ぐんぐん",
+    "sentence_jp": "子供はぐんぐん背が伸びた。",
+    "sentence_kana": "こどもはぐんぐんせがのびた。",
+    "meaning_ru": "быстро, стремительно (расти)",
+    "sentence_ru": "Ребёнок быстро вырос.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619300880526
+  },
+  {
+    "expression": "訓練",
+    "sentence_jp": null,
+    "sentence_kana": "すべてのへいしをいっきとうせんのつわものにそだてるカギはくんれんをきょうかすることである。",
+    "meaning_ru": "тренировка, обучение",
+    "sentence_ru": "Ключ к воспитанию всех солдат как бойцов, стоящих тысячи, — усиление тренировок.",
+    "noteId": 1619300892847
+  },
+  {
+    "expression": "経営",
+    "sentence_jp": null,
+    "sentence_kana": "きぎょうけいえいでかつやくするためにひつようとなるのがおおくのなかまとしごとをすいこうするためのきょうちょうせいしんです。",
+    "meaning_ru": "руководство, менеджмент (бизнеса)",
+    "sentence_ru": "Для успешной работы в управлении компанией необходим дух сотрудничества.",
+    "noteId": 1619300908995
+  },
+  {
+    "expression": "景気",
+    "sentence_jp": null,
+    "sentence_kana": "なぜか、けいきのよいときにはにほんのしんわにちなんだなまえがつけられています。",
+    "meaning_ru": "экономическая конъюнктура",
+    "sentence_ru": "Почему-то, когда экономика на подъёме, дают имена, связанные с японской мифологией.",
+    "noteId": 1619300956491
+  },
+  {
+    "expression": "経済学部",
+    "sentence_jp": "彼は経済学部を卒業した。",
+    "sentence_kana": "かれはけいざいがくぶをそつぎょうした。",
+    "meaning_ru": "экономический факультет",
+    "sentence_ru": "Он окончил экономический факультет.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619300974211
+  },
+  {
+    "expression": "計算",
+    "sentence_jp": "簡単な計算をする。",
+    "sentence_kana": "かんたんなけいさんをする。",
+    "meaning_ru": "расчёт, вычисление",
+    "sentence_ru": "Делать простой расчёт.",
+    "note": "Tatoeba match was overly technical (spreadsheet software), replaced",
+    "noteId": 1619300989859
+  },
+  {
+    "expression": "芸術",
+    "sentence_jp": null,
+    "sentence_kana": "ルネッサンスじだい、ベニスのげいじゅつはぜんせいきをむかえていました。",
+    "meaning_ru": "искусство",
+    "sentence_ru": "В эпоху Возрождения искусство Венеции переживало расцвет.",
+    "noteId": 1619301011846
+  },
+  {
+    "expression": "携帯電話",
+    "sentence_jp": null,
+    "sentence_kana": "パソコンにくわえ、けいたいでんわでのりようがかのうです。",
+    "meaning_ru": "мобильный телефон",
+    "sentence_ru": "Помимо компьютера, можно пользоваться и с мобильного телефона.",
+    "noteId": 1619301029575
+  },
+  {
+    "expression": "契約",
+    "sentence_jp": "契約書にサインした。",
+    "sentence_kana": "けいやくしょにサインした。",
+    "meaning_ru": "контракт, договор",
+    "sentence_ru": "Я подписал(а) договор.",
+    "note": "Tatoeba match was long bureaucratic legalese, replaced",
+    "noteId": 1619301041840
+  },
+  {
+    "expression": "化粧",
+    "sentence_jp": null,
+    "sentence_kana": "おうじょがあくどいけしょうをしていた。",
+    "meaning_ru": "макияж, косметика",
+    "sentence_ru": "Принцесса была одета в вульгарный макияж.",
+    "noteId": 1619301058193
+  },
+  {
+    "expression": "削る",
+    "sentence_jp": null,
+    "sentence_kana": "きみのえんぴつはけずるひつようがある。",
+    "meaning_ru": "точить, соскабливать",
+    "sentence_ru": "Твой карандаш нужно поточить.",
+    "noteId": 1619301064842
+  },
+  {
+    "expression": "結果",
+    "sentence_jp": "テストの結果が出た。",
+    "sentence_kana": "テストのけっかがでた。",
+    "meaning_ru": "результат",
+    "sentence_ru": "Результаты теста готовы.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619301074664
+  },
+  {
+    "expression": "結局",
+    "sentence_jp": null,
+    "sentence_kana": "けっきょく、ほうあんはていしゅつだんねんにおいこまれたのだった。",
+    "meaning_ru": "в конце концов",
+    "sentence_ru": "В конце концов законопроект был вынужден отозван из внесения.",
+    "noteId": 1619301086731
+  },
+  {
+    "expression": "結婚式",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはせんげつけっこんしきをあげました。",
+    "meaning_ru": "свадебная церемония",
+    "sentence_ru": "В прошлом месяце я сыграл(а) свадьбу.",
+    "noteId": 1619301099490
+  },
+  {
+    "expression": "欠席",
+    "sentence_jp": null,
+    "sentence_kana": "パーティーをけっせきしたいいわけにつくりばなしをこねあげた。",
+    "meaning_ru": "отсутствие (на занятии/мероприятии)",
+    "sentence_ru": "Он придумал историю в качестве оправдания за отсутствие на вечеринке.",
+    "noteId": 1619301114641
+  },
+  {
+    "expression": "欠点",
+    "sentence_jp": null,
+    "sentence_kana": "ほんしょのけってんは、きこんしゃであるちょしゃがひこんをすすめても、せっとくりょくをかくことである。",
+    "meaning_ru": "недостаток",
+    "sentence_ru": "Недостаток этой книги в том, что она теряет убедительность, когда женатый автор советует не вступать в брак.",
+    "noteId": 1619301124291
+  },
+  {
+    "expression": "下品な",
+    "sentence_jp": null,
+    "sentence_kana": "じぶんよりもげひんなあいては『げひん』とおもい、じぶんよりもじょうひんなあいては『じょうひんぶっている』とおもいますね。",
+    "meaning_ru": "грубый, вульгарный",
+    "sentence_ru": "Того, кто грубее нас, мы считаем «грубым», а того, кто утончённее — «строящим из себя утончённого».",
+    "noteId": 1619301137524
+  },
+  {
+    "expression": "蹴る",
+    "sentence_jp": null,
+    "sentence_kana": "ジムはたいへんじょうずにボールをける。",
+    "meaning_ru": "пинать, бить ногой",
+    "sentence_ru": "Джим очень хорошо бьёт по мячу.",
+    "noteId": 1619301212479
+  },
+  {
+    "expression": "健康",
+    "sentence_jp": null,
+    "sentence_kana": "けんこうはうしなわれてありがたみがわかるてんにおいて、おややみず・くうきとおなじようなものです。",
+    "meaning_ru": "здоровье",
+    "sentence_ru": "Здоровье, как родители, вода и воздух, — то, ценность чего понимаешь, только потеряв его.",
+    "noteId": 1619301220193
+  },
+  {
+    "expression": "検査",
+    "sentence_jp": null,
+    "sentence_kana": "すいどうすいでねんいっかい、いどみずならねんにかいのすいしつけんさをおすすめします。",
+    "meaning_ru": "проверка, обследование",
+    "sentence_ru": "Рекомендуется проверять качество воды: раз в год для водопроводной, два раза в год для колодезной.",
+    "noteId": 1619301234818
+  },
+  {
+    "expression": "現在",
+    "sentence_jp": "現在、彼は東京に住んでいる。",
+    "sentence_kana": "げんざい、かれはとうきょうにすんでいる。",
+    "meaning_ru": "в настоящее время",
+    "sentence_ru": "В настоящее время он живёт в Токио.",
+    "note": "Tatoeba match was overly abstract, replaced",
+    "noteId": 1619301244878
+  },
+  {
+    "expression": "現実",
+    "sentence_jp": null,
+    "sentence_kana": "しんじょうてきにはさんせい、けれどげんじつてきにはんたいします。",
+    "meaning_ru": "реальность, реалистичный",
+    "sentence_ru": "Эмоционально я за, но по факту я против.",
+    "noteId": 1619301256814
+  },
+  {
+    "expression": "建設",
+    "sentence_jp": null,
+    "sentence_kana": "かあさんは、おんなだてらにおとこだらけのなか、けんせつがいしゃでげんばかんとくをしている。",
+    "meaning_ru": "строительство",
+    "sentence_ru": "Мама, несмотря на то что кругом одни мужчины, работает прорабом в строительной компании.",
+    "noteId": 1619301269742
+  },
+  {
+    "expression": "現代",
+    "sentence_jp": "現代の技術は急速に進歩している。",
+    "sentence_kana": "げんだいのぎじゅつはきゅうそくにしんぽしている。",
+    "meaning_ru": "современность, современный",
+    "sentence_ru": "Современные технологии стремительно развиваются.",
+    "note": "Tatoeba match was a complex political statement, replaced",
+    "noteId": 1619301278711
+  },
+  {
+    "expression": "建築",
+    "sentence_jp": null,
+    "sentence_kana": "もくぞうけんちくぶつはひがつきやすい。",
+    "meaning_ru": "строительство, архитектура",
+    "sentence_ru": "Деревянные постройки легко воспламеняются.",
+    "noteId": 1619301292404
+  },
+  {
+    "expression": "権利",
+    "sentence_jp": null,
+    "sentence_kana": "それをはつめいしたきょうじゅはだいがくからそうとうのたいかをうけるけんりがある。",
+    "meaning_ru": "право",
+    "sentence_ru": "Профессор, изобретший это, имеет право на соответствующее вознаграждение от университета.",
+    "noteId": 1619301300633
+  },
+  {
+    "expression": "恋",
+    "sentence_jp": null,
+    "sentence_kana": "こいはゲームじゃないから、いいとこどりはできないんだよ。",
+    "meaning_ru": "любовь",
+    "sentence_ru": "Любовь — не игра, поэтому нельзя брать только лучшее.",
+    "noteId": 1619301306191
+  },
+  {
+    "expression": "濃い",
+    "sentence_jp": null,
+    "sentence_kana": "やがてゆうれいはこいきりのなかにきえた。",
+    "meaning_ru": "насыщенный, густой, тёмный",
+    "sentence_ru": "Вскоре призрак исчез в густом тумане.",
+    "noteId": 1619301315703
+  },
+  {
+    "expression": "恋人",
+    "sentence_jp": null,
+    "sentence_kana": "にほんのクリスマスは、どちらかというとこいびとたちのひです。",
+    "meaning_ru": "возлюбленный/ая",
+    "sentence_ru": "Рождество в Японии — скорее день для влюблённых пар.",
+    "noteId": 1619301325048
+  },
+  {
+    "expression": "幸運な",
+    "sentence_jp": "彼は幸運な人生を送った。",
+    "sentence_kana": "かれはこううんなじんせいをおくった。",
+    "meaning_ru": "удачливый, счастливый (о судьбе)",
+    "sentence_ru": "Он прожил удачливую жизнь.",
+    "note": "Tatoeba match was an odd death euphemism, replaced",
+    "noteId": 1619301337672
+  },
+  {
+    "expression": "効果",
+    "sentence_jp": null,
+    "sentence_kana": "きんせんてきによゆうがあるのならへいようしてもかまわないがさいみんだけで、じゅうぶんにこうかがある。",
+    "meaning_ru": "эффект",
+    "sentence_ru": "Если позволяют финансы, можно совмещать, но одного гипноза уже достаточно эффективно.",
+    "noteId": 1619301347088
+  },
+  {
+    "expression": "合格",
+    "sentence_jp": null,
+    "sentence_kana": "かれならいざしらず、わたしではそのしけんにはごうかくできっこない。",
+    "meaning_ru": "сдать (экзамен), пройти отбор",
+    "sentence_ru": "Может, он бы и смог, но я точно не сдам этот экзамен.",
+    "noteId": 1619301361898
+  },
+  {
+    "expression": "交換",
+    "sentence_jp": "メールアドレスを交換した。",
+    "sentence_kana": "メールアドレスをこうかんした。",
+    "meaning_ru": "обмен, замена",
+    "sentence_ru": "Мы обменялись адресами электронной почты.",
+    "note": "Tatoeba match used unclear abbreviation, replaced",
+    "noteId": 1619301376361
+  },
+  {
+    "expression": "高級な",
+    "sentence_jp": null,
+    "sentence_kana": "あおいは、くがくせいだから、そんなこうきゅうなもの、もてないです。",
+    "meaning_ru": "высококлассный, элитный",
+    "sentence_ru": "Аой — бедный студент, так что не может позволить себе такую роскошную вещь.",
+    "noteId": 1619301397707
+  },
+  {
+    "expression": "航空便",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはてがみをこうくうびんでおくった。",
+    "meaning_ru": "авиапочта",
+    "sentence_ru": "Она отправила письмо авиапочтой.",
+    "noteId": 1619301415304
+  },
+  {
+    "expression": "合計",
+    "sentence_jp": null,
+    "sentence_kana": "くしくも、レジでのごうけいがくはななひゃくななじゅうななえんであった。",
+    "meaning_ru": "итого, сумма",
+    "sentence_ru": "По странному совпадению, итоговая сумма на кассе составила 777 иен.",
+    "noteId": 1619301427915
+  },
+  {
+    "expression": "攻撃",
+    "sentence_jp": null,
+    "sentence_kana": "きゅうしょをのぞくすべてのこうげきをみとめる。",
+    "meaning_ru": "атаковать, нападение",
+    "sentence_ru": "Разрешены любые атаки, кроме ударов в уязвимые места.",
+    "noteId": 1619301440700
+  },
+  {
+    "expression": "工事",
+    "sentence_jp": "道路工事のため通行止めです。",
+    "sentence_kana": "どうろこうじのためつうこうどめです。",
+    "meaning_ru": "строительные работы",
+    "sentence_ru": "Дорога закрыта из-за строительных работ.",
+    "note": "Tatoeba match was overly technical, replaced",
+    "noteId": 1619301455306
+  },
+  {
+    "expression": "行動",
+    "sentence_jp": null,
+    "sentence_kana": "トップのリーダーはいぬのこうどうがくでは「アルファ」とよばれ、いか「ベータ」「ガンマ」とつづきます。",
+    "meaning_ru": "поведение",
+    "sentence_ru": "В этологии собак главный лидер называется «альфа», далее следуют «бета», «гамма».",
+    "noteId": 1619301471373
+  },
+  {
+    "expression": "後輩",
+    "sentence_jp": null,
+    "sentence_kana": "かれはわたしよりさんねんこうはいです。",
+    "meaning_ru": "младший (по стажу/возрасту в группе)",
+    "sentence_ru": "Он младше меня на три года (по стажу).",
+    "noteId": 1619301484200
+  },
+  {
+    "expression": "幸福な",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはこうふくなせいかつをおくった。",
+    "meaning_ru": "счастливый",
+    "sentence_ru": "Она прожила счастливую жизнь.",
+    "noteId": 1619301512200
+  },
+  {
+    "expression": "公平な",
+    "sentence_jp": null,
+    "sentence_kana": "もんだいのなかにはゴリラにふこうへいなものがある。",
+    "meaning_ru": "справедливый, беспристрастный",
+    "sentence_ru": "Среди заданий есть несправедливые по отношению к горилле.",
+    "noteId": 1619301551154
+  },
+  {
+    "expression": "公務員",
+    "sentence_jp": null,
+    "sentence_kana": "どういったじじがこうむいんしけんでしゅつだいされるのか。",
+    "meaning_ru": "государственный служащий",
+    "sentence_ru": "Какие актуальные темы задают на экзамене на госслужащего?",
+    "noteId": 1619301571670
+  },
+  {
+    "expression": "超える",
+    "sentence_jp": null,
+    "sentence_kana": "せいげんスピードをこえるなよ。",
+    "meaning_ru": "превышать",
+    "sentence_ru": "Не превышай ограничение скорости.",
+    "noteId": 1619301579118
+  },
+  {
+    "expression": "コース",
+    "sentence_jp": "マラソンのコースを確認した。",
+    "sentence_kana": "マラソンのコースをかくにんした。",
+    "meaning_ru": "курс, маршрут, трасса",
+    "sentence_ru": "Я проверил(а) маршрут марафона.",
+    "note": "Tatoeba match was golf-shoe jargon, replaced",
+    "noteId": 1619301585403
+  },
+  {
+    "expression": "コート",
+    "sentence_jp": "寒いのでコートを着た。",
+    "sentence_kana": "さむいのでコートをきた。",
+    "meaning_ru": "пальто",
+    "sentence_ru": "Было холодно, поэтому я надел(а) пальто.",
+    "note": "Tatoeba match used the tennis-court sense of コート, replaced to match the card's 'coat' meaning",
+    "noteId": 1619301592089
+  },
+  {
+    "expression": "ゴール",
+    "sentence_jp": null,
+    "sentence_kana": "そこにあかいせんしゅもくわわり、ゴールまえはこんせんもようとなった。",
+    "meaning_ru": "гол, ворота, финиш",
+    "sentence_ru": "К этому добавился игрок Акаи, и перед воротами завязалась свалка.",
+    "noteId": 1619301600990
+  },
+  {
+    "expression": "故郷",
+    "sentence_jp": null,
+    "sentence_kana": "こきょうのおいたりょうしんのことをかんがえてみるべきだ。",
+    "meaning_ru": "родина, родные места",
+    "sentence_ru": "Стоит подумать о престарелых родителях на родине.",
+    "noteId": 1619301617724
+  }
+]
