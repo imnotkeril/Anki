@@ -1,0 +1,427 @@
+[
+  {
+    "noteId": 1619296095492,
+    "expression": "解決",
+    "sentence_jp": null,
+    "sentence_kana": "まだかいけつしていないのか？けんとくにのどちらがせきにん？",
+    "meaning_ru": "решение (проблемы), урегулирование",
+    "sentence_ru": "Это всё ещё не решено? Кто ответственен — префектура или государство?"
+  },
+  {
+    "noteId": 1619296111417,
+    "expression": "開始",
+    "sentence_jp": "会議は9時に開始する。",
+    "sentence_kana": "かいぎはくじにかいしする。",
+    "meaning_ru": "начало",
+    "sentence_ru": "Собрание начинается в 9 часов.",
+    "note": "Tatoeba match was overly technical (about HTML tags), replaced"
+  },
+  {
+    "noteId": 1619296152082,
+    "expression": "回収",
+    "sentence_jp": null,
+    "sentence_kana": "しかしかいしゅうじかんがはやすぎるため、ゴミのひにだすことがむずかしいです。",
+    "meaning_ru": "сбор, изъятие",
+    "sentence_ru": "Но время сбора мусора слишком раннее, поэтому трудно выставить его в день вывоза."
+  },
+  {
+    "noteId": 1619296166563,
+    "expression": "外食",
+    "sentence_jp": null,
+    "sentence_kana": "まいにちがいしょくばかりですませていると、かぞくりょうりがこいしくなります。",
+    "meaning_ru": "еда вне дома, питание в ресторане",
+    "sentence_ru": "Если каждый день питаться только вне дома, начинаешь скучать по домашней еде."
+  },
+  {
+    "noteId": 1619296176819,
+    "expression": "回数",
+    "sentence_jp": "リハーサルの回数が増えた。",
+    "sentence_kana": "リハーサルのかいすうがふえた。",
+    "meaning_ru": "количество раз",
+    "sentence_ru": "Количество репетиций увеличилось.",
+    "note": "Tatoeba match was slang-heavy, replaced"
+  },
+  {
+    "noteId": 1619296188142,
+    "expression": "ガイド",
+    "sentence_jp": null,
+    "sentence_kana": "ガイドブックによれば、ここがここいらでいちばんおいしいみせなんだって。",
+    "meaning_ru": "гид, путеводитель",
+    "sentence_ru": "Судя по путеводителю, это самый вкусный ресторан в округе."
+  },
+  {
+    "noteId": 1619296218338,
+    "expression": "解答",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはもんだいのかいとうをみつけだすのにあまりくろうしなかった。",
+    "meaning_ru": "ответ, решение (задачи)",
+    "sentence_ru": "Ей не составило особого труда найти решение задачи."
+  },
+  {
+    "noteId": 1619296335155,
+    "expression": "回復",
+    "sentence_jp": "病気からの回復には時間がかかる。",
+    "sentence_kana": "びょうきからのかいふくにはじかんがかかる。",
+    "meaning_ru": "восстановление, выздоровление",
+    "sentence_ru": "Восстановление после болезни требует времени.",
+    "note": "Tatoeba match was game-jargon (magic points), replaced"
+  },
+  {
+    "noteId": 1619296344788,
+    "expression": "飼う",
+    "sentence_jp": null,
+    "sentence_kana": "インコをかうためにひつようなものをそろえましょう。",
+    "meaning_ru": "держать (животное), разводить",
+    "sentence_ru": "Давайте подготовим всё необходимое, чтобы завести попугайчика."
+  },
+  {
+    "noteId": 1619296351220,
+    "expression": "香り",
+    "sentence_jp": "このお茶はいい香りがする。",
+    "sentence_kana": "このおちゃはいいかおりがする。",
+    "meaning_ru": "аромат, запах",
+    "sentence_ru": "У этого чая приятный аромат.",
+    "note": "Tatoeba match was overly technical (chemistry), replaced"
+  },
+  {
+    "noteId": 1619296360345,
+    "expression": "画家",
+    "sentence_jp": null,
+    "sentence_kana": "ぶんたいがさっかにもつかんけいは、しきさいががかにたいするのとおなじである。",
+    "meaning_ru": "художник",
+    "sentence_ru": "Отношение стиля к писателю такое же, как отношение цвета к художнику."
+  },
+  {
+    "noteId": 1619296369540,
+    "expression": "価格",
+    "sentence_jp": null,
+    "sentence_kana": "こめのかかくがさんパーセントいじょうあがった。",
+    "meaning_ru": "цена",
+    "sentence_ru": "Цена на рис выросла более чем на 3 процента."
+  },
+  {
+    "noteId": 1619296377442,
+    "expression": "輝く",
+    "sentence_jp": null,
+    "sentence_kana": "あかるいえがおでふたりはひかりかがやくみらいをあゆみはじめたんだ。",
+    "meaning_ru": "сиять, блестеть",
+    "sentence_ru": "С яркими улыбками они вдвоём начали идти к сияющему будущему."
+  },
+  {
+    "noteId": 1619296458800,
+    "expression": "かかる",
+    "sentence_jp": "彼は風邪にかかった。",
+    "sentence_kana": "かれはかぜにかかった。",
+    "meaning_ru": "заболевать, подхватывать (болезнь)",
+    "sentence_ru": "Он заболел простудой.",
+    "note": "Tatoeba match illustrated a different sense of かかる (cost), replaced to match the card's stated 'catch an illness' sense"
+  },
+  {
+    "noteId": 1619296474456,
+    "expression": "各～",
+    "sentence_jp": null,
+    "sentence_kana": "きゅういちいちテロいらい、せかいのかくちでだいきぼなテロリズムがはっせいしている。",
+    "meaning_ru": "каждый (префикс)",
+    "sentence_ru": "После терактов 11 сентября масштабный терроризм происходит в разных уголках мира."
+  },
+  {
+    "noteId": 1619296485609,
+    "expression": "家具",
+    "sentence_jp": null,
+    "sentence_kana": "ははおやのふるいかぐをうりはらわなければならないのはかなしい。",
+    "meaning_ru": "мебель",
+    "sentence_ru": "Грустно, что придётся продать старую мебель матери."
+  },
+  {
+    "noteId": 1619296503990,
+    "expression": "学園祭",
+    "sentence_jp": "来週は学園祭です。",
+    "sentence_kana": "らいしゅうはがくえんさいです。",
+    "meaning_ru": "школьный/студенческий фестиваль",
+    "sentence_ru": "На следующей неделе школьный фестиваль.",
+    "note": "Tatoeba match was slang-heavy, replaced"
+  },
+  {
+    "noteId": 1619296516770,
+    "expression": "学習",
+    "sentence_jp": "毎日漢字を学習する。",
+    "sentence_kana": "まいにちかんじをがくしゅうする。",
+    "meaning_ru": "изучение, обучение",
+    "sentence_ru": "Каждый день изучаю иероглифы.",
+    "note": "Tatoeba match was overly technical (physics coursework), replaced"
+  },
+  {
+    "noteId": 1619296523705,
+    "expression": "隠す",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょははじらいのいろをかくすためにかおをそむけた。",
+    "meaning_ru": "прятать, скрывать",
+    "sentence_ru": "Она отвернулась, чтобы скрыть смущение."
+  },
+  {
+    "noteId": 1619296543370,
+    "expression": "確認",
+    "sentence_jp": "予約を確認してください。",
+    "sentence_kana": "よやくをかくにんしてください。",
+    "meaning_ru": "подтверждение, проверка",
+    "sentence_ru": "Пожалуйста, подтвердите бронирование.",
+    "note": "Tatoeba match was overly technical (oscilloscope), replaced"
+  },
+  {
+    "noteId": 1619296699332,
+    "expression": "学年",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはがくねんまつしけんにおちたのではないかとしんぱいしている。",
+    "meaning_ru": "учебный год, класс (год обучения)",
+    "sentence_ru": "Она беспокоится, что провалила экзамены в конце учебного года."
+  },
+  {
+    "noteId": 1619296716089,
+    "expression": "学費",
+    "sentence_jp": "アルバイトで学費を稼いでいる。",
+    "sentence_kana": "アルバイトでがくひをかせいでいる。",
+    "meaning_ru": "плата за обучение",
+    "sentence_ru": "Зарабатываю на учёбу подработкой.",
+    "note": "Tatoeba match was slang-heavy, replaced"
+  },
+  {
+    "noteId": 1619296726239,
+    "expression": "確率",
+    "sentence_jp": "今日は80パーセントの確率で雨が降る。",
+    "sentence_kana": "きょうははちじゅっパーセントのかくりつであめがふる。",
+    "meaning_ru": "вероятность",
+    "sentence_ru": "Сегодня вероятность дождя 80 процентов.",
+    "note": "Tatoeba match was a riddle-style joke sentence, replaced"
+  },
+  {
+    "noteId": 1619296734265,
+    "expression": "隠れる",
+    "sentence_jp": "子供は木の後ろに隠れた。",
+    "sentence_kana": "こどもはきのうしろにかくれた。",
+    "meaning_ru": "прятаться",
+    "sentence_ru": "Ребёнок спрятался за деревом.",
+    "note": "no Tatoeba match, self-authored"
+  },
+  {
+    "noteId": 1619296789766,
+    "expression": "影",
+    "sentence_jp": "木の影で休んだ。",
+    "sentence_kana": "きのかげでやすんだ。",
+    "meaning_ru": "тень",
+    "sentence_ru": "Я отдохнул(а) в тени дерева.",
+    "note": "Tatoeba match was overly technical (art/shading), replaced"
+  },
+  {
+    "noteId": 1619296798917,
+    "expression": "過去",
+    "sentence_jp": "過去のことは忘れよう。",
+    "sentence_kana": "かこのことはわすれよう。",
+    "meaning_ru": "прошлое",
+    "sentence_ru": "Забудем о прошлом.",
+    "note": "Tatoeba match was English-grammar jargon, replaced"
+  },
+  {
+    "noteId": 1619296811082,
+    "expression": "囲む",
+    "sentence_jp": "家族はテーブルを囲んで座った。",
+    "sentence_kana": "かぞくはテーブルをかこんですわった。",
+    "meaning_ru": "окружать",
+    "sentence_ru": "Семья села вокруг стола.",
+    "note": "Tatoeba match was a complex astronomy passage, replaced"
+  },
+  {
+    "noteId": 1619296878157,
+    "expression": "重ねる",
+    "sentence_jp": null,
+    "sentence_kana": "ねんれいをかさねるにつれ、だんだんえんしになってきている。",
+    "meaning_ru": "накладывать, накапливать (напр. годы)",
+    "sentence_ru": "С возрастом (по мере накопления лет) постепенно развивается дальнозоркость."
+  },
+  {
+    "noteId": 1619296885683,
+    "expression": "飾り",
+    "sentence_jp": "クリスマスの飾りを付けた。",
+    "sentence_kana": "クリスマスのかざりをつけた。",
+    "meaning_ru": "украшение",
+    "sentence_ru": "Повесили рождественские украшения.",
+    "note": "Tatoeba match used the verb form 飾りたてる, replaced with a noun-focused sentence"
+  },
+  {
+    "noteId": 1619296897712,
+    "expression": "火山",
+    "sentence_jp": null,
+    "sentence_kana": "にほんはかざんれっとうだ。",
+    "meaning_ru": "вулкан",
+    "sentence_ru": "Япония — вулканический архипелаг."
+  },
+  {
+    "noteId": 1619296910159,
+    "expression": "家事",
+    "sentence_jp": null,
+    "sentence_kana": "はははかじをきりもりするのにいそがしい。",
+    "meaning_ru": "домашние дела, хозяйство",
+    "sentence_ru": "Мама занята ведением домашнего хозяйства."
+  },
+  {
+    "noteId": 1619297094570,
+    "expression": "賢い",
+    "sentence_jp": "彼はとても賢い子供だ。",
+    "sentence_kana": "かれはとてもかしこいこどもだ。",
+    "meaning_ru": "умный, мудрый",
+    "sentence_ru": "Он очень умный ребёнок.",
+    "note": "Tatoeba match was a complex political statement, replaced"
+  },
+  {
+    "noteId": 1619297105605,
+    "expression": "果実",
+    "sentence_jp": null,
+    "sentence_kana": "よくあさ、めがさめると、わたしのまどのしたでかじつのきのはながさいているのをめにした。",
+    "meaning_ru": "плод, фрукт",
+    "sentence_ru": "На следующее утро, проснувшись, я увидел, что под моим окном расцвело плодовое дерево."
+  },
+  {
+    "noteId": 1619297113735,
+    "expression": "数",
+    "sentence_jp": "星の数を数えた。",
+    "sentence_kana": "ほしのかずをかぞえた。",
+    "meaning_ru": "число, количество",
+    "sentence_ru": "Я посчитал(а) количество звёзд.",
+    "note": "Tatoeba match was about scary stories, unrelated content, replaced"
+  },
+  {
+    "noteId": 1619297124664,
+    "expression": "数える",
+    "sentence_jp": null,
+    "sentence_kana": "たまごがかえるまえにひよこのかずをかぞえるな。",
+    "meaning_ru": "считать",
+    "sentence_ru": "Не считай цыплят, пока яйца не вылупились."
+  },
+  {
+    "noteId": 1619297135716,
+    "expression": "肩",
+    "sentence_jp": "肩が痛い。",
+    "sentence_kana": "かたがいたい。",
+    "meaning_ru": "плечо",
+    "sentence_ru": "Плечо болит.",
+    "note": "Tatoeba match was too casual/unclear, replaced"
+  },
+  {
+    "noteId": 1619297152305,
+    "expression": "片～",
+    "sentence_jp": "片手で持てる。",
+    "sentence_kana": "かたてでもてる。",
+    "meaning_ru": "один из (пары), напр. одна сторона",
+    "sentence_ru": "Можно держать одной рукой.",
+    "note": "Tatoeba match was an idiom ('no regrets in life') not showing the prefix meaning, replaced"
+  },
+  {
+    "noteId": 1619297163455,
+    "expression": "課題",
+    "sentence_jp": null,
+    "sentence_kana": "ゆしゅつしじょうでのきょうそうりょくきょうかがきんきゅうのかだいである。",
+    "meaning_ru": "задача, задание",
+    "sentence_ru": "Усиление конкурентоспособности на экспортном рынке — неотложная задача."
+  },
+  {
+    "noteId": 1619297295990,
+    "expression": "語る",
+    "sentence_jp": "彼は昔の思い出を語った。",
+    "sentence_kana": "かれはむかしのおもいでをかたった。",
+    "meaning_ru": "рассказывать, повествовать",
+    "sentence_ru": "Он рассказал о старых воспоминаниях.",
+    "note": "Tatoeba match used the compound 物語る, replaced with plain 語る"
+  },
+  {
+    "noteId": 1619297306122,
+    "expression": "価値",
+    "sentence_jp": "この本には価値がある。",
+    "sentence_kana": "このほんにはかちがある。",
+    "meaning_ru": "ценность",
+    "sentence_ru": "Эта книга имеет ценность.",
+    "note": "Tatoeba match was overly casual/rambling, replaced"
+  },
+  {
+    "noteId": 1619297317203,
+    "expression": "がっかり",
+    "sentence_jp": null,
+    "sentence_kana": "このせかいのきょういくにはがっかりしてしまう。",
+    "meaning_ru": "разочаровываться",
+    "sentence_ru": "Я разочарован(а) образованием в этом мире."
+  },
+  {
+    "noteId": 1619297326720,
+    "expression": "楽器",
+    "sentence_jp": "彼女はいろいろな楽器を演奏できる。",
+    "sentence_kana": "かのじょはいろいろながっきをえんそうできる。",
+    "meaning_ru": "музыкальный инструмент",
+    "sentence_ru": "Она умеет играть на разных музыкальных инструментах.",
+    "note": "Tatoeba match was an advertisement-style sentence, replaced"
+  },
+  {
+    "noteId": 1619297377591,
+    "expression": "学期",
+    "sentence_jp": null,
+    "sentence_kana": "あしたまでに、わたしはがっきまつレポートをしあげることはできない。",
+    "meaning_ru": "семестр, четверть",
+    "sentence_ru": "Я не смогу закончить отчёт за семестр к завтрашнему дню."
+  },
+  {
+    "noteId": 1619297389221,
+    "expression": "かっこいい",
+    "sentence_jp": null,
+    "sentence_kana": "これはあにです。かっこいいですね。",
+    "meaning_ru": "крутой, стильный",
+    "sentence_ru": "Это мой старший брат. Он классный, правда?"
+  },
+  {
+    "noteId": 1619297403086,
+    "expression": "かっこ悪い",
+    "sentence_jp": "そんな格好悪いことはできない。",
+    "sentence_kana": "そんなかっこわるいことはできない。",
+    "meaning_ru": "некрутой, не стильный, несуразный",
+    "sentence_ru": "Я не могу сделать что-то настолько несуразное.",
+    "note": "no Tatoeba match, self-authored"
+  },
+  {
+    "noteId": 1619297428478,
+    "expression": "合宿",
+    "sentence_jp": null,
+    "sentence_kana": "しんしんともにベストのコンディションでしんじんようせいがっしゅくにのぞみましょう。",
+    "meaning_ru": "сборы, учебный лагерь (с проживанием)",
+    "sentence_ru": "Давайте примем участие в тренировочном лагере для новичков в лучшей физической и психической форме."
+  },
+  {
+    "noteId": 1619297534221,
+    "expression": "活動",
+    "sentence_jp": "彼はボランティア活動をしている。",
+    "sentence_kana": "かれはボランティアかつどうをしている。",
+    "meaning_ru": "деятельность, активность",
+    "sentence_ru": "Он занимается волонтёрской деятельностью.",
+    "note": "Tatoeba match was a historical pirate anecdote, replaced"
+  },
+  {
+    "noteId": 1619297548120,
+    "expression": "活躍",
+    "sentence_jp": "彼はスポーツ界で活躍している。",
+    "sentence_kana": "かれはスポーツかいでかつやくしている。",
+    "meaning_ru": "активная деятельность, успешная работа",
+    "sentence_ru": "Он преуспевает в мире спорта.",
+    "note": "Tatoeba match was overly complex/corporate, replaced"
+  },
+  {
+    "noteId": 1619297596919,
+    "expression": "悲しみ",
+    "sentence_jp": null,
+    "sentence_kana": "こいはかなしみにみちたやまいであり、あらゆるちりょうをもくすりをもうけつけない。",
+    "meaning_ru": "печаль, грусть",
+    "sentence_ru": "Любовь — это болезнь, полная печали, которая не поддаётся никакому лечению и лекарствам."
+  },
+  {
+    "noteId": 1619297612088,
+    "expression": "悲しむ",
+    "sentence_jp": null,
+    "sentence_kana": "かなしむことなんてないでしょう。",
+    "meaning_ru": "грустить, печалиться",
+    "sentence_ru": "Не о чем грустить, правда?"
+  }
+]
