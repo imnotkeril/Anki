@@ -1,0 +1,414 @@
+[
+  {
+    "expression": "猿",
+    "sentence_jp": null,
+    "sentence_kana": "あれはさるどしにちなんださるのえです。",
+    "meaning_ru": "обезьяна",
+    "sentence_ru": "Это картина обезьяны, приуроченная к году обезьяны.",
+    "noteId": 1619302240365
+  },
+  {
+    "expression": "爽やかな",
+    "sentence_jp": "朝の空気は爽やかだ。",
+    "sentence_kana": "あさのくうきはさわやかだ。",
+    "meaning_ru": "свежий, бодрящий",
+    "sentence_ru": "Утренний воздух свежий.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1619302292600
+  },
+  {
+    "expression": "～産",
+    "sentence_jp": "これは北海道産のじゃがいもです。",
+    "sentence_kana": "これはほっかいどうさんのじゃがいもです。",
+    "meaning_ru": "произведённый в (суффикс)",
+    "sentence_ru": "Это картофель, произведённый на Хоккайдо.",
+    "note": "Tatoeba match used 流産 (miscarriage), an unrelated word sharing the kanji, replaced",
+    "noteId": 1619302305266
+  },
+  {
+    "expression": "参加",
+    "sentence_jp": null,
+    "sentence_kana": "ろくがつまつにさんかしゃをつのったらいっしゅうかんじゃくでやくごひゃくせきがよやくでいっぱいになった。",
+    "meaning_ru": "участие",
+    "sentence_ru": "Когда в конце июня начали набор участников, за неполную неделю забронировали около 500 мест.",
+    "noteId": 1619302317883
+  },
+  {
+    "expression": "残業",
+    "sentence_jp": null,
+    "sentence_kana": "らいしゅうはまいにちざんぎょうしなければならないでしょう。",
+    "meaning_ru": "сверхурочная работа",
+    "sentence_ru": "На следующей неделе, наверное, придётся работать сверхурочно каждый день.",
+    "noteId": 1619302335685
+  },
+  {
+    "expression": "参考",
+    "sentence_jp": "これはご参考までに。",
+    "sentence_kana": "これはごさんこうまでに。",
+    "meaning_ru": "справка, для сведения",
+    "sentence_ru": "Это просто для справки.",
+    "note": "Tatoeba match was overly technical, replaced",
+    "noteId": 1619302347940
+  },
+  {
+    "expression": "参考書",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはがくしゅうさんこうしょをよみながらぐっすりねいってしまった。",
+    "meaning_ru": "справочник, учебное пособие",
+    "sentence_ru": "Она крепко заснула, читая учебное пособие.",
+    "noteId": 1619302361032
+  },
+  {
+    "expression": "賛成",
+    "sentence_jp": null,
+    "sentence_kana": "さんせいです。",
+    "meaning_ru": "согласие, одобрение",
+    "sentence_ru": "Я согласен(на).",
+    "noteId": 1619302373197
+  },
+  {
+    "expression": "サンダル",
+    "sentence_jp": null,
+    "sentence_kana": "あんなそこのあついサンダルはいてたら、ころんでねんざしちゃうぞ。",
+    "meaning_ru": "сандалии",
+    "sentence_ru": "Если носить такие сандалии с толстой подошвой, упадёшь и вывихнешь ногу.",
+    "noteId": 1619302381931
+  },
+  {
+    "expression": "幸せな",
+    "sentence_jp": null,
+    "sentence_kana": "ほかのだれかがかのじょをしあわせにしたとしてもかのじょがしあわせなら、それでいい。",
+    "meaning_ru": "счастливый",
+    "sentence_ru": "Даже если кто-то другой сделал её счастливой, если она счастлива — это хорошо.",
+    "noteId": 1619302389780
+  },
+  {
+    "expression": "シーズン",
+    "sentence_jp": null,
+    "sentence_kana": "やきゅうシーズンがはじまった。",
+    "meaning_ru": "сезон",
+    "sentence_ru": "Начался бейсбольный сезон.",
+    "noteId": 1619302425026
+  },
+  {
+    "expression": "シートベルト",
+    "sentence_jp": null,
+    "sentence_kana": "りりくのさいは、シートベルトをしめなくてはならない。",
+    "meaning_ru": "ремень безопасности",
+    "sentence_ru": "При взлёте нужно пристегнуть ремень безопасности.",
+    "noteId": 1619302435718
+  },
+  {
+    "expression": "次回",
+    "sentence_jp": "次回、詳しく説明します。",
+    "sentence_kana": "じかい、くわしくせつめいします。",
+    "meaning_ru": "в следующий раз",
+    "sentence_ru": "В следующий раз объясню подробнее.",
+    "note": "Tatoeba match was vague, replaced",
+    "noteId": 1619302527331
+  },
+  {
+    "expression": "資格",
+    "sentence_jp": null,
+    "sentence_kana": "せっかくべんごしのしかくがあるのにもったいない。",
+    "meaning_ru": "квалификация, право",
+    "sentence_ru": "Жаль, что имея квалификацию адвоката, ты её не используешь.",
+    "noteId": 1619302538128
+  },
+  {
+    "expression": "四季",
+    "sentence_jp": null,
+    "sentence_kana": "にほんにはしきがあります。",
+    "meaning_ru": "четыре времени года",
+    "sentence_ru": "В Японии есть четыре времени года.",
+    "noteId": 1619302548979
+  },
+  {
+    "expression": "～式",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはせんげつけっこんしきをあげました。",
+    "meaning_ru": "церемония (суффикс)",
+    "sentence_ru": "В прошлом месяце я сыграл(а) свадьбу.",
+    "noteId": 1619302559359
+  },
+  {
+    "expression": "時期",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはいちじき、てんたいぶつりがくしゃになりたかった。",
+    "meaning_ru": "период, время",
+    "sentence_ru": "Одно время я хотел(а) стать астрофизиком.",
+    "noteId": 1619302569812
+  },
+  {
+    "expression": "時給",
+    "sentence_jp": null,
+    "sentence_kana": "じきゅうはいくら？",
+    "meaning_ru": "почасовая оплата",
+    "sentence_ru": "Сколько платят в час?",
+    "noteId": 1619302578938
+  },
+  {
+    "expression": "事件",
+    "sentence_jp": null,
+    "sentence_kana": "さつじんじけんのはいごにひそむミステリーをときあかせ。",
+    "meaning_ru": "происшествие, дело",
+    "sentence_ru": "Раскрой тайну, скрытую за делом об убийстве.",
+    "noteId": 1619302589630
+  },
+  {
+    "expression": "時刻",
+    "sentence_jp": null,
+    "sentence_kana": "くろだしょうがっこうではきめられたじこくにあつまって、しゅうだんとうこうします。",
+    "meaning_ru": "время (момент)",
+    "sentence_ru": "В начальной школе Курода дети собираются в назначенное время и идут в школу группой.",
+    "noteId": 1619302602205
+  },
+  {
+    "expression": "指示",
+    "sentence_jp": "上司の指示に従う。",
+    "sentence_kana": "じょうしのしじにしたがう。",
+    "meaning_ru": "указание, инструкция",
+    "sentence_ru": "Следовать указаниям начальника.",
+    "note": "Tatoeba match was meta (about grammar terminology), replaced",
+    "noteId": 1619302619998
+  },
+  {
+    "expression": "自信",
+    "sentence_jp": null,
+    "sentence_kana": "ほんとうのじしんとからいばりはべつもんだいだ。",
+    "meaning_ru": "уверенность в себе",
+    "sentence_ru": "Настоящая уверенность и показное бахвальство — разные вещи.",
+    "noteId": 1619302635166
+  },
+  {
+    "expression": "沈む",
+    "sentence_jp": null,
+    "sentence_kana": "まるで、しずむふねからにげるネズミみたいね。",
+    "meaning_ru": "тонуть, садиться (о солнце)",
+    "sentence_ru": "Прямо как крысы, бегущие с тонущего корабля.",
+    "noteId": 1619302642601
+  },
+  {
+    "expression": "姿勢",
+    "sentence_jp": null,
+    "sentence_kana": "かれはらくなしせいでよこになった。",
+    "meaning_ru": "осанка, поза",
+    "sentence_ru": "Он лёг в удобной позе.",
+    "noteId": 1619302652841
+  },
+  {
+    "expression": "自然",
+    "sentence_jp": null,
+    "sentence_kana": "しぜんなじょうたいのかみのけには、ゆぶんがふくまれています。",
+    "meaning_ru": "природа",
+    "sentence_ru": "В волосах в естественном состоянии содержится жир.",
+    "noteId": 1619302661833
+  },
+  {
+    "expression": "舌",
+    "sentence_jp": null,
+    "sentence_kana": "にがむしをかみつぶしたようなかおで、あやのちゃんはしたうちした。",
+    "meaning_ru": "язык (орган)",
+    "sentence_ru": "Скорчив недовольную мину, Аяно цокнула языком.",
+    "noteId": 1619302669098
+  },
+  {
+    "expression": "自宅",
+    "sentence_jp": null,
+    "sentence_kana": "きんりんのいえはこわれたが、じたくはすこしのしゅうぜんひですんだ。",
+    "meaning_ru": "собственный дом",
+    "sentence_ru": "Соседние дома были разрушены, а мой дом обошёлся небольшим ремонтом.",
+    "noteId": 1619302680014
+  },
+  {
+    "expression": "親しい",
+    "sentence_jp": null,
+    "sentence_kana": "また、したしいあいだがらであることから、ぼうりょくのひがいをうけやすく、そのひがいをうったえにくいというじったいがある。",
+    "meaning_ru": "близкий (о дружбе)",
+    "sentence_ru": "Кроме того, из-за близких отношений люди чаще становятся жертвами насилия, и им труднее заявить об этом.",
+    "noteId": 1619302693496
+  },
+  {
+    "expression": "試着",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはあたらしいドレスをしちゃくした。",
+    "meaning_ru": "примерка",
+    "sentence_ru": "Она примерила новое платье.",
+    "noteId": 1619302717521
+  },
+  {
+    "expression": "しっかり",
+    "sentence_jp": null,
+    "sentence_kana": "たいていのがくげいは、さいしょにきそをしっかりやっておかないと、そのさきスムーズにみにつけることができません。",
+    "meaning_ru": "крепко, как следует",
+    "sentence_ru": "В большинстве наук и искусств, если сначала не заложить прочную основу, дальше освоить материал гладко не получится.",
+    "noteId": 1619302741711
+  },
+  {
+    "expression": "実験",
+    "sentence_jp": null,
+    "sentence_kana": "きょうはオームのほうそくにかんするじっけんをおこないます。",
+    "meaning_ru": "эксперимент",
+    "sentence_ru": "Сегодня проведём эксперимент по закону Ома.",
+    "noteId": 1619302757502
+  },
+  {
+    "expression": "実現",
+    "sentence_jp": "夢が実現した。",
+    "sentence_kana": "ゆめがじつげんした。",
+    "meaning_ru": "осуществление, реализация",
+    "sentence_ru": "Мечта осуществилась.",
+    "note": "Tatoeba match was an odd sentence about pet amulets, replaced",
+    "noteId": 1619302787070
+  },
+  {
+    "expression": "しつこい",
+    "sentence_jp": null,
+    "sentence_kana": "ホントしつこいなぁ、しのぶさん。なんかこんまけしそう。",
+    "meaning_ru": "навязчивый, приторный",
+    "sentence_ru": "Ну ты и настойчивая, Синобу-сан. Кажется, я сдамся.",
+    "noteId": 1619302797171
+  },
+  {
+    "expression": "実際",
+    "sentence_jp": null,
+    "sentence_kana": "もぎしけんになんかいもしっぱいして、じっさいにうけてみたらおもわぬけっかがでた。",
+    "meaning_ru": "действительность, реальность",
+    "sentence_ru": "Много раз проваливал(а) пробные экзамены, но сдав настоящий, получил(а) неожиданный результат.",
+    "noteId": 1619302806713
+  },
+  {
+    "expression": "実際に",
+    "sentence_jp": null,
+    "sentence_kana": "もぎしけんになんかいもしっぱいして、じっさいにうけてみたらおもわぬけっかがでた。",
+    "meaning_ru": "на самом деле",
+    "sentence_ru": "Много раз проваливал(а) пробные экзамены, но сдав настоящий, получил(а) неожиданный результат.",
+    "noteId": 1619302818101
+  },
+  {
+    "expression": "湿度",
+    "sentence_jp": null,
+    "sentence_kana": "しょくぶつのせいちょうとせいさんせいは、きおんとしつどがつくりだすいりくんだかんけいにびんかんにはんのうする。",
+    "meaning_ru": "влажность",
+    "sentence_ru": "Рост и продуктивность растений чутко реагируют на сложную взаимосвязь температуры и влажности.",
+    "noteId": 1619302829318
+  },
+  {
+    "expression": "じっと",
+    "sentence_jp": null,
+    "sentence_kana": "まいあさちょうしょくをとっているあいだ、かれのいぬはかれをじっとみつめていた。",
+    "meaning_ru": "пристально; терпеливо неподвижно",
+    "sentence_ru": "Каждое утро, пока он завтракал, его собака пристально смотрела на него.",
+    "noteId": 1619302838463
+  },
+  {
+    "expression": "実は",
+    "sentence_jp": "実は、彼が犯人だった。",
+    "sentence_kana": "じつは、かれがはんにんだった。",
+    "meaning_ru": "на самом деле, честно говоря",
+    "sentence_ru": "На самом деле, преступником был он.",
+    "note": "Tatoeba match required too much extra story context, replaced",
+    "noteId": 1619302845393
+  },
+  {
+    "expression": "実力",
+    "sentence_jp": "彼は実力がある。",
+    "sentence_kana": "かれはじつりょくがある。",
+    "meaning_ru": "реальные способности, сила",
+    "sentence_ru": "У него есть реальные способности.",
+    "note": "Tatoeba match was a technical product review, replaced",
+    "noteId": 1619302854650
+  },
+  {
+    "expression": "指導",
+    "sentence_jp": "先生の指導を受ける。",
+    "sentence_kana": "せんせいのしどうをうける。",
+    "meaning_ru": "руководство, наставничество",
+    "sentence_ru": "Получать наставления от учителя.",
+    "note": "Tatoeba match was bureaucratic, replaced",
+    "noteId": 1619302873591
+  },
+  {
+    "expression": "ジーンズ",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはあねのジーンズをはいてかがみをみた。",
+    "meaning_ru": "джинсы",
+    "sentence_ru": "Она надела джинсы старшей сестры и посмотрела в зеркало.",
+    "noteId": 1619302984824
+  },
+  {
+    "expression": "支払い",
+    "sentence_jp": "支払いは現金でお願いします。",
+    "sentence_kana": "しはらいはげんきんでおねがいします。",
+    "meaning_ru": "оплата, платёж",
+    "sentence_ru": "Пожалуйста, оплатите наличными.",
+    "note": "Tatoeba match was vague, replaced",
+    "noteId": 1619304851257
+  },
+  {
+    "expression": "支払う",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょは、わたしがかんじょうをしはらうようにいいはった。",
+    "meaning_ru": "платить",
+    "sentence_ru": "Она настояла, чтобы я оплатил(а) счёт.",
+    "noteId": 1619304860467
+  },
+  {
+    "expression": "しばらく",
+    "sentence_jp": null,
+    "sentence_kana": "いよいよこんしゅうをかぎりに、しばらくのおやすみです。",
+    "meaning_ru": "некоторое время, ненадолго",
+    "sentence_ru": "Наконец-то, начиная с конца этой недели, у меня будет отпуск на некоторое время.",
+    "noteId": 1619304870471
+  },
+  {
+    "expression": "縛る",
+    "sentence_jp": null,
+    "sentence_kana": "はをくいしばる、のどもとまでせりあがったかんじょうをごういんにのみこむ。",
+    "meaning_ru": "связывать",
+    "sentence_ru": "Стиснуть зубы, силой проглотить эмоции, подступившие к горлу.",
+    "noteId": 1619304879756
+  },
+  {
+    "expression": "しまう",
+    "sentence_jp": "おもちゃを箱にしまう。",
+    "sentence_kana": "おもちゃをはこにしまう。",
+    "meaning_ru": "убирать, класть на место",
+    "sentence_ru": "Убрать игрушки в коробку.",
+    "note": "Tatoeba match used しまう as the auxiliary 'end up doing', replaced to show the main 'put away' sense",
+    "noteId": 1619304885474
+  },
+  {
+    "expression": "自慢",
+    "sentence_jp": null,
+    "sentence_kana": "りょうしんがコンサートでぼくのことをじまんするさまをみて、ばつがわるかった。",
+    "meaning_ru": "хвастаться",
+    "sentence_ru": "Мне было неловко видеть, как родители хвастаются мной на концерте.",
+    "noteId": 1619304926827
+  },
+  {
+    "expression": "地味な",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはじみないろをこのむ。",
+    "meaning_ru": "скромный, неброский",
+    "sentence_ru": "Она предпочитает неброские цвета.",
+    "noteId": 1619304972522
+  },
+  {
+    "expression": "ジム",
+    "sentence_jp": "毎日ジムに通っている。",
+    "sentence_kana": "まいにちジムにかよっている。",
+    "meaning_ru": "спортзал",
+    "sentence_ru": "Я каждый день хожу в спортзал.",
+    "note": "Tatoeba match used ジム as the name 'Jim', not the gym, replaced",
+    "noteId": 1619304991305
+  },
+  {
+    "expression": "示す",
+    "sentence_jp": null,
+    "sentence_kana": "だいようりょうのＲＡＭがとうさいされていると、メモリぶそくをしめすエラーメッセージがひょうじされる。",
+    "meaning_ru": "показывать, указывать",
+    "sentence_ru": "Если установлено много оперативной памяти, отображается сообщение об ошибке, указывающее на нехватку памяти.",
+    "noteId": 1619304998993
+  }
+]
