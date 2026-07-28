@@ -1,0 +1,424 @@
+[
+  {
+    "expression": "かなり",
+    "sentence_jp": null,
+    "sentence_kana": "しょくば・しごとのへんかで、かなりストレスがたまっているのもある。",
+    "meaning_ru": "довольно, значительно",
+    "sentence_ru": "Из-за изменений на работе у меня накопилось довольно много стресса.",
+    "noteId": 1619297623753
+  },
+  {
+    "expression": "我慢",
+    "sentence_jp": "痛みを我慢する。",
+    "sentence_kana": "いたみをがまんする。",
+    "meaning_ru": "терпение, выдержка",
+    "sentence_ru": "Терпеть боль.",
+    "note": "Tatoeba match was rude/casual, replaced",
+    "noteId": 1619297686689
+  },
+  {
+    "expression": "神",
+    "sentence_jp": "彼は神を信じている。",
+    "sentence_kana": "かれはかみをしんじている。",
+    "meaning_ru": "бог",
+    "sentence_ru": "Он верит в Бога.",
+    "note": "Tatoeba match was about 'the spirit of a treaty', unrelated to God, replaced",
+    "noteId": 1619297695771
+  },
+  {
+    "expression": "雷",
+    "sentence_jp": null,
+    "sentence_kana": "しょしんはあくをかみなりでうつという。",
+    "meaning_ru": "гром, молния",
+    "sentence_ru": "Говорят, что боги поражают зло молнией.",
+    "noteId": 1619297705034
+  },
+  {
+    "expression": "画面",
+    "sentence_jp": null,
+    "sentence_kana": "かんりようがめんにかんりしゃしかアクセスできないようにしました。",
+    "meaning_ru": "экран",
+    "sentence_ru": "Сделали так, чтобы к экрану управления мог получить доступ только администратор.",
+    "noteId": 1619297740024
+  },
+  {
+    "expression": "かゆい",
+    "sentence_jp": null,
+    "sentence_kana": "めがかゆいです。",
+    "meaning_ru": "зудящий, чешется",
+    "sentence_ru": "Глаза чешутся.",
+    "noteId": 1619297746693
+  },
+  {
+    "expression": "からから",
+    "sentence_jp": "のどがからからだ。",
+    "sentence_kana": "のどがからからだ。",
+    "meaning_ru": "сухой, пересохший",
+    "sentence_ru": "В горле совсем пересохло.",
+    "note": "Tatoeba match used からかう (to tease), a different word, replaced",
+    "noteId": 1619297753809
+  },
+  {
+    "expression": "がらがら",
+    "sentence_jp": null,
+    "sentence_kana": "きょう、がらがらだね。このじかんたいってあいているのかね。",
+    "meaning_ru": "пустой (о людном месте)",
+    "sentence_ru": "Сегодня как-то пусто. Может, в это время просто немноголюдно.",
+    "noteId": 1619297764006
+  },
+  {
+    "expression": "カロリー",
+    "sentence_jp": null,
+    "sentence_kana": "にくたいはよぶんなカロリーをしぼうにかえる。",
+    "meaning_ru": "калория",
+    "sentence_ru": "Тело превращает лишние калории в жир.",
+    "noteId": 1619297771114
+  },
+  {
+    "expression": "皮",
+    "sentence_jp": "リンゴの皮をむく。",
+    "sentence_kana": "リンゴのかわをむく。",
+    "meaning_ru": "кожура, шкура",
+    "sentence_ru": "Чистить кожуру яблока.",
+    "note": "Tatoeba match used the idiom 皮切りに (as a starting point), replaced",
+    "noteId": 1619297779035
+  },
+  {
+    "expression": "革",
+    "sentence_jp": "革のジャケットを買った。",
+    "sentence_kana": "かわのジャケットをかった。",
+    "meaning_ru": "кожа (материал)",
+    "sentence_ru": "Я купил(а) кожаную куртку.",
+    "note": "Tatoeba match was a complex historical passage, replaced",
+    "noteId": 1619298087097
+  },
+  {
+    "expression": "可愛がる",
+    "sentence_jp": null,
+    "sentence_kana": "おやというものは、どんなにわんぱくでも、こどもをかわいがるものです。",
+    "meaning_ru": "любить, баловать, заботиться о",
+    "sentence_ru": "Родители любят своих детей, какими бы шалунами они ни были.",
+    "noteId": 1619298167180
+  },
+  {
+    "expression": "代わる",
+    "sentence_jp": null,
+    "sentence_kana": "ことわったばあいに、それにかわるものはなにか。",
+    "meaning_ru": "заменять, замещать",
+    "sentence_ru": "В случае отказа, что послужит заменой?",
+    "noteId": 1619298175396
+  },
+  {
+    "expression": "ガン",
+    "sentence_jp": "彼はガンと診断された。",
+    "sentence_kana": "かれはガンとしんだんされた。",
+    "meaning_ru": "рак (болезнь)",
+    "sentence_ru": "Ему поставили диагноз рак.",
+    "note": "Tatoeba match used ガンマ (gamma, wolf-pack hierarchy), unrelated, replaced",
+    "noteId": 1619298183603
+  },
+  {
+    "expression": "考え",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくがさいごにじぶんのかんがえをつたえたひとは、ぼくをきちがいだとおもったようだ。",
+    "meaning_ru": "мысль, мнение",
+    "sentence_ru": "Последний человек, которому я высказал своё мнение, похоже, счёл меня чокнутым.",
+    "noteId": 1619298241358
+  },
+  {
+    "expression": "感覚",
+    "sentence_jp": "手の感覚がない。",
+    "sentence_kana": "てのかんかくがない。",
+    "meaning_ru": "чувство, ощущение",
+    "sentence_ru": "Не чувствую руку.",
+    "note": "Tatoeba match was grammar jargon, replaced",
+    "noteId": 1619298315670
+  },
+  {
+    "expression": "歓迎",
+    "sentence_jp": "新入生を歓迎する。",
+    "sentence_kana": "しんにゅうせいをかんげいする。",
+    "meaning_ru": "приветствовать, радушно принимать",
+    "sentence_ru": "Приветствовать новых студентов.",
+    "note": "Tatoeba match was a complex political passage, replaced",
+    "noteId": 1619298363477
+  },
+  {
+    "expression": "観光",
+    "sentence_jp": null,
+    "sentence_kana": "ナイアガラのたきはせかいゆうすうのかんこうちとしてなだかい。",
+    "meaning_ru": "туризм",
+    "sentence_ru": "Ниагарский водопад славится как один из ведущих туристических объектов мира.",
+    "noteId": 1619298389838
+  },
+  {
+    "expression": "看護師",
+    "sentence_jp": "彼女は看護師として働いている。",
+    "sentence_kana": "かのじょはかんごしとしてはたらいている。",
+    "meaning_ru": "медсестра/медбрат",
+    "sentence_ru": "Она работает медсестрой.",
+    "note": "Tatoeba match was crude/vulgar, replaced",
+    "noteId": 1619298416645
+  },
+  {
+    "expression": "観察",
+    "sentence_jp": null,
+    "sentence_kana": "たいようのこくてんをかんさつしよう。",
+    "meaning_ru": "наблюдение",
+    "sentence_ru": "Давайте понаблюдаем за солнечными пятнами.",
+    "noteId": 1619298437115
+  },
+  {
+    "expression": "感じ",
+    "sentence_jp": null,
+    "sentence_kana": "おわったあとも あしがかるいかんじがしました。",
+    "meaning_ru": "ощущение, впечатление",
+    "sentence_ru": "Даже после того, как всё закончилось, ощущение было, будто ноги лёгкие.",
+    "noteId": 1619298445529
+  },
+  {
+    "expression": "感謝",
+    "sentence_jp": "いつも感謝しています。",
+    "sentence_kana": "いつもかんしゃしています。",
+    "meaning_ru": "благодарность",
+    "sentence_ru": "Я всегда благодарен(на).",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298459657
+  },
+  {
+    "expression": "感情",
+    "sentence_jp": null,
+    "sentence_kana": "そのよるいぜん、かれらのあいだにあくかんじょうはけっしてなかった。",
+    "meaning_ru": "чувство, эмоция",
+    "sentence_ru": "До той ночи между ними никогда не было дурных чувств.",
+    "noteId": 1619298473374
+  },
+  {
+    "expression": "感じる",
+    "sentence_jp": null,
+    "sentence_kana": "りょうしょをよむといつもしあわせだとかんじる。",
+    "meaning_ru": "чувствовать",
+    "sentence_ru": "Когда читаю хорошую книгу, всегда чувствую себя счастливым(ой).",
+    "noteId": 1619298485702
+  },
+  {
+    "expression": "関心",
+    "sentence_jp": "政治にあまり関心がない。",
+    "sentence_kana": "せいじにあまりかんしんがない。",
+    "meaning_ru": "интерес",
+    "sentence_ru": "Я не особо интересуюсь политикой.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298497085
+  },
+  {
+    "expression": "完成",
+    "sentence_jp": "ようやく作品が完成した。",
+    "sentence_kana": "ようやくさくひんがかんせいした。",
+    "meaning_ru": "завершение",
+    "sentence_ru": "Наконец работа завершена.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298511714
+  },
+  {
+    "expression": "完全な",
+    "sentence_jp": null,
+    "sentence_kana": "かれはながくせいてつぎょうをしはいしたが、かんぜんなどくせんにはいたらなかった。",
+    "meaning_ru": "полный, совершенный",
+    "sentence_ru": "Он долго доминировал в сталелитейной отрасли, но не достиг полной монополии.",
+    "noteId": 1619298523282
+  },
+  {
+    "expression": "感想",
+    "sentence_jp": null,
+    "sentence_kana": "かれはそのしのかんそうをのべた。",
+    "meaning_ru": "впечатление, отзыв",
+    "sentence_ru": "Он высказал своё впечатление об этом стихотворении.",
+    "noteId": 1619298536031
+  },
+  {
+    "expression": "乾燥",
+    "sentence_jp": null,
+    "sentence_kana": "ウィッチヘーゼルは、かんそうさせずにけあなをひきしめます。",
+    "meaning_ru": "сухость",
+    "sentence_ru": "Гамамелис сужает поры, не пересушивая кожу.",
+    "noteId": 1619298558715
+  },
+  {
+    "expression": "感動",
+    "sentence_jp": "この映画に感動した。",
+    "sentence_kana": "このえいがにかんどうした。",
+    "meaning_ru": "волнение, быть тронутым/впечатлённым",
+    "sentence_ru": "Меня тронул этот фильм.",
+    "note": "Tatoeba match was overly excited/casual, replaced",
+    "noteId": 1619298624733
+  },
+  {
+    "expression": "監督",
+    "sentence_jp": null,
+    "sentence_kana": "いいかんとくをさがすのにさんねんついやしたが、みつからなかった。",
+    "meaning_ru": "режиссёр, тренер",
+    "sentence_ru": "Три года потратили на поиск хорошего тренера, но так и не нашли.",
+    "noteId": 1619298639866
+  },
+  {
+    "expression": "乾杯",
+    "sentence_jp": "友達の成功に乾杯した。",
+    "sentence_kana": "ともだちのせいこうにかんぱいした。",
+    "meaning_ru": "тост, «ура!»",
+    "sentence_ru": "Мы подняли тост за успех друга.",
+    "note": "Tatoeba match was an odd/casual sentence, replaced",
+    "noteId": 1619298655071
+  },
+  {
+    "expression": "管理",
+    "sentence_jp": null,
+    "sentence_kana": "これはせかいのじょうしきであり、しげんかんりのだいげんそくだ。",
+    "meaning_ru": "управление, менеджмент",
+    "sentence_ru": "Это общемировая норма и основной принцип управления ресурсами.",
+    "noteId": 1619298669596
+  },
+  {
+    "expression": "記憶",
+    "sentence_jp": "昔の記憶が蘇った。",
+    "sentence_kana": "むかしのきおくがよみがえった。",
+    "meaning_ru": "память, воспоминание",
+    "sentence_ru": "Вспомнились старые воспоминания.",
+    "note": "Tatoeba match was overly casual/unclear, replaced",
+    "noteId": 1619298682563
+  },
+  {
+    "expression": "気温",
+    "sentence_jp": null,
+    "sentence_kana": "あしたのきおんはどうだろうか。",
+    "meaning_ru": "температура воздуха",
+    "sentence_ru": "Какая завтра будет температура воздуха?",
+    "noteId": 1619298694941
+  },
+  {
+    "expression": "着替える",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはふくをきがえるためにいえへかえった。",
+    "meaning_ru": "переодеваться",
+    "sentence_ru": "Я вернулся(лась) домой, чтобы переодеться.",
+    "noteId": 1619298705234
+  },
+  {
+    "expression": "期間",
+    "sentence_jp": "契約期間は一年だ。",
+    "sentence_kana": "けいやくきかんはいちねんだ。",
+    "meaning_ru": "период, срок",
+    "sentence_ru": "Срок контракта — один год.",
+    "note": "Tatoeba match was overly technical (license renewal), replaced",
+    "noteId": 1619298726426
+  },
+  {
+    "expression": "企業",
+    "sentence_jp": "この企業は成長している。",
+    "sentence_kana": "このきぎょうはせいちょうしている。",
+    "meaning_ru": "предприятие, компания",
+    "sentence_ru": "Эта компания растёт.",
+    "note": "Tatoeba match was internet-forum-specific, replaced",
+    "noteId": 1619298763626
+  },
+  {
+    "expression": "効く",
+    "sentence_jp": null,
+    "sentence_kana": "すべてのしょうひんおよびレストランでわりびきがきくわけではありません。",
+    "meaning_ru": "действовать, помогать (о лекарстве и т.п.)",
+    "sentence_ru": "Скидка действует не на все товары и рестораны.",
+    "noteId": 1619298773408
+  },
+  {
+    "expression": "期限",
+    "sentence_jp": "レポートの提出期限は明日だ。",
+    "sentence_kana": "レポートのていしゅつきげんはあしただ。",
+    "meaning_ru": "срок (истечения)",
+    "sentence_ru": "Срок сдачи отчёта — завтра.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298783787
+  },
+  {
+    "expression": "記者",
+    "sentence_jp": null,
+    "sentence_kana": "よいしんぶんきしゃは、どんなニュースげんからも、つまり、しゅっしょふめいがたのニュースげんからも、まなびとれるものはなんでもりようする。",
+    "meaning_ru": "журналист, репортёр",
+    "sentence_ru": "Хороший журналист использует всё, чему может научиться, из любого источника новостей, даже неизвестного происхождения.",
+    "noteId": 1619298856819
+  },
+  {
+    "expression": "傷",
+    "sentence_jp": "転んで足に傷ができた。",
+    "sentence_kana": "ころんであしにきずができた。",
+    "meaning_ru": "рана, царапина",
+    "sentence_ru": "Я упал(а) и поранил(а) ногу.",
+    "note": "Tatoeba match used 中傷 (slander), a different word, replaced",
+    "noteId": 1619298867438
+  },
+  {
+    "expression": "基礎",
+    "sentence_jp": null,
+    "sentence_kana": "たいていのがくげいは、さいしょにきそをしっかりやっておかないと、そのさきスムーズにみにつけることができません。",
+    "meaning_ru": "основа, база",
+    "sentence_ru": "В большинстве наук и искусств, если сначала не заложить прочную основу, дальше освоить материал гладко не получится.",
+    "noteId": 1619298877037
+  },
+  {
+    "expression": "期待",
+    "sentence_jp": "君の成功に期待している。",
+    "sentence_kana": "きみのせいこうにきたいしている。",
+    "meaning_ru": "ожидание",
+    "sentence_ru": "Я жду от тебя успеха.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298939925
+  },
+  {
+    "expression": "帰宅",
+    "sentence_jp": "遅く帰宅した。",
+    "sentence_kana": "おそくきたくした。",
+    "meaning_ru": "возвращение домой",
+    "sentence_ru": "Я поздно вернулся(лась) домой.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298953736
+  },
+  {
+    "expression": "貴重な",
+    "sentence_jp": "これは貴重な経験だった。",
+    "sentence_kana": "これはきちょうなけいけんだった。",
+    "meaning_ru": "ценный, драгоценный",
+    "sentence_ru": "Это был ценный опыт.",
+    "note": "Tatoeba match was overly casual, replaced",
+    "noteId": 1619298964047
+  },
+  {
+    "expression": "きちんとした",
+    "sentence_jp": null,
+    "sentence_kana": "かれはひじょうにきちんとしたひとなので、すべてのなべるいはあるべきばしょにせいりされている。",
+    "meaning_ru": "аккуратный, порядочный",
+    "sentence_ru": "Он очень аккуратный человек, поэтому вся посуда разложена по своим местам.",
+    "noteId": 1619299098963
+  },
+  {
+    "expression": "きつい",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょかおににあわず、いうことがきついよね。",
+    "meaning_ru": "тесный; тяжёлый, суровый",
+    "sentence_ru": "Несмотря на её лицо, она говорит довольно резко, да?",
+    "noteId": 1619299451177
+  },
+  {
+    "expression": "ぎっしり",
+    "sentence_jp": null,
+    "sentence_kana": "かれはたなにほんをぎっしりつめこんだ。",
+    "meaning_ru": "плотно набитый",
+    "sentence_ru": "Он плотно набил полку книгами.",
+    "noteId": 1619299460912
+  },
+  {
+    "expression": "気に入る",
+    "sentence_jp": null,
+    "sentence_kana": "あしをぼうにしてさがしても、きにいるものがありませんでした。",
+    "meaning_ru": "нравиться, приходиться по душе",
+    "sentence_ru": "Даже сбив ноги в поисках, я не нашёл(нашла) ничего, что понравилось бы.",
+    "noteId": 1619299475037
+  }
+]
