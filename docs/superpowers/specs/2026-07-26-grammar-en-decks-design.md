@@ -51,7 +51,14 @@ Fields (original, now superseded — kept for history): `Expression, Reading, Me
 - `Connection`: the conjugation-form connection rules (`гл.辞書形→...`, etc.)
 - `ExpressionClean`: bare sentence, no bold/ruby (used on the front-card side)
 
-### Current fields (8, order matters): `Expression, Reading, Construction, Meaning, PatternForm, PatternMeaning, Connection, ExpressionClean`
+### Current fields (7, order matters): `Expression, Reading, Construction, Meaning, PatternForm, PatternMeaning, Connection`
+
+> **Revised again during the bug audit (2026-07-27):** `ExpressionClean` was removed
+> entirely — once the front card switched to `{{Expression}}<hr>{{Construction}}` (see
+> below), nothing referenced `ExpressionClean` anymore. Confirmed dead via grep across
+> `src/jpvocab/` before removing it from the notetype JSON, the extractor script, and
+> the live Anki notetype (`modelFieldRemove`). If you're reading an older note about "8
+> fields" anywhere, it's stale — 7 is current.
 
 - `Expression`: full example sentence, the grammar point in `<b>...</b>`, may include `<ruby>` furigana
 - `Reading`: same sentence in plain kana
@@ -65,9 +72,11 @@ Fields (original, now superseded — kept for history): `Expression, Reading, Me
   Any Japanese word that appears must carry a literal `<ruby>kanji<rt>reading</rt></ruby>` tag —
   never bare kanji with no reading shown, the user cannot parse unfamiliar kanji chains
   without it. Example: `<ruby>食べる<rt>たべる</rt></ruby> (словарная форма) → 食べるうちに<br><ruby>見<rt>み</rt></ruby>ている (длительная форма) → 見ているうちに`
-- `ExpressionClean`: bare sentence, no bold/ruby (used on the front-card side)
-
-Cards: 1 card type. Front = `ExpressionClean`. Back = every field in the order above,
+Cards: 1 card type. Front = `{{Expression}}<hr>{{Construction}}` (shows the bolded
+construction inline in context, then repeats it bare below — mirrors how Core2k6k's own
+Reading-card front works, not a "clean/spoiler-free" front; `ExpressionClean` served that
+purpose in an earlier revision and was removed once this became the front, see above).
+Back = every field in the order above,
 separated by `<hr>` between EVERY section (not just some) — this was the other major
 readability complaint: the original template ran everything together with no visual
 break at all. `PatternForm`/`PatternMeaning` render as two explicitly labeled lines
@@ -79,8 +88,17 @@ variable. This notetype's own CSS snapshot (`notetype_jpgrammar.json`, not the s
 `Конструкция:`/`Значение:`/`Примеры:` labels — don't add this to the shared Core2k6k
 snapshot, it's specific to this notetype's template needs.
 
-Notetype name: `JP Grammar (jpvocab)`. Default deck name: `N3 Grammar` (matches the
-existing deck the user already studies from — new cards land alongside it).
+Notetype name: `JP Grammar (jpvocab)`. Default deck name: `N3 Grammar`.
+
+> **Important, discovered 2026-07-27 during real-data migration:** `N3 Grammar` (this
+> notetype's default deck) is a near-empty deck (1 note — the original smoke test) —
+> it is **not** the user's real, actively-studied N3 grammar deck. That real deck is
+> `Japanese Grammar::Shin Kanzen Master N3` (205 notes, notetype `N3 Grammar+`), a
+> completely different, pre-existing notetype. See "Wiring to the user's real legacy
+> notetypes" below — **for actual N3/N2 grammar generation, use `n3grammar_live.py` /
+> `n2grammar_live.py`, not `jpgrammar.py`.** `jpgrammar.py`/`JP_GRAMMAR_NOTETYPE` is kept
+> only as the pattern to copy for a brand-new JP-grammar-style deck that has no existing
+> legacy notetype to reuse — it is not deleted, but it is not the live path for N3/N2.
 
 ## New notetype 2: EN Vocab
 
@@ -196,6 +214,19 @@ legacy deck):
 - **Visually separate every distinct piece of information with `<hr>`** — cramming
   multiple semantically different lines together (as the very first JP Grammar template
   did) was the single most common complaint across both live smoke tests.
+  - **Explicit exception, EN Vocab and EN Grammar/Collocations only (user decision,
+    2026-07-27):** headword/pattern and its meaning stay together with NO `<hr>` between
+    them (just `<br>`) — the only `<hr>` in these two templates sits right before the
+    example sentence. This was deliberate, requested twice after the general rule had
+    already been applied and reverted: `{{Word}}<br>{{Meaning}}<hr><i>{{ExampleEN}}</i>`
+    for EN Vocab, `{{Pattern}}<br>{{Meaning}}<hr><i>{{Example}}</i>` for EN Grammar. Do
+    NOT "fix" this back to hr-between-everything — it was tried and explicitly rejected.
+    JP Grammar's every-section-hr rule stands as originally specified; this exception is
+    scoped to only these two English notetypes.
+  - Also for EN Vocab/EN Grammar: `Transcription`/`POS` (EN Vocab) and `Register` (EN
+    Grammar) are real fields kept in the schema but deliberately **not rendered** in the
+    template at all — the user asked for the word/pattern to flow straight into the
+    translation with nothing in between, not even on its own hr-separated line.
 
 ## Testing
 
@@ -216,8 +247,64 @@ applies to JP vocab's fixed field name; for these three notetypes, dedup is out 
 for this pass (grammar patterns and collocations are added in much smaller batches than
 6000-word vocab lists, duplicate risk is low and the user reviews before pushing anyway).
 
-## Out of scope
+## Wiring to the user's real legacy notetypes (TOEIC / N3 / N2, 2026-07-27)
 
-Mining (Lapis) CSS restyle — separate, smaller follow-up (styling-only change to an
-existing notetype via AnkiConnect `updateModelStyling`/`updateModelTemplates`, no new
-Python module needed).
+Beyond the three brand-new notetypes above, three of the user's pre-existing real decks
+were restyled AND wired into the codebase so future generation targets them directly
+instead of creating yet another parallel notetype:
+
+- `TOEIC Formatted` (1596 real notes, deck `TOEIC 1600 Essential Words`) → restyled
+  (Core2k6k CSS, one `<hr>` between `Front` and `Back`) → `src/jpvocab/toeic.py`
+  (`TOEIC_NOTETYPE`, `build_note`).
+- `N3 Grammar+` (205 real notes, deck `Japanese Grammar::Shin Kanzen Master N3`) →
+  restyled + content-migrated (see "Real-data migration lessons" above) →
+  `src/jpvocab/n3grammar_live.py` (`N3_GRAMMAR_LIVE_NOTETYPE`, `build_note`).
+- `N2 Grammar v3` (5 real notes, deck `Japanese Grammar::Shin Kanzen Master N2`) → same
+  treatment → `src/jpvocab/n2grammar_live.py` (`N2_GRAMMAR_LIVE_NOTETYPE`, `build_note`).
+
+Snapshots for these three are extracted directly from the live, already-restyled Anki
+collection via `scripts/extract_live_notetype.py` (AnkiConnect `modelFieldNames` +
+`modelTemplates` + `modelStyling`, read-only) — there's no clean `.apkg` export to pull
+them from the way `notetype_snapshot.json`/`notetype_jpgrammar.json` were extracted, since
+these notetypes only exist live in the user's own collection.
+
+**Field-value migration on the 210 real N3/N2 notes was safe because it never changed
+notetype** — see "Real-data migration lessons" above for exactly what was touched
+(new fields added, `Pattern` split, jargon translated, ruby/newlines fixed) and what
+wasn't (no note ever changed which notetype it uses, so review scheduling was never at
+risk).
+
+### AnkiConnect notetype auto-creation
+
+`ankiconnect.py` gained `model_names()` and `create_model(model_name, fields, css,
+templates)` (wrapping AnkiConnect's `modelNames`/`createModel`). `generate.quick_add`
+gained an optional `notetype: NotetypeSnapshot | None = None` parameter — when supplied
+and `model_name` isn't in `model_names()` yet, it auto-creates the notetype in Anki
+before adding notes. This exists because `AnkiConnect.addNotes` cannot create a new
+notetype on the fly — the very first live push of a genuinely new notetype (JP Grammar,
+EN Vocab, EN Grammar) hit `model was not found` until this was added. Not needed for
+`toeic.py`/`n3grammar_live.py`/`n2grammar_live.py` (those notetypes already exist), but
+still safe to pass `notetype=` for them too — the "already exists" branch is a no-op.
+
+## Mining (Lapis) — done, minimal (2026-07-27)
+
+User's ask, verbatim: bring fonts/accent color under the Core2k6k tone, keep everything
+else (structure, pitch graphs, dropdown glossary, image occlusion) exactly as-is — Lapis
+is a well-regarded third-party template, not something to restructure.
+
+Applied via `scripts/restyle_mining_lapis.py` (backup of the original CSS saved to
+`scripts/backup_lapis_css_before_restyle.json` first): only two CSS custom properties
+changed —
+- `--font-serif`/`--font-sans`: now lead with the same JP font stack used everywhere
+  else in this project (`"Hiragino Kaku Gothic Pro", "Noto Sans JP", "Meiryo", "MS
+  PGothic"`) before falling back to generic serif/sans-serif.
+- `--bold`: `#50c5d9` (cyan) → `#ab997e` (Core2k6k's tan accent) — this only affects
+  `<b>` emphasis inside glossary/hint text.
+
+**Deliberately left untouched:** the pitch-accent color variables (`--*-heiban`,
+`--*-atamadaka`, `--*-nakadaka`, `--*-odaka`, `--*-kifuku`) — these are semantically
+meaningful (they encode which pitch class a word belongs to) and the same distinct-hue
+convention Lapis ships with everywhere; recoloring them was explicitly declined by the
+user ("cмысловые, менять рискованно"). No new Python module — this is a live
+styling-only change, no notes are generated through Mining/Lapis by this project (the
+user's own Yomitan + asbplayer pipeline handles that, unrelated to `jpvocab`).

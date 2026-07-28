@@ -116,7 +116,27 @@ words[] → JMdict lookup (+LLM fallback) → pitch lookup + SVG render
   stored locally under this project (exact source files/licenses to be pinned during
   implementation planning).
 
+## Known gaps (spec describes intent; confirmed NOT implemented as of 2026-07-27 audit)
+
+Two things this spec describes as design intent were never actually built — flagging so
+a future session doesn't assume they work just because they're written above:
+
+- **"AnkiConnect unreachable during quick-add → fall back to genanki `.apkg`"**
+  (Error handling, above) — `generate.quick_add` has no try/except around the
+  AnkiConnect calls at all; an unreachable AnkiConnect just raises an uncaught
+  `requests` exception out of `quick_add`. No fallback path exists.
+- **"Homograph disambiguation uses the context sentence when one is available"**
+  (Component 2, above) — `dictionary.lookup_word`/`generate.draft_words` take no context
+  parameter anywhere; it's always `entries[0]` from the JMdict lookup, full stop.
+
+Neither has caused a real problem yet (not confirmed as a live bug, just an unbuilt
+feature) — implement only if it actually bites in practice, don't build it speculatively.
+
 ## Out of scope (future sub-projects)
 
 JP grammar generator, mining (Lapis) redesign, EN vocab/collocations/grammar family —
-each gets its own spec once this one ships.
+each gets its own spec once this one ships. **Update, 2026-07-27: all shipped** — see
+`docs/superpowers/specs/2026-07-26-grammar-en-decks-design.md` for JP grammar / EN vocab
+/ EN grammar-collocations / the Mining CSS-only restyle, and its "Wiring to the user's
+real legacy notetypes" section for how TOEIC/N3/N2 ended up using their own real,
+pre-existing notetypes rather than new jpvocab-specific ones.
