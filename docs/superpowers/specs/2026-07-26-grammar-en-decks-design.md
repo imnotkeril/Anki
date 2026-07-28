@@ -180,6 +180,13 @@ legacy deck):
   over the draft value (`generate.py`, commit `a547053`) specifically so the calling
   agent can — and should — always supply its own Russian translation instead of letting
   the English JMdict gloss pass through unchanged.
+- **This applies to `Sentence-English` too, despite its name.** That field name is
+  inherited verbatim from the real Core2k6k notetype (can't rename it — the schema must
+  match exactly) — but its CONTENT must be the agent's own Russian translation of the
+  sentence, not the raw English `draft.sentence_english` that `_tatoeba_lookup` resolves
+  (Tatoeba only pairs Japanese with English, there's no Russian corpus to draw from).
+  Always pass an explicit `sentence_english=` override in Russian to `finalize_draft` —
+  don't let the English default through just because the field's name says "English."
 - **Never show raw Japanese grammar terminology without a Russian gloss** (no bare ない形,
   辞書形, ている形, etc. anywhere in generated content) — always pair with a Russian label.
 - **Never show kanji without furigana** in any field the user is expected to read for
