@@ -1,0 +1,417 @@
+[
+  {
+    "expression": "科学",
+    "sentence_jp": null,
+    "sentence_kana": "せんせいがくはかがくてきなこんきょもないのに、とてもにんきがあって、せんせいがくはしんじているひとがおおいようです。",
+    "meaning_ru": "наука",
+    "sentence_ru": "Хотя у астрологии нет научного обоснования, она очень популярна, и, похоже, многие люди в неё верят.",
+    "noteId": 1618731730453
+  },
+  {
+    "expression": "科学者",
+    "sentence_jp": null,
+    "sentence_kana": "かがくしゃのつうへいは、あらゆるもんだいにぎじゅつてきかいけつさくがあるとごにんすること。",
+    "meaning_ru": "учёный",
+    "sentence_ru": "Общая ошибка учёных — ошибочно полагать, что у любой проблемы есть техническое решение.",
+    "noteId": 1618731799231
+  },
+  {
+    "expression": "科学的",
+    "sentence_jp": null,
+    "sentence_kana": "せんせいがくはかがくてきなこんきょもないのに、とてもにんきがあって、せんせいがくはしんじているひとがおおいようです。",
+    "meaning_ru": "научный",
+    "sentence_ru": "Хотя у астрологии нет научного обоснования, она очень популярна, и, похоже, многие люди в неё верят.",
+    "noteId": 1618731819505
+  },
+  {
+    "expression": "かかる",
+    "sentence_jp": null,
+    "sentence_kana": "はいしゃではについたたばこのヤニをとってもらうと、ひようはどれくらいかかるでしょう？",
+    "meaning_ru": "стоить, требоваться, заболевать",
+    "sentence_ru": "Сколько будет стоить удалить у стоматолога никотиновый налёт с зубов?",
+    "noteId": 1618731972198
+  },
+  {
+    "expression": "書き上がる",
+    "sentence_jp": "原稿が書き上がった。",
+    "sentence_kana": "げんこうがかきあがった。",
+    "meaning_ru": "быть дописанным",
+    "sentence_ru": "Рукопись дописана.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618731995045
+  },
+  {
+    "expression": "書き直す",
+    "sentence_jp": null,
+    "sentence_kana": "ちょしゃがほんをかきなおすたびにしんぱんとなる。",
+    "meaning_ru": "переписывать",
+    "sentence_ru": "Каждый раз, когда автор переписывает книгу, выходит новое издание.",
+    "noteId": 1618732077538
+  },
+  {
+    "expression": "かく",
+    "sentence_jp": "彼はいつも汗をかく。",
+    "sentence_kana": "かれはいつもあせをかく。",
+    "meaning_ru": "потеть, храпеть (в сочетаниях)",
+    "sentence_ru": "Он всегда потеет.",
+    "note": "Tatoeba match used せっかく, an unrelated homophone, replaced",
+    "noteId": 1618732090812
+  },
+  {
+    "expression": "各～",
+    "sentence_jp": null,
+    "sentence_kana": "きゅういちいちテロいらい、せかいのかくちでだいきぼなテロリズムがはっせいしている。",
+    "meaning_ru": "каждый (префикс)",
+    "sentence_ru": "После терактов 11 сентября масштабный терроризм происходит в разных уголках мира.",
+    "noteId": 1618732154806
+  },
+  {
+    "expression": "かぐ",
+    "sentence_jp": "花の香りをかぐ。",
+    "sentence_kana": "はなのかおりをかぐ。",
+    "meaning_ru": "нюхать, чуять",
+    "sentence_ru": "Нюхать аромат цветов.",
+    "note": "Tatoeba match was a false-positive match on いつのまにか+ぐっすり, replaced",
+    "noteId": 1618732161451
+  },
+  {
+    "expression": "家具",
+    "sentence_jp": null,
+    "sentence_kana": "ははおやのふるいかぐをうりはらわなければならないのはかなしい。",
+    "meaning_ru": "мебель",
+    "sentence_ru": "Грустно, что придётся продать старую мебель матери.",
+    "noteId": 1618732172933
+  },
+  {
+    "expression": "～学",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはいちじき、てんたいぶつりがくしゃになりたかった。",
+    "meaning_ru": "-ология, наука о (суффикс)",
+    "sentence_ru": "Одно время я хотел(а) стать астрофизиком.",
+    "noteId": 1618732195366
+  },
+  {
+    "expression": "隠す",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょははじらいのいろをかくすためにかおをそむけた。",
+    "meaning_ru": "прятать",
+    "sentence_ru": "Она отвернулась, чтобы скрыть смущение.",
+    "noteId": 1618732380915
+  },
+  {
+    "expression": "学生証",
+    "sentence_jp": null,
+    "sentence_kana": "がくせいさんまいください。これががくせいしょうです。",
+    "meaning_ru": "студенческий билет",
+    "sentence_ru": "Три студенческих билета, пожалуйста. Вот мой студенческий.",
+    "noteId": 1618732399311
+  },
+  {
+    "expression": "拡大",
+    "sentence_jp": null,
+    "sentence_kana": "このきょうどうじゅうたくは、かんきょうとけんこうにはいりょしたたてもの。こんご、このシステムとノウハウをさらにかくだいしていきたい。",
+    "meaning_ru": "расширение, увеличение",
+    "sentence_ru": "Этот жилой комплекс — здание, учитывающее экологию и здоровье. В дальнейшем мы хотим расширять эту систему и ноу-хау.",
+    "noteId": 1618732413941
+  },
+  {
+    "expression": "各分野",
+    "sentence_jp": "各分野の専門家が集まった。",
+    "sentence_kana": "かくぶんやのせんもんかがあつまった。",
+    "meaning_ru": "каждая область (сфера)",
+    "sentence_ru": "Собрались специалисты из разных областей.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618732456786
+  },
+  {
+    "expression": "確保",
+    "sentence_jp": null,
+    "sentence_kana": "いじょうのように、じつにシンプルなだれでもできるノウハウでじゅうぶんなりえきとこきゃくはかくほできるのです！",
+    "meaning_ru": "обеспечение, гарантирование",
+    "sentence_ru": "Как показано выше, с помощью действительно простого ноу-хау, доступного каждому, можно обеспечить достаточную прибыль и клиентов!",
+    "noteId": 1618732467277
+  },
+  {
+    "expression": "各方面",
+    "sentence_jp": "各方面から意見が寄せられた。",
+    "sentence_kana": "かくほうめんからいけんがよせられた。",
+    "meaning_ru": "разные стороны/круги",
+    "sentence_ru": "Со всех сторон поступили мнения.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618732483713
+  },
+  {
+    "expression": "革命",
+    "sentence_jp": null,
+    "sentence_kana": "かくめいせいふは、みんしゅうからへいをつのってぼうせんするとともに、きょうわせいじをかくりつして、とらえていたルイじゅうろくせいをしょけいしました。",
+    "meaning_ru": "революция",
+    "sentence_ru": "Революционное правительство набирало солдат из народа для обороны, установило республиканское правление и казнило захваченного Людовика XVI.",
+    "noteId": 1618732529196
+  },
+  {
+    "expression": "学力",
+    "sentence_jp": null,
+    "sentence_kana": "しかし、アメリカではふつう、スポーツチームはうででえらばれ、がくぎょうのコースはがくりょくによってえらばれます。",
+    "meaning_ru": "успеваемость, знания (уровень)",
+    "sentence_ru": "Однако в Америке обычно в спортивные команды отбирают по мастерству, а на учебные курсы — по успеваемости.",
+    "noteId": 1618732543302
+  },
+  {
+    "expression": "影",
+    "sentence_jp": null,
+    "sentence_kana": "いんえいにきをつけてみたのですがなかなかうまくいかないです。",
+    "meaning_ru": "тень, отражение",
+    "sentence_ru": "Я старался(лась) обращать внимание на светотень, но никак не получается хорошо.",
+    "noteId": 1618732552998
+  },
+  {
+    "expression": "陰",
+    "sentence_jp": null,
+    "sentence_kana": "いんえいにきをつけてみたのですがなかなかうまくいかないです。",
+    "meaning_ru": "тень, укрытие",
+    "sentence_ru": "Я старался(лась) обращать внимание на светотень, но никак не получается хорошо.",
+    "noteId": 1618732559678
+  },
+  {
+    "expression": "がけ崩れ",
+    "sentence_jp": "大雨でがけ崩れが起きた。",
+    "sentence_kana": "おおあめでがけくずれがおきた。",
+    "meaning_ru": "оползень",
+    "sentence_ru": "Из-за сильного дождя произошёл оползень.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618732576564
+  },
+  {
+    "expression": "駆け込む",
+    "sentence_jp": "彼は交番に駆け込んだ。",
+    "sentence_kana": "かれはこうばんにかけこんだ。",
+    "meaning_ru": "вбегать, забегать",
+    "sentence_ru": "Он вбежал в полицейский участок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618732593225
+  },
+  {
+    "expression": "掛け算",
+    "sentence_jp": null,
+    "sentence_kana": "こどもたちはかけざんをあんきしている。",
+    "meaning_ru": "умножение",
+    "sentence_ru": "Дети заучивают таблицу умножения.",
+    "noteId": 1618732633878
+  },
+  {
+    "expression": "かける",
+    "sentence_jp": null,
+    "sentence_kana": "あんなふたまたかけるおんななんかわすれたわ、ボケ。",
+    "meaning_ru": "накладывать, возлагать (идиома 二股かける — вести двойную игру)",
+    "sentence_ru": "Я уже забыла ту девушку, что вела двойную игру, дурень.",
+    "noteId": 1618732679155
+  },
+  {
+    "expression": "掛ける",
+    "sentence_jp": null,
+    "sentence_kana": "せいだいなためいきをつきながら、テーブルのうえにどさどさとパンをおき、いすにどっかりとこしかける。",
+    "meaning_ru": "умножать; вешать; садиться",
+    "sentence_ru": "Тяжело вздыхая, он бросил хлеб на стол и тяжело опустился на стул.",
+    "noteId": 1618732695329
+  },
+  {
+    "expression": "～かける",
+    "sentence_jp": "彼は死にかけている。",
+    "sentence_kana": "かれはしにかけている。",
+    "meaning_ru": "начинать делать (суффикс)",
+    "sentence_ru": "Он при смерти.",
+    "note": "Tatoeba match used the idiom 二股かける, a different sense, replaced",
+    "noteId": 1618732704991
+  },
+  {
+    "expression": "過去",
+    "sentence_jp": null,
+    "sentence_kana": "かていほうかこのばあいビーどうしはすべてウィアーになるんだよ？",
+    "meaning_ru": "прошлое",
+    "sentence_ru": "В случае сослагательного наклонения прошедшего времени глагол be всегда становится were, понимаешь?",
+    "noteId": 1618732741756
+  },
+  {
+    "expression": "家事",
+    "sentence_jp": null,
+    "sentence_kana": "はははかじをきりもりするのにいそがしい。",
+    "meaning_ru": "домашние дела",
+    "sentence_ru": "Мама занята ведением домашнего хозяйства.",
+    "noteId": 1618732753123
+  },
+  {
+    "expression": "貸し出す",
+    "sentence_jp": null,
+    "sentence_kana": "ほんをかしだすほかに、としょかんはほかのいろいろなサービスをていきょうする。",
+    "meaning_ru": "выдавать напрокат",
+    "sentence_ru": "Помимо выдачи книг, библиотека предоставляет и другие различные услуги.",
+    "noteId": 1618732767866
+  },
+  {
+    "expression": "果実",
+    "sentence_jp": null,
+    "sentence_kana": "よくあさ、めがさめると、わたしのまどのしたでかじつのきのはながさいているのをめにした。",
+    "meaning_ru": "плод",
+    "sentence_ru": "На следующее утро, проснувшись, я увидел, что под моим окном расцвело плодовое дерево.",
+    "noteId": 1618732847695
+  },
+  {
+    "expression": "かじる",
+    "sentence_jp": "リンゴをかじる。",
+    "sentence_kana": "リンゴをかじる。",
+    "meaning_ru": "грызть, откусывать",
+    "sentence_ru": "Откусить яблоко.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618732861139
+  },
+  {
+    "expression": "風邪気味",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはかぜぎみだといった。",
+    "meaning_ru": "лёгкая простуда, недомогание",
+    "sentence_ru": "Она сказала, что немного простужена.",
+    "noteId": 1618732882618
+  },
+  {
+    "expression": "稼ぐ",
+    "sentence_jp": null,
+    "sentence_kana": "けいばでかせぐ！ありえないほどもうかるけいばノウハウしゅう！",
+    "meaning_ru": "зарабатывать",
+    "sentence_ru": "Зарабатывай на скачках! Сборник ноу-хау для невероятно прибыльных скачек!",
+    "noteId": 1618732936383
+  },
+  {
+    "expression": "河川",
+    "sentence_jp": null,
+    "sentence_kana": "にほんのおおくのかせんはこうじょうのはいえきでおせんされている。",
+    "meaning_ru": "реки (собирательно)",
+    "sentence_ru": "Многие реки Японии загрязнены промышленными стоками.",
+    "noteId": 1618732948365
+  },
+  {
+    "expression": "家族連れ",
+    "sentence_jp": "家族連れで来た客が多い。",
+    "sentence_kana": "かぞくづれできたきゃくがおおい。",
+    "meaning_ru": "в сопровождении семьи",
+    "sentence_ru": "Много гостей, пришедших с семьёй.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733032259
+  },
+  {
+    "expression": "型",
+    "sentence_jp": null,
+    "sentence_kana": "よいいしゃはかんじゃにせつめいするとき、じんたいもけいをつかうなどして、わかりやすくせつめいしてくれる。",
+    "meaning_ru": "форма, шаблон, модель",
+    "sentence_ru": "Хороший врач, объясняя пациенту, использует, например, макет человеческого тела, чтобы объяснить понятно.",
+    "noteId": 1618733044325
+  },
+  {
+    "expression": "片～",
+    "sentence_jp": "片手で持てる。",
+    "sentence_kana": "かたてでもてる。",
+    "meaning_ru": "один из (пары, префикс)",
+    "sentence_ru": "Можно держать одной рукой.",
+    "note": "Tatoeba match used 一片 (a fragment), not showing the 'one of a pair' sense, replaced",
+    "noteId": 1618733062594
+  },
+  {
+    "expression": "課題",
+    "sentence_jp": null,
+    "sentence_kana": "ゆしゅつしじょうでのきょうそうりょくきょうかがきんきゅうのかだいである。",
+    "meaning_ru": "задача",
+    "sentence_ru": "Усиление конкурентоспособности на экспортном рынке — неотложная задача.",
+    "noteId": 1618733079096
+  },
+  {
+    "expression": "形",
+    "sentence_jp": null,
+    "sentence_kana": "かれはあとかたもなくすがたをけしてしまったんだ。",
+    "meaning_ru": "форма, вид",
+    "sentence_ru": "Он исчез без следа.",
+    "noteId": 1618733088902
+  },
+  {
+    "expression": "片ひざ",
+    "sentence_jp": "片ひざをついてプロポーズした。",
+    "sentence_kana": "かたひざをついてプロポーズした。",
+    "meaning_ru": "одно колено",
+    "sentence_ru": "Он сделал предложение, встав на одно колено.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733100451
+  },
+  {
+    "expression": "固まる",
+    "sentence_jp": null,
+    "sentence_kana": "ゼラチンは、ひえるとかたまるせいしつがあります。",
+    "meaning_ru": "затвердевать",
+    "sentence_ru": "Желатин обладает свойством затвердевать при охлаждении.",
+    "noteId": 1618733111625
+  },
+  {
+    "expression": "片道",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくはかたみちだけあるいていった。",
+    "meaning_ru": "в одну сторону",
+    "sentence_ru": "Я прошёл(шла) пешком только в одну сторону.",
+    "noteId": 1618733122009
+  },
+  {
+    "expression": "傾く",
+    "sentence_jp": "家が地震で傾いた。",
+    "sentence_kana": "いえがじしんでかたむいた。",
+    "meaning_ru": "наклоняться, клониться",
+    "sentence_ru": "Дом накренился от землетрясения.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733144957
+  },
+  {
+    "expression": "固める",
+    "sentence_jp": null,
+    "sentence_kana": "みをかためるまでにはかなりのしゅうにゅうをえたい。",
+    "meaning_ru": "укреплять, затвердевать (перех.)",
+    "sentence_ru": "Прежде чем остепениться, хочу заработать приличный доход.",
+    "noteId": 1618733155645
+  },
+  {
+    "expression": "肩を落とす",
+    "sentence_jp": "彼は肩を落として帰った。",
+    "sentence_kana": "かれはかたをおとしてかえった。",
+    "meaning_ru": "поникнуть плечами, приуныть",
+    "sentence_ru": "Он вернулся, поникнув плечами.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733193965
+  },
+  {
+    "expression": "肩を貸す",
+    "sentence_jp": "けが人に肩を貸す。",
+    "sentence_kana": "けがにんにかたをかす。",
+    "meaning_ru": "подставить плечо (для опоры)",
+    "sentence_ru": "Подставить плечо раненому.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618733216904
+  },
+  {
+    "expression": "～学科",
+    "sentence_jp": null,
+    "sentence_kana": "ぶつりはわたしのにがてながっかです。",
+    "meaning_ru": "факультет, кафедра (суффикс)",
+    "sentence_ru": "Физика — предмет, который мне плохо даётся.",
+    "noteId": 1618733246738
+  },
+  {
+    "expression": "学会",
+    "sentence_jp": null,
+    "sentence_kana": "もりたきょうじゅはかがくがっかいでしかいをつとめた。",
+    "meaning_ru": "научная конференция, общество",
+    "sentence_ru": "Профессор Морита был председателем на конференции химического общества.",
+    "noteId": 1618733263768
+  },
+  {
+    "expression": "がっかり",
+    "sentence_jp": null,
+    "sentence_kana": "このせかいのきょういくにはがっかりしてしまう。",
+    "meaning_ru": "разочаровываться",
+    "sentence_ru": "Я разочарован(а) образованием в этом мире.",
+    "noteId": 1618733272329
+  }
+]
