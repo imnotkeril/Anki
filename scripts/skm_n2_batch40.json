@@ -1,0 +1,415 @@
+[
+  {
+    "expression": "～方針",
+    "sentence_jp": null,
+    "sentence_kana": "とうしゅはこんごのほうしんをいっしゃせんりにのべたてた。",
+    "meaning_ru": "политика, курс (суффикс)",
+    "sentence_ru": "Лидер партии без остановки изложил дальнейший курс.",
+    "noteId": 1618961803641
+  },
+  {
+    "expression": "放送",
+    "sentence_jp": null,
+    "sentence_kana": "あらしのあとすぐ、そのラジオきょくはほうそうをさいかいした。",
+    "meaning_ru": "трансляция",
+    "sentence_ru": "Сразу после бури радиостанция возобновила вещание.",
+    "noteId": 1618961815036
+  },
+  {
+    "expression": "包帯",
+    "sentence_jp": null,
+    "sentence_kana": "あ、とりあえずほうたいしているけど、もしわずらわしかったら、いえにかえってからカットバンにかえてもだいじょうぶよ。",
+    "meaning_ru": "бинт",
+    "sentence_ru": "Пока что перевязано бинтом, но если неудобно, можешь дома заменить его пластырем.",
+    "noteId": 1618961825061
+  },
+  {
+    "expression": "法廷",
+    "sentence_jp": null,
+    "sentence_kana": "ほうていべんごしたちはマフィアのボスのもちいるもくひせんじゅつをかわすことができなかった。",
+    "meaning_ru": "суд, зал суда",
+    "sentence_ru": "Судебные адвокаты не смогли обойти тактику молчания мафиозного босса.",
+    "noteId": 1618961834633
+  },
+  {
+    "expression": "報道",
+    "sentence_jp": null,
+    "sentence_kana": "「おみごと、よくやった」とおがわせんしゅをほめたたえるほうどうがおおかった。",
+    "meaning_ru": "репортаж, новости",
+    "sentence_ru": "Было много репортажей, восхвалявших спортсмена Огаву словами «Отлично сделано!».",
+    "noteId": 1618961849346
+  },
+  {
+    "expression": "ボーナス",
+    "sentence_jp": null,
+    "sentence_kana": "かれはかいしゃのうりあげのはんぶんいじょうをとってくるというえいぎょうせいせきをあげたので、かれはそうとうなボーナスがもらえるだろうときたいした。",
+    "meaning_ru": "бонус, премия",
+    "sentence_ru": "Он показал результаты продаж, принеся более половины оборота компании, и ожидал получить приличную премию.",
+    "noteId": 1618961855954
+  },
+  {
+    "expression": "防犯対策",
+    "sentence_jp": "防犯対策を強化する。",
+    "sentence_kana": "ぼうはんたいさくをきょうかする。",
+    "meaning_ru": "меры по предотвращению преступлений",
+    "sentence_ru": "Усилить меры по предотвращению преступлений.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618961875538
+  },
+  {
+    "expression": "豊富",
+    "sentence_jp": null,
+    "sentence_kana": "グリーンピースはてつぶんがほうふでつめのいろがよくなるせいぶんがふくまれている。",
+    "meaning_ru": "изобилие",
+    "sentence_ru": "Зелёный горошек богат железом и содержит вещества, улучшающие цвет ногтей.",
+    "noteId": 1618961885284
+  },
+  {
+    "expression": "ほうぼう",
+    "sentence_jp": null,
+    "sentence_kana": "かんこうめいしょをほうぼうたずねあるいたので、すっかりつかれはててしまった。",
+    "meaning_ru": "повсюду, тут и там",
+    "sentence_ru": "Я обошёл(шла) множество достопримечательностей и совсем измотался(лась).",
+    "noteId": 1618961893671
+  },
+  {
+    "expression": "～方面",
+    "sentence_jp": null,
+    "sentence_kana": "たいふうははったつしながらきゅうしゅうほうめんにむかっています。",
+    "meaning_ru": "направление (суффикс)",
+    "sentence_ru": "Тайфун, усиливаясь, движется в направлении Кюсю.",
+    "noteId": 1618961910078
+  },
+  {
+    "expression": "ホームページ",
+    "sentence_jp": null,
+    "sentence_kana": "きょうこのホームページをみてこんなひとがあほならわたしはかならずどアホだとわかった。",
+    "meaning_ru": "домашняя страница",
+    "sentence_ru": "Сегодня, посмотрев эту домашнюю страницу, я понял(а), что если такой человек — дурак, то я точно полный дурак.",
+    "noteId": 1618961929746
+  },
+  {
+    "expression": "ぽかぽか",
+    "sentence_jp": null,
+    "sentence_kana": "ぽかぽかとあたたかい。",
+    "meaning_ru": "тепло, приятно",
+    "sentence_ru": "Приятно тепло.",
+    "noteId": 1618961936862
+  },
+  {
+    "expression": "保険",
+    "sentence_jp": null,
+    "sentence_kana": "このだいぶんるいには、きんゆうぎょうまたはほけんぎょうをいとなむじぎょうしょがぶんるいされる。",
+    "meaning_ru": "страховка",
+    "sentence_ru": "В эту крупную категорию входят предприятия, занимающиеся финансовой или страховой деятельностью.",
+    "noteId": 1618961948555
+  },
+  {
+    "expression": "保険金",
+    "sentence_jp": null,
+    "sentence_kana": "かれはほけんきんとしてたいきんをうけとった。",
+    "meaning_ru": "страховая выплата",
+    "sentence_ru": "Он получил крупную сумму в качестве страховой выплаты.",
+    "noteId": 1618961962794
+  },
+  {
+    "expression": "保健所",
+    "sentence_jp": "保健所に相談する。",
+    "sentence_kana": "ほけんじょにそうだんする。",
+    "meaning_ru": "санитарно-эпидемиологическая станция",
+    "sentence_ru": "Обратиться за консультацией в санэпидстанцию.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618961990850
+  },
+  {
+    "expression": "保護",
+    "sentence_jp": null,
+    "sentence_kana": "くるまもなにもなく、せいかつほごでいきてます。",
+    "meaning_ru": "защита",
+    "sentence_ru": "У меня нет ни машины, ничего — живу на социальное пособие.",
+    "noteId": 1618962009234
+  },
+  {
+    "expression": "～保護",
+    "sentence_jp": null,
+    "sentence_kana": "くるまもなにもなく、せいかつほごでいきてます。",
+    "meaning_ru": "защита (суффикс)",
+    "sentence_ru": "У меня нет ни машины, ничего — живу на социальное пособие.",
+    "noteId": 1618962025421
+  },
+  {
+    "expression": "ほこり",
+    "sentence_jp": null,
+    "sentence_kana": "へやがほこりっぽいのはそうじきのせい？",
+    "meaning_ru": "пыль",
+    "sentence_ru": "Комната пыльная из-за пылесоса?",
+    "noteId": 1618962032976
+  },
+  {
+    "expression": "募集",
+    "sentence_jp": null,
+    "sentence_kana": "こうだんはけんせつけいかくのにゅうさつをぼしゅうした。",
+    "meaning_ru": "набор, объявление о наборе",
+    "sentence_ru": "Корпорация объявила тендер на строительный проект.",
+    "noteId": 1618962042364
+  },
+  {
+    "expression": "保証金",
+    "sentence_jp": "保証金を支払う。",
+    "sentence_kana": "ほしょうきんをしはらう。",
+    "meaning_ru": "залог, депозит",
+    "sentence_ru": "Внести залог.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618962056673
+  },
+  {
+    "expression": "干す",
+    "sentence_jp": null,
+    "sentence_kana": "つゆのはれまにせんたくものをほすときぶんはもうなつでした。",
+    "meaning_ru": "сушить",
+    "sentence_ru": "Когда сушила бельё в просвет между дождями сезона дождей, уже чувствовалось лето.",
+    "noteId": 1618962062854
+  },
+  {
+    "expression": "保存",
+    "sentence_jp": null,
+    "sentence_kana": "よっつのレジスタは、よびだされたかんすうがわがほぞんする。",
+    "meaning_ru": "сохранение",
+    "sentence_ru": "Четыре регистра сохраняются вызванной функцией.",
+    "noteId": 1618962072434
+  },
+  {
+    "expression": "保存料",
+    "sentence_jp": "この食品には保存料が含まれていない。",
+    "sentence_kana": "このしょくひんにはほぞんりょうがふくまれていない。",
+    "meaning_ru": "консервант",
+    "sentence_ru": "Этот продукт не содержит консервантов.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618962084983
+  },
+  {
+    "expression": "墓地",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはかれをきょうかいのちかくのぼちにまいそうした。",
+    "meaning_ru": "кладбище",
+    "sentence_ru": "Они похоронили его на кладбище рядом с церковью.",
+    "noteId": 1618962163923
+  },
+  {
+    "expression": "仏",
+    "sentence_jp": "仏の教えに従う。",
+    "sentence_kana": "ほとけのおしえにしたがう。",
+    "meaning_ru": "Будда",
+    "sentence_ru": "Следовать учению Будды.",
+    "note": "Tatoeba match used 仏教 (Buddhism, a compound), replaced with a simpler example for the standalone word",
+    "noteId": 1618962170351
+  },
+  {
+    "expression": "骨が折れる",
+    "sentence_jp": null,
+    "sentence_kana": "えいごをまなぶのはほねがおれる。",
+    "meaning_ru": "требовать больших усилий",
+    "sentence_ru": "Изучать английский — трудоёмкое дело.",
+    "noteId": 1618962183517
+  },
+  {
+    "expression": "ほぼ",
+    "sentence_jp": null,
+    "sentence_kana": "ほぼせきどうちょっかにあるシンガポールでは、うき・かんきがあまりめいりょうではない。",
+    "meaning_ru": "почти, приблизительно",
+    "sentence_ru": "В Сингапуре, расположенном почти прямо на экваторе, сезон дождей и сухой сезон выражены не очень чётко.",
+    "noteId": 1618962194810
+  },
+  {
+    "expression": "ほほえみ合う",
+    "sentence_jp": "二人はほほえみ合った。",
+    "sentence_kana": "ふたりはほほえみあった。",
+    "meaning_ru": "обмениваться улыбками",
+    "sentence_ru": "Они обменялись улыбками.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618962216843
+  },
+  {
+    "expression": "ほほえみかける",
+    "sentence_jp": "彼女は私にほほえみかけた。",
+    "sentence_kana": "かのじょはわたしにほほえみかけた。",
+    "meaning_ru": "улыбаться (кому-то)",
+    "sentence_ru": "Она улыбнулась мне.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618962235612
+  },
+  {
+    "expression": "ほやほや",
+    "sentence_jp": null,
+    "sentence_kana": "かれはだいがくをでたてのほやほやだ。",
+    "meaning_ru": "свеженький, только что",
+    "sentence_ru": "Он только-только окончил университет.",
+    "noteId": 1618962242981
+  },
+  {
+    "expression": "彫る",
+    "sentence_jp": "木に像を彫る。",
+    "sentence_kana": "きにぞうをほる。",
+    "meaning_ru": "вырезать, гравировать",
+    "sentence_ru": "Вырезать статую из дерева.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618962256637
+  },
+  {
+    "expression": "滅びる",
+    "sentence_jp": null,
+    "sentence_kana": "わたしたちはきょうだいとしてともにいきることをしらなければならない。さもなくば、おろかものとしてともにほろびるであろう。",
+    "meaning_ru": "погибать, угасать",
+    "sentence_ru": "Мы должны научиться жить вместе как братья. Иначе мы вместе погибнем как глупцы.",
+    "noteId": 1618962264088
+  },
+  {
+    "expression": "ぼろぼろ",
+    "sentence_jp": null,
+    "sentence_kana": "かぜにはためきつづけるぼろぼろのはたがみえる。",
+    "meaning_ru": "потрёпанный, изношенный",
+    "sentence_ru": "Видно потрёпанный флаг, продолжающий развеваться на ветру.",
+    "noteId": 1618962302146
+  },
+  {
+    "expression": "本格的",
+    "sentence_jp": null,
+    "sentence_kana": "ほんかくてきにあめがふりだした。",
+    "meaning_ru": "настоящий, основательный",
+    "sentence_ru": "Дождь начался по-настоящему сильно.",
+    "noteId": 1618962315195
+  },
+  {
+    "expression": "香港経由",
+    "sentence_jp": null,
+    "sentence_kana": "かれはホンコンけいゆできこくした。",
+    "meaning_ru": "через Гонконг",
+    "sentence_ru": "Он вернулся на родину через Гонконг.",
+    "noteId": 1618962422580
+  },
+  {
+    "expression": "盆地",
+    "sentence_jp": null,
+    "sentence_kana": "かせんのぼんちにはふつうひよくなのうちがある。",
+    "meaning_ru": "котловина, впадина",
+    "sentence_ru": "В речных котловинах обычно есть плодородные сельхозугодья.",
+    "noteId": 1618962435421
+  },
+  {
+    "expression": "ほんの",
+    "sentence_jp": null,
+    "sentence_kana": "ほんのちょいやくでにんきがあるのはすごい！",
+    "meaning_ru": "всего лишь",
+    "sentence_ru": "Удивительно, что он популярен, снявшись всего лишь в эпизодической роли!",
+    "noteId": 1618962441749
+  },
+  {
+    "expression": "ぼんやり",
+    "sentence_jp": null,
+    "sentence_kana": "りこうなひとでもときにはぼんやりすることがある。",
+    "meaning_ru": "рассеянно, неясно",
+    "sentence_ru": "Даже умные люди иногда бывают рассеянными.",
+    "noteId": 1618962453102
+  },
+  {
+    "expression": "真～",
+    "sentence_jp": "真夜中に目が覚めた。",
+    "sentence_kana": "まよなかにめがさめた。",
+    "meaning_ru": "само-, прямо (интенсифицирующий префикс)",
+    "sentence_ru": "Я проснулся(лась) в самую полночь.",
+    "note": "Tatoeba match was unrelated, replaced",
+    "noteId": 1618962468783
+  },
+  {
+    "expression": "参る",
+    "sentence_jp": null,
+    "sentence_kana": "きみにはまいるよ。",
+    "meaning_ru": "быть побеждённым, сдаваться",
+    "sentence_ru": "Ты меня доконал(а) (сдаюсь).",
+    "noteId": 1618962483268
+  },
+  {
+    "expression": "負かす",
+    "sentence_jp": null,
+    "sentence_kana": "かれをうちまかすのはふかのうだ。",
+    "meaning_ru": "побеждать, одолевать",
+    "sentence_ru": "Победить его невозможно.",
+    "noteId": 1618962489960
+  },
+  {
+    "expression": "巻く",
+    "sentence_jp": null,
+    "sentence_kana": "まぁじっさいもんだい、そんなうわさがうずまくなかでよくぶかつがぞんぞくしてるとおもうぜ。",
+    "meaning_ru": "наматывать, закручивать",
+    "sentence_ru": "Ну, если честно, удивительно, что кружок вообще продолжает существовать среди таких кружащихся слухов.",
+    "noteId": 1618962499625
+  },
+  {
+    "expression": "幕",
+    "sentence_jp": "幕が上がる。",
+    "sentence_kana": "まくがあがる。",
+    "meaning_ru": "занавес",
+    "sentence_ru": "Занавес поднимается.",
+    "note": "Tatoeba match used 字幕 (subtitles, a compound), replaced with a simpler example",
+    "noteId": 1618962509195
+  },
+  {
+    "expression": "まく",
+    "sentence_jp": "畑に種をまく。",
+    "sentence_kana": "はたけにたねをまく。",
+    "meaning_ru": "сеять",
+    "sentence_ru": "Сеять семена в поле.",
+    "note": "Tatoeba match used 陰影 (shadow), an unrelated homophone-adjacent word, replaced",
+    "noteId": 1618962519322
+  },
+  {
+    "expression": "孫",
+    "sentence_jp": "祖母は孫をとても可愛がっている。",
+    "sentence_kana": "そぼはまごをとてもかわいがっている。",
+    "meaning_ru": "внук, внучка",
+    "sentence_ru": "Бабушка очень любит внука.",
+    "note": "Tatoeba match used 孫子 (Sun Tzu, a name), a false positive, replaced",
+    "noteId": 1618962534641
+  },
+  {
+    "expression": "まさか",
+    "sentence_jp": null,
+    "sentence_kana": "かせいきんしというのはしってましたが、まさかじぶんのこどもがかせいきんしになるなんておもってませんでした。",
+    "meaning_ru": "не может быть, невероятно",
+    "sentence_ru": "Я знал(а) о псевдомиопии, но никак не думал(а), что она случится у моего собственного ребёнка.",
+    "noteId": 1618962542026
+  },
+  {
+    "expression": "まさに",
+    "sentence_jp": null,
+    "sentence_kana": "いっせいちだいのはれのぶたいといういいまわしがあるが、これはまさにそれである。",
+    "meaning_ru": "именно, как раз",
+    "sentence_ru": "Есть выражение «звёздный час всей жизни», и это именно он.",
+    "noteId": 1618962559153
+  },
+  {
+    "expression": "まして",
+    "sentence_jp": "子供でさえできるのに、まして大人ができないわけがない。",
+    "sentence_kana": "こどもでさえできるのに、ましておとなができないわけがない。",
+    "meaning_ru": "тем более",
+    "sentence_ru": "Даже дети могут это сделать, тем более взрослые точно смогут.",
+    "note": "Tatoeba match used どういたしまして (you're welcome), a different word, replaced",
+    "noteId": 1618962571121
+  },
+  {
+    "expression": "マスコミ",
+    "sentence_jp": null,
+    "sentence_kana": "はつげんのいちぶだけがマスコミにとりあげられてひとりあるきした。",
+    "meaning_ru": "СМИ",
+    "sentence_ru": "Только часть высказывания была подхвачена СМИ и зажила своей жизнью.",
+    "noteId": 1618962581798
+  },
+  {
+    "expression": "ますます",
+    "sentence_jp": null,
+    "sentence_kana": "はなしがすすむにつれかれのべんぜつはますますさえた。",
+    "meaning_ru": "всё больше",
+    "sentence_ru": "По мере продвижения разговора его красноречие становилось всё более блестящим.",
+    "noteId": 1618962588606
+  }
+]
