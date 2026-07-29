@@ -1,0 +1,425 @@
+[
+  {
+    "expression": "見つめる",
+    "sentence_jp": null,
+    "sentence_kana": "ひとをじっとみつめるのはぶれいである。",
+    "meaning_ru": "пристально смотреть",
+    "sentence_ru": "Пристально смотреть на человека — невежливо.",
+    "noteId": 1618978604331
+  },
+  {
+    "expression": "認める",
+    "sentence_jp": "彼は自分の過ちを認めた。",
+    "sentence_kana": "かれはじぶんのあやまちをみとめた。",
+    "meaning_ru": "признавать",
+    "sentence_ru": "Он признал свою ошибку.",
+    "note": "Tatoeba match was an obscure combat-rules sentence, replaced with a clearer example",
+    "noteId": 1618978612422
+  },
+  {
+    "expression": "見直す",
+    "sentence_jp": null,
+    "sentence_kana": "しょうらい、このようなけっていがどういうかたちでじっこうされるかをみなおすことがひつようになるかもしれない。",
+    "meaning_ru": "пересматривать",
+    "sentence_ru": "В будущем может понадобиться пересмотреть, как именно будут исполняться подобные решения.",
+    "noteId": 1618978627317
+  },
+  {
+    "expression": "見習う",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはおねえさんのおぎょうぎをみならうとよい。",
+    "meaning_ru": "брать пример, учиться на примере",
+    "sentence_ru": "Ей бы стоило брать пример с манер старшей сестры.",
+    "noteId": 1618978640127
+  },
+  {
+    "expression": "見慣れる",
+    "sentence_jp": "この光景は見慣れている。",
+    "sentence_kana": "このこうけいはみなれている。",
+    "meaning_ru": "привыкнуть видеть, стать привычным",
+    "sentence_ru": "Эта картина мне уже привычна.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618978651179
+  },
+  {
+    "expression": "身につける",
+    "sentence_jp": null,
+    "sentence_kana": "ひんしをりかいすることは、ただしいごじゅんかんかくをみにつけるうえでひじょうにたいせつなことです。",
+    "meaning_ru": "усваивать, приобретать (навык)",
+    "sentence_ru": "Понимание частей речи крайне важно для формирования правильного чувства порядка слов.",
+    "noteId": 1618978673294
+  },
+  {
+    "expression": "実る",
+    "sentence_jp": null,
+    "sentence_kana": "みのるほどあたまのさがるいなほかな。",
+    "meaning_ru": "созревать",
+    "sentence_ru": "Чем спелее рисовый колос, тем ниже он клонится (пословица о скромности).",
+    "noteId": 1618978689241
+  },
+  {
+    "expression": "未発表",
+    "sentence_jp": "これは未発表の作品だ。",
+    "sentence_kana": "これはみはっぴょうのさくひんだ。",
+    "meaning_ru": "неопубликованный",
+    "sentence_ru": "Это неопубликованное произведение.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618978712926
+  },
+  {
+    "expression": "身分証",
+    "sentence_jp": null,
+    "sentence_kana": "れつにならんでながいあいだまたされたあと、みぶんしょうめいとしてせいしきなしゅっしょうしょうめいしょがひつようだといわれた。",
+    "meaning_ru": "удостоверение личности",
+    "sentence_ru": "После долгого ожидания в очереди мне сказали, что в качестве удостоверения личности требуется официальное свидетельство о рождении.",
+    "noteId": 1618978942878
+  },
+  {
+    "expression": "見回る",
+    "sentence_jp": "警備員が建物を見回る。",
+    "sentence_kana": "けいびいんがたてものをみまわる。",
+    "meaning_ru": "обходить, патрулировать",
+    "sentence_ru": "Охранник обходит здание.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618978981525
+  },
+  {
+    "expression": "耳が痛い",
+    "sentence_jp": null,
+    "sentence_kana": "みみがいたいのです。",
+    "meaning_ru": "неприятно слышать (правду)",
+    "sentence_ru": "Мне неприятно это слышать.",
+    "noteId": 1618978993101
+  },
+  {
+    "expression": "耳が早い",
+    "sentence_jp": null,
+    "sentence_kana": "かれはみみがはやい。",
+    "meaning_ru": "быть в курсе новостей раньше всех",
+    "sentence_ru": "Он всегда узнаёт новости первым.",
+    "noteId": 1618979010422
+  },
+  {
+    "expression": "耳にする",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょがこどものころのことをいうのをよくみみにする。",
+    "meaning_ru": "услышать (случайно)",
+    "sentence_ru": "Я часто слышу, как она рассказывает о своём детстве.",
+    "noteId": 1618979019679
+  },
+  {
+    "expression": "耳を貸す",
+    "sentence_jp": null,
+    "sentence_kana": "よいけいえいじんならせいとうなようきゅうにみみをかすものだ。",
+    "meaning_ru": "прислушиваться",
+    "sentence_ru": "Хорошее руководство прислушивается к обоснованным требованиям.",
+    "noteId": 1618979033638
+  },
+  {
+    "expression": "魅力的",
+    "sentence_jp": null,
+    "sentence_kana": "さどさんはみりょくてきなこせいのもちぬしなのに、そのかちがわからず、じぶんをこのまない。",
+    "meaning_ru": "привлекательный, обаятельный",
+    "sentence_ru": "У Садо привлекательная индивидуальность, но она не осознаёт этой ценности и не любит себя.",
+    "noteId": 1618979057764
+  },
+  {
+    "expression": "診る",
+    "sentence_jp": "医者が患者を診る。",
+    "sentence_kana": "いしゃがかんじゃをみる。",
+    "meaning_ru": "осматривать (пациента)",
+    "sentence_ru": "Врач осматривает пациента.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979068772
+  },
+  {
+    "expression": "見分ける",
+    "sentence_jp": null,
+    "sentence_kana": "ニワトリのあかくりっぱなトサカはせいべつやしゅるいをみわけるときにやくだっていると考えられている。",
+    "meaning_ru": "различать",
+    "sentence_ru": "Считается, что яркий красный гребень курицы помогает различать пол и породу.",
+    "noteId": 1618979080297
+  },
+  {
+    "expression": "無～",
+    "sentence_jp": null,
+    "sentence_kana": "むかんけいのひとをやるな！",
+    "meaning_ru": "без- (префикс)",
+    "sentence_ru": "Не трогай непричастных людей!",
+    "noteId": 1618979095564
+  },
+  {
+    "expression": "～む",
+    "sentence_jp": null,
+    "sentence_kana": "そこでわたしたちをまっているこうふくが、わたしたちがのぞむようなこうふくではないかもしれない。",
+    "meaning_ru": "образует глаголы чувств (суффикс)",
+    "sentence_ru": "Счастье, которое ждёт нас там, может оказаться не тем, о котором мы мечтаем.",
+    "noteId": 1618979108457
+  },
+  {
+    "expression": "向かう",
+    "sentence_jp": null,
+    "sentence_kana": "ひだいか、かどのしょうぎょうかなどのもんだいもかかえて、ごりんはしんせいきにむかう。",
+    "meaning_ru": "направляться",
+    "sentence_ru": "Неся с собой проблемы разрастания и чрезмерной коммерциализации, Олимпиада движется к новому веку.",
+    "noteId": 1618979118984
+  },
+  {
+    "expression": "むかむか",
+    "sentence_jp": null,
+    "sentence_kana": "かれのふるまいをみたらむかむかした。",
+    "meaning_ru": "тошнить (от злости/физически)",
+    "sentence_ru": "Меня затошнило, когда я увидел(а) его поведение.",
+    "noteId": 1618979129230
+  },
+  {
+    "expression": "無許可",
+    "sentence_jp": "無許可で建物に入った。",
+    "sentence_kana": "むきょかでたてものにはいった。",
+    "meaning_ru": "без разрешения",
+    "sentence_ru": "Он вошёл в здание без разрешения.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979156280
+  },
+  {
+    "expression": "無気力",
+    "sentence_jp": "彼は無気力な様子だった。",
+    "sentence_kana": "かれはむきりょくなようすだった。",
+    "meaning_ru": "апатичный, вялый",
+    "sentence_ru": "Он выглядел апатичным.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979171492
+  },
+  {
+    "expression": "無視",
+    "sentence_jp": null,
+    "sentence_kana": "あかいドレスのおんなは、くろふくのおとこをむしして、ケイタイでともだちにかけた。",
+    "meaning_ru": "игнорирование",
+    "sentence_ru": "Женщина в красном платье, проигнорировав мужчину в чёрном, позвонила подруге по мобильному.",
+    "noteId": 1618979236073
+  },
+  {
+    "expression": "蒸し暑い",
+    "sentence_jp": null,
+    "sentence_kana": "どこかへとうひこうしたい。むしあついなつはそんなきぶんになりがち。",
+    "meaning_ru": "жарко и влажно",
+    "sentence_ru": "Хочется куда-нибудь сбежать. В жаркое влажное лето часто возникает такое настроение.",
+    "noteId": 1618979250610
+  },
+  {
+    "expression": "虫の居所が悪い",
+    "sentence_jp": "今日は虫の居所が悪い。",
+    "sentence_kana": "きょうはむしのいどころがわるい。",
+    "meaning_ru": "быть в плохом настроении",
+    "sentence_ru": "Сегодня у меня плохое настроение.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979274269
+  },
+  {
+    "expression": "むしろ",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはもっとてきのていこうがあるとふんでたんだけど、むしろちゅうすうにすすむほどてきがへってきてる・・・。おかしいとおもわないかしら？",
+    "meaning_ru": "скорее, наоборот",
+    "sentence_ru": "Я думал(а), что сопротивление врага будет сильнее, но, наоборот, чем ближе к центру, тем меньше врагов... Тебе не кажется это странным?",
+    "noteId": 1618979281846
+  },
+  {
+    "expression": "蒸す",
+    "sentence_jp": "野菜を蒸す。",
+    "sentence_kana": "やさいをむす。",
+    "meaning_ru": "готовить на пару",
+    "sentence_ru": "Приготовить овощи на пару.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979291509
+  },
+  {
+    "expression": "結びつける",
+    "sentence_jp": null,
+    "sentence_kana": "しゅみとじつえきとをむすびつけることはやさしくない。",
+    "meaning_ru": "связывать",
+    "sentence_ru": "Соединить хобби с практической выгодой не так просто.",
+    "noteId": 1618979307762
+  },
+  {
+    "expression": "胸が一杯になる",
+    "sentence_jp": "感謝の気持ちで胸が一杯になった。",
+    "sentence_kana": "かんしゃのきもちでむねがいっぱいになった。",
+    "meaning_ru": "переполниться чувствами",
+    "sentence_ru": "Сердце переполнилось чувством благодарности.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979349880
+  },
+  {
+    "expression": "胸に納める",
+    "sentence_jp": "その秘密は胸に納めておく。",
+    "sentence_kana": "そのひみつはむねにおさめておく。",
+    "meaning_ru": "хранить в себе (тайну)",
+    "sentence_ru": "Хранить эту тайну при себе.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979380309
+  },
+  {
+    "expression": "胸を打つ",
+    "sentence_jp": "その話は胸を打った。",
+    "sentence_kana": "そのはなしはむねをうった。",
+    "meaning_ru": "трогать (сердце), волновать",
+    "sentence_ru": "Эта история тронула меня до глубины души.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979451683
+  },
+  {
+    "expression": "胸を張る",
+    "sentence_jp": "彼は胸を張って答えた。",
+    "sentence_kana": "かれはむねをはってこたえた。",
+    "meaning_ru": "гордо держаться, гордиться",
+    "sentence_ru": "Он гордо ответил.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979498878
+  },
+  {
+    "expression": "無反応",
+    "sentence_jp": "彼は無反応だった。",
+    "sentence_kana": "かれはむはんのうだった。",
+    "meaning_ru": "без реакции",
+    "sentence_ru": "Он никак не отреагировал.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979511931
+  },
+  {
+    "expression": "群がる",
+    "sentence_jp": null,
+    "sentence_kana": "そのかしゅはファンのむらがるなかをくしんしてすすんだ。",
+    "meaning_ru": "скапливаться, роиться",
+    "sentence_ru": "Певец с трудом продвигался сквозь толпу собравшихся фанатов.",
+    "noteId": 1618979522174
+  },
+  {
+    "expression": "群れ",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくどうたちはうしのむれをかりあつめた。",
+    "meaning_ru": "стадо, стая",
+    "sentence_ru": "Пастухи собрали стадо коров.",
+    "noteId": 1618979532942
+  },
+  {
+    "expression": "～目",
+    "sentence_jp": "これは三回目です。",
+    "sentence_kana": "これはさんかいめです。",
+    "meaning_ru": "порядковый суффикс (-й, -ый)",
+    "sentence_ru": "Это уже третий раз.",
+    "note": "Tatoeba match used the idiom 長い目で見れば, a different sense, replaced",
+    "noteId": 1618979547079
+  },
+  {
+    "expression": "名～",
+    "sentence_jp": "彼は名演説をした。",
+    "sentence_kana": "かれはめいえんぜつをした。",
+    "meaning_ru": "знаменитый, отличный (префикс)",
+    "sentence_ru": "Он произнёс блестящую речь.",
+    "note": "Tatoeba match used 名古屋 (Nagoya), an unrelated homophone, replaced",
+    "noteId": 1618979563521
+  },
+  {
+    "expression": "名演技",
+    "sentence_jp": null,
+    "sentence_kana": "かれのめいえんぎにかんきゃくはやんやのかっさいをおくった。",
+    "meaning_ru": "превосходная игра (актёрская)",
+    "sentence_ru": "Публика бурно аплодировала его превосходной игре.",
+    "noteId": 1618979577663
+  },
+  {
+    "expression": "名曲",
+    "sentence_jp": "この曲は名曲だ。",
+    "sentence_kana": "このきょくはめいきょくだ。",
+    "meaning_ru": "знаменитое музыкальное произведение",
+    "sentence_ru": "Эта мелодия — знаменитое произведение.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979592955
+  },
+  {
+    "expression": "名作",
+    "sentence_jp": "この小説は名作だ。",
+    "sentence_kana": "このしょうせつはめいさくだ。",
+    "meaning_ru": "шедевр, известное произведение",
+    "sentence_ru": "Этот роман — шедевр.",
+    "note": "Tatoeba match used 有名作家 (famous writer), a different word, replaced",
+    "noteId": 1618979603975
+  },
+  {
+    "expression": "名所",
+    "sentence_jp": null,
+    "sentence_kana": "れきしじょうのめいしょをけんぶつしました。",
+    "meaning_ru": "достопримечательность",
+    "sentence_ru": "Я осмотрел(а) исторические достопримечательности.",
+    "noteId": 1618979612941
+  },
+  {
+    "expression": "名勝負",
+    "sentence_jp": "あの試合は名勝負だった。",
+    "sentence_kana": "あのしあいはめいしょうぶだった。",
+    "meaning_ru": "выдающийся поединок",
+    "sentence_ru": "Тот матч был выдающимся поединком.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979626314
+  },
+  {
+    "expression": "名セリフ",
+    "sentence_jp": "あの映画には名セリフがある。",
+    "sentence_kana": "あのえいがにはめいセリフがある。",
+    "meaning_ru": "знаменитая реплика",
+    "sentence_ru": "В том фильме есть знаменитая реплика.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979636137
+  },
+  {
+    "expression": "名場面",
+    "sentence_jp": "あの映画の名場面を覚えている。",
+    "sentence_kana": "あのえいがのめいばめんをおぼえている。",
+    "meaning_ru": "знаменитая сцена (в фильме)",
+    "sentence_ru": "Я помню знаменитую сцену из того фильма.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979652839
+  },
+  {
+    "expression": "迷惑メール対策",
+    "sentence_jp": "迷惑メール対策を導入する。",
+    "sentence_kana": "めいわくメールたいさくをどうにゅうする。",
+    "meaning_ru": "меры против спама",
+    "sentence_ru": "Внедрить меры против спама.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618979676787
+  },
+  {
+    "expression": "目上",
+    "sentence_jp": null,
+    "sentence_kana": "めうえのひとのすることについてはなすとき、そんけいごをつかいます。",
+    "meaning_ru": "вышестоящий (по положению)",
+    "sentence_ru": "Говоря о действиях вышестоящего человека, используют уважительную речь.",
+    "noteId": 1618979685631
+  },
+  {
+    "expression": "～メーカー",
+    "sentence_jp": null,
+    "sentence_kana": "べいこくにおいて「リベート」は、おもにメーカーがしょうひしゃにちょくせつていきょうするインセンティブしゅだんとしてひろくにんしきされている。",
+    "meaning_ru": "производитель (суффикс)",
+    "sentence_ru": "В США «ребейт» широко воспринимается как стимул, который производители предоставляют потребителям напрямую.",
+    "noteId": 1618979694598
+  },
+  {
+    "expression": "メール",
+    "sentence_jp": null,
+    "sentence_kana": "Mozilla Foundationはごがつついたち、メール・ニュースクライアントソフトのさいしんばん「Thunderbird 2.0.0.14」をリリースした。",
+    "meaning_ru": "электронная почта",
+    "sentence_ru": "1 мая Mozilla Foundation выпустила последнюю версию почтового/новостного клиента «Thunderbird 2.0.0.14».",
+    "noteId": 1618979702484
+  },
+  {
+    "expression": "目がない",
+    "sentence_jp": "彼女は甘い物に目がない。",
+    "sentence_kana": "かのじょはあまいものにめがない。",
+    "meaning_ru": "без ума от (чего-то)",
+    "sentence_ru": "Она без ума от сладкого.",
+    "note": "Tatoeba match used 効き目 (effectiveness), a different word, replaced",
+    "noteId": 1618979711541
+  }
+]
