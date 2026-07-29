@@ -1,0 +1,418 @@
+[
+  {
+    "expression": "使い道",
+    "sentence_jp": null,
+    "sentence_kana": "かれはかねのつかいみちにこまっている。",
+    "meaning_ru": "способ применения",
+    "sentence_ru": "Он не знает, на что потратить деньги.",
+    "noteId": 1618894397571
+  },
+  {
+    "expression": "捕まる",
+    "sentence_jp": null,
+    "sentence_kana": "しんごうむしをしてみちをわたると、ここではつかまる？",
+    "meaning_ru": "быть пойманным",
+    "sentence_ru": "Если игнорировать светофор и перейти дорогу, здесь могут поймать?",
+    "noteId": 1618894406910
+  },
+  {
+    "expression": "つかむ",
+    "sentence_jp": null,
+    "sentence_kana": "まずはあこがれのさっかのぶんしょうのこきゅうをつかむためにひたすらひっしゃ、まるうつしをする。",
+    "meaning_ru": "хватать, ухватить",
+    "sentence_ru": "Прежде всего, чтобы уловить ритм текста любимого писателя, я просто переписываю его от руки.",
+    "noteId": 1618894414872
+  },
+  {
+    "expression": "疲れ気味",
+    "sentence_jp": "最近疲れ気味だ。",
+    "sentence_kana": "さいきんつかれぎみだ。",
+    "meaning_ru": "чувствовать лёгкую усталость",
+    "sentence_ru": "В последнее время чувствую лёгкую усталость.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894425143
+  },
+  {
+    "expression": "～つき",
+    "sentence_jp": "彼女は困った顔つきをしていた。",
+    "sentence_kana": "かのじょはこまったかおつきをしていた。",
+    "meaning_ru": "вид, выражение (суффикс)",
+    "sentence_ru": "У неё был озадаченный вид.",
+    "note": "Tatoeba match used 火がつく (catch fire), a different sense, replaced",
+    "noteId": 1618909918904
+  },
+  {
+    "expression": "付き合い",
+    "sentence_jp": "近所の人と付き合いがある。",
+    "sentence_kana": "きんじょのひととつきあいがある。",
+    "meaning_ru": "отношения, общение",
+    "sentence_ru": "У меня есть отношения с соседями.",
+    "note": "Tatoeba match was vague/self-referential, replaced",
+    "noteId": 1618909934192
+  },
+  {
+    "expression": "次々",
+    "sentence_jp": null,
+    "sentence_kana": "よきせぬできごとがつぎつぎとおこったので、てんじかいはちゅうしになった。",
+    "meaning_ru": "одно за другим",
+    "sentence_ru": "Из-за череды неожиданных событий выставку отменили.",
+    "noteId": 1618909947225
+  },
+  {
+    "expression": "月日",
+    "sentence_jp": "月日が経つのは早い。",
+    "sentence_kana": "つきひがたつのははやい。",
+    "meaning_ru": "время (дни и месяцы)",
+    "sentence_ru": "Время летит быстро.",
+    "note": "Tatoeba match used 出生年月日 (date of birth), a different sense, replaced",
+    "noteId": 1618909957182
+  },
+  {
+    "expression": "つぐ",
+    "sentence_jp": "お茶をつぐ。",
+    "sentence_kana": "おちゃをつぐ。",
+    "meaning_ru": "наливать",
+    "sentence_ru": "Наливать чай.",
+    "note": "Tatoeba match used the idiom 口をつぐむ (to shut one's mouth), a different word, replaced",
+    "noteId": 1618909963572
+  },
+  {
+    "expression": "つくづく",
+    "sentence_jp": null,
+    "sentence_kana": "まいにちのきまりしごとにはつくづくあきた。",
+    "meaning_ru": "глубоко, основательно (прочувствовать)",
+    "sentence_ru": "Я по-настоящему устал(а) от ежедневной рутинной работы.",
+    "noteId": 1618909976887
+  },
+  {
+    "expression": "～つける",
+    "sentence_jp": null,
+    "sentence_kana": "かってにすいしつけんさをおこなったあげくじょうすいきをうりつけるなど、あくしつなほうもんはんばいがたはつしています。",
+    "meaning_ru": "усиленно (суффикс)",
+    "sentence_ru": "Участились случаи недобросовестных продаж на дому: под предлогом «проверки воды», проведённой без разрешения, впаривают фильтры.",
+    "noteId": 1618909990566
+  },
+  {
+    "expression": "津波警報",
+    "sentence_jp": null,
+    "sentence_kana": "つなみけいほうはかいじょされた。",
+    "meaning_ru": "предупреждение о цунами",
+    "sentence_ru": "Предупреждение о цунами было отменено.",
+    "noteId": 1618910012763
+  },
+  {
+    "expression": "常に",
+    "sentence_jp": "彼は常に冷静だ。",
+    "sentence_kana": "かれはつねにれいせいだ。",
+    "meaning_ru": "всегда",
+    "sentence_ru": "Он всегда спокоен.",
+    "note": "Tatoeba match used 非常に (extremely), a different word, replaced",
+    "noteId": 1618910022184
+  },
+  {
+    "expression": "つぶす",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくたちはゲームをたのしむためというよりただひまをつぶすためにチェスをした。",
+    "meaning_ru": "давить, уничтожать",
+    "sentence_ru": "Мы играли в шахматы скорее не ради удовольствия, а просто чтобы убить время.",
+    "noteId": 1618910030314
+  },
+  {
+    "expression": "つぶれる",
+    "sentence_jp": null,
+    "sentence_kana": "たぶんそのないかくはつぶれるでしょう。",
+    "meaning_ru": "рушиться, обанкротиться",
+    "sentence_ru": "Наверное, этот кабинет министров падёт.",
+    "noteId": 1618910038473
+  },
+  {
+    "expression": "～っぽい",
+    "sentence_jp": null,
+    "sentence_kana": "だんせいはいろっぽいじょせいがだいすきなのです。",
+    "meaning_ru": "похожий на, с оттенком (суффикс)",
+    "sentence_ru": "Мужчины очень любят чувственных женщин.",
+    "noteId": 1618910051732
+  },
+  {
+    "expression": "つぼみ",
+    "sentence_jp": null,
+    "sentence_kana": "にわのバラのきのつぼみがすこしずつひらきはじめる。",
+    "meaning_ru": "бутон",
+    "sentence_ru": "Бутоны роз в саду постепенно начинают распускаться.",
+    "noteId": 1618910061264
+  },
+  {
+    "expression": "つまむ",
+    "sentence_jp": "つまんで食べる。",
+    "sentence_kana": "つまんでたべる。",
+    "meaning_ru": "брать пальцами, щипать",
+    "sentence_ru": "Есть, беря пальцами.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910075505
+  },
+  {
+    "expression": "罪",
+    "sentence_jp": "彼は罪を犯した。",
+    "sentence_kana": "かれはつみをおかした。",
+    "meaning_ru": "преступление",
+    "sentence_ru": "Он совершил преступление.",
+    "note": "Tatoeba match used ネット犯罪, a compound sharing the kanji, replaced",
+    "noteId": 1618910081836
+  },
+  {
+    "expression": "積む",
+    "sentence_jp": null,
+    "sentence_kana": "それでゆきをふみかためてブロックをつくり、それをつむようなほうほうがてきしているんですね。",
+    "meaning_ru": "грузить, накапливать",
+    "sentence_ru": "Значит, подходящий способ — утрамбовать снег в блоки и складывать их.",
+    "noteId": 1618910100485
+  },
+  {
+    "expression": "詰め込む",
+    "sentence_jp": "スーツケースに服を詰め込む。",
+    "sentence_kana": "スーツケースにふくをつめこむ。",
+    "meaning_ru": "набивать, впихивать",
+    "sentence_ru": "Впихнуть одежду в чемодан.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910116390
+  },
+  {
+    "expression": "詰める",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはわたしがにもつをスーツケースにつめるのをてつだってくれた。",
+    "meaning_ru": "набивать, укладывать",
+    "sentence_ru": "Она помогла мне уложить вещи в чемодан.",
+    "noteId": 1618910123622
+  },
+  {
+    "expression": "梅雨",
+    "sentence_jp": null,
+    "sentence_kana": "つゆどきでもないんだから、かさはいらないんじゃない。",
+    "meaning_ru": "сезон дождей",
+    "sentence_ru": "Сейчас не сезон дождей, так что зонт вроде не нужен.",
+    "noteId": 1618910131397
+  },
+  {
+    "expression": "強気",
+    "sentence_jp": null,
+    "sentence_kana": "かれはつよきだ。",
+    "meaning_ru": "уверенный, напористый",
+    "sentence_ru": "Он настроен решительно.",
+    "noteId": 1618910170415
+  },
+  {
+    "expression": "強まる",
+    "sentence_jp": null,
+    "sentence_kana": "としをとるとともに、じょうねつはうすれるが、みについたしゅうかんはつよまるものだ。",
+    "meaning_ru": "усиливаться",
+    "sentence_ru": "С возрастом страсть угасает, но укоренившиеся привычки усиливаются.",
+    "noteId": 1618910187618
+  },
+  {
+    "expression": "強み",
+    "sentence_jp": null,
+    "sentence_kana": "かれはりっぱなきょういくをうけたというつよみがある。",
+    "meaning_ru": "сила, преимущество",
+    "sentence_ru": "У него есть преимущество — он получил прекрасное образование.",
+    "noteId": 1618910200993
+  },
+  {
+    "expression": "強める",
+    "sentence_jp": null,
+    "sentence_kana": "フロントローラーのスラストかくはにど、たぶんレースじにはもうすこしかくどをつよめるよていです。",
+    "meaning_ru": "усиливать",
+    "sentence_ru": "Угол тяги переднего ролика — 2 градуса, возможно, во время гонки планируется немного увеличить угол.",
+    "noteId": 1618910216900
+  },
+  {
+    "expression": "釣り具",
+    "sentence_jp": "釣り具を買う。",
+    "sentence_kana": "つりぐをかう。",
+    "meaning_ru": "рыболовные снасти",
+    "sentence_ru": "Купить рыболовные снасти.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910232911
+  },
+  {
+    "expression": "つるす",
+    "sentence_jp": "洗濯物をつるす。",
+    "sentence_kana": "せんたくものをつるす。",
+    "meaning_ru": "вешать",
+    "sentence_ru": "Вешать бельё.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910241030
+  },
+  {
+    "expression": "～連れ",
+    "sentence_jp": "家族連れで来た。",
+    "sentence_kana": "かぞくづれできた。",
+    "meaning_ru": "в сопровождении (суффикс)",
+    "sentence_ru": "Пришёл(шла) с семьёй.",
+    "note": "Tatoeba match was crude, replaced",
+    "noteId": 1618910258993
+  },
+  {
+    "expression": "連れ出す",
+    "sentence_jp": "子供を公園に連れ出す。",
+    "sentence_kana": "こどもをこうえんにつれだす。",
+    "meaning_ru": "выводить (кого-то куда-то)",
+    "sentence_ru": "Вывести ребёнка в парк.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910270522
+  },
+  {
+    "expression": "出会う",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはぼくとであうたびほほえみかける。",
+    "meaning_ru": "встречать(ся)",
+    "sentence_ru": "Она улыбается мне каждый раз, когда мы встречаемся.",
+    "noteId": 1618910284707
+  },
+  {
+    "expression": "低～",
+    "sentence_jp": null,
+    "sentence_kana": "にかいめのじんこうないじいしょくへのていしょとくしゃいりょうふじょせいどのてきようふきょかをとりさげる。",
+    "meaning_ru": "низкий (префикс)",
+    "sentence_ru": "Отозвать отказ в применении системы медицинской помощи малоимущим ко второй операции по кохлеарной имплантации.",
+    "noteId": 1618910297979
+  },
+  {
+    "expression": "提案",
+    "sentence_jp": null,
+    "sentence_kana": "そんなふとうなていあんは、きょひすべきだったのに。",
+    "meaning_ru": "предложение",
+    "sentence_ru": "Такое несправедливое предложение следовало отклонить.",
+    "noteId": 1618910309550
+  },
+  {
+    "expression": "定員",
+    "sentence_jp": null,
+    "sentence_kana": "ボートはていいんオーバーでバランスをうしなった。",
+    "meaning_ru": "вместимость, лимит мест",
+    "sentence_ru": "Лодка потеряла равновесие из-за превышения пассажировместимости.",
+    "noteId": 1618910319533
+  },
+  {
+    "expression": "低下",
+    "sentence_jp": null,
+    "sentence_kana": "このままではわがくにのこくさいきょうそうりょくはさらにていかするおそれがおおきい。",
+    "meaning_ru": "снижение",
+    "sentence_ru": "Если так продолжится, велика вероятность дальнейшего снижения международной конкурентоспособности нашей страны.",
+    "noteId": 1618910337834
+  },
+  {
+    "expression": "低カロリー",
+    "sentence_jp": "低カロリーの食事をとる。",
+    "sentence_kana": "ていカロリーのしょくじをとる。",
+    "meaning_ru": "низкокалорийный",
+    "sentence_ru": "Питаться низкокалорийной пищей.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910426259
+  },
+  {
+    "expression": "定期券",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはおろかにもていきけんをいえにおきわすれた。",
+    "meaning_ru": "проездной билет",
+    "sentence_ru": "По глупости я забыл(а) проездной дома.",
+    "noteId": 1618910455686
+  },
+  {
+    "expression": "定期預金",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはかねをぎんこうにさんねんていきよきんにいれた。",
+    "meaning_ru": "срочный вклад",
+    "sentence_ru": "Я положил(а) деньги в банк на трёхлетний срочный вклад.",
+    "noteId": 1618910475307
+  },
+  {
+    "expression": "低血圧",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょは、ていけつあつだ。",
+    "meaning_ru": "пониженное давление",
+    "sentence_ru": "У неё пониженное давление.",
+    "noteId": 1618910495164
+  },
+  {
+    "expression": "停車",
+    "sentence_jp": null,
+    "sentence_kana": "れっしゃはほんのすこしていしゃした。",
+    "meaning_ru": "остановка (транспорта)",
+    "sentence_ru": "Поезд остановился совсем ненадолго.",
+    "noteId": 1618910505453
+  },
+  {
+    "expression": "訂正",
+    "sentence_jp": null,
+    "sentence_kana": "ていせいしろ、いますぐ。",
+    "meaning_ru": "исправление, поправка",
+    "sentence_ru": "Исправь это, немедленно.",
+    "noteId": 1618910517978
+  },
+  {
+    "expression": "停電",
+    "sentence_jp": null,
+    "sentence_kana": "あらしのあいだていでんした。",
+    "meaning_ru": "отключение электричества",
+    "sentence_ru": "Во время бури было отключение электричества.",
+    "noteId": 1618910528746
+  },
+  {
+    "expression": "停留所",
+    "sentence_jp": null,
+    "sentence_kana": "びじゅつかんゆきのバスていりゅうじょは、どこですか。",
+    "meaning_ru": "остановка",
+    "sentence_ru": "Где остановка автобуса до музея?",
+    "noteId": 1618910569825
+  },
+  {
+    "expression": "データ",
+    "sentence_jp": null,
+    "sentence_kana": "テキストデータのごじだつじをしゅうせい。",
+    "meaning_ru": "данные",
+    "sentence_ru": "Исправление опечаток и пропущенных символов в тексте.",
+    "noteId": 1618910580768
+  },
+  {
+    "expression": "手が空く",
+    "sentence_jp": null,
+    "sentence_kana": "あとじゅっぷんでてがあく。",
+    "meaning_ru": "освободиться (о времени)",
+    "sentence_ru": "Через 10 минут освобожусь.",
+    "noteId": 1618910597393
+  },
+  {
+    "expression": "手が掛かる",
+    "sentence_jp": "この仕事は手が掛かる。",
+    "sentence_kana": "このしごとはてがかかる。",
+    "meaning_ru": "требовать много забот",
+    "sentence_ru": "Эта работа требует много хлопот.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618910615156
+  },
+  {
+    "expression": "手が足りない",
+    "sentence_jp": null,
+    "sentence_kana": "いまてがたりないのです。",
+    "meaning_ru": "не хватает рабочих рук",
+    "sentence_ru": "Сейчас не хватает рабочих рук.",
+    "noteId": 1618910629963
+  },
+  {
+    "expression": "手が出ない",
+    "sentence_jp": "高すぎて手が出ない。",
+    "sentence_kana": "たかすぎててがでない。",
+    "meaning_ru": "не по карману, не подступиться",
+    "sentence_ru": "Слишком дорого, не могу себе позволить.",
+    "note": "Tatoeba match's meaning was ambiguous/confusing, replaced with a clearer example",
+    "noteId": 1618910640386
+  },
+  {
+    "expression": "手が離せない",
+    "sentence_jp": null,
+    "sentence_kana": "いましごとからてがはなせない。",
+    "meaning_ru": "не могу оторваться (от дела)",
+    "sentence_ru": "Сейчас не могу оторваться от работы.",
+    "noteId": 1618910654306
+  }
+]
