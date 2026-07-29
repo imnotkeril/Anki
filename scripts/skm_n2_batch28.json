@@ -1,0 +1,417 @@
+[
+  {
+    "expression": "地平線",
+    "sentence_jp": null,
+    "sentence_kana": "ひはしらぬまにちへいせんかにしずんだ。",
+    "meaning_ru": "линия горизонта (земного)",
+    "sentence_ru": "Незаметно солнце скрылось за горизонтом.",
+    "noteId": 1618893426863
+  },
+  {
+    "expression": "地方",
+    "sentence_jp": null,
+    "sentence_kana": "ただみまちはふくしまけんみなみあいづちほうにあり、きゅうしゅんなやまをへだててにいがたとのけんきょうにいちしています。",
+    "meaning_ru": "регион",
+    "sentence_ru": "Посёлок Тадами находится в регионе Минами-Айдзу префектуры Фукусима, на границе с Ниигатой, отделённой крутыми горами.",
+    "noteId": 1618893434858
+  },
+  {
+    "expression": "地方公共団体",
+    "sentence_jp": "地方公共団体が支援する。",
+    "sentence_kana": "ちほうこうきょうだんたいがしえんする。",
+    "meaning_ru": "местное самоуправление (орган)",
+    "sentence_ru": "Орган местного самоуправления оказывает поддержку.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893484562
+  },
+  {
+    "expression": "チャンス",
+    "sentence_jp": null,
+    "sentence_kana": "ひじょうにたかいしゅうにゅうをえるチャンスがあるビジネス、げつがくひゃくまんえんかのう！！",
+    "meaning_ru": "шанс",
+    "sentence_ru": "Бизнес с шансом получить очень высокий доход, возможно до 1 миллиона иен в месяц!!",
+    "noteId": 1618893494786
+  },
+  {
+    "expression": "中華風",
+    "sentence_jp": "中華風の料理を作る。",
+    "sentence_kana": "ちゅうかふうのりょうりをつくる。",
+    "meaning_ru": "в китайском стиле",
+    "sentence_ru": "Готовить блюдо в китайском стиле.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893507617
+  },
+  {
+    "expression": "中間試験",
+    "sentence_jp": null,
+    "sentence_kana": "ちゅうかんしけんがもうすぐはじまる。",
+    "meaning_ru": "промежуточный экзамен",
+    "sentence_ru": "Скоро начнутся промежуточные экзамены.",
+    "noteId": 1618893526950
+  },
+  {
+    "expression": "中古",
+    "sentence_jp": null,
+    "sentence_kana": "メキシコせいふはせんきゅうひゃくきゅうじゅうはちねんがたのちゅうこしゃいがいのちゅうこしゃのゆにゅうをきんしするとはっぴょうした。",
+    "meaning_ru": "подержанный",
+    "sentence_ru": "Правительство Мексики объявило о запрете импорта подержанных автомобилей, кроме моделей 1998 года.",
+    "noteId": 1618893654738
+  },
+  {
+    "expression": "忠告",
+    "sentence_jp": null,
+    "sentence_kana": "ろうじんはやくにたつちゅうこくをひとつしてくれた。",
+    "meaning_ru": "предостережение, совет",
+    "sentence_ru": "Старик дал один полезный совет.",
+    "noteId": 1618893665551
+  },
+  {
+    "expression": "駐車違反",
+    "sentence_jp": null,
+    "sentence_kana": "かれはちゅうしゃいはんでばっきんをとられた。",
+    "meaning_ru": "нарушение правил парковки",
+    "sentence_ru": "Его оштрафовали за нарушение парковки.",
+    "noteId": 1618893684274
+  },
+  {
+    "expression": "注射器",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはちゅうしゃきをみるまではへいきだった。",
+    "meaning_ru": "шприц",
+    "sentence_ru": "Я был(а) спокоен(йна), пока не увидел(а) шприц.",
+    "noteId": 1618893699587
+  },
+  {
+    "expression": "中旬",
+    "sentence_jp": null,
+    "sentence_kana": "よていびはいちがつのちゅうじゅんごろです。",
+    "meaning_ru": "середина месяца",
+    "sentence_ru": "Предполагаемая дата — примерно середина января.",
+    "noteId": 1618893712142
+  },
+  {
+    "expression": "中断",
+    "sentence_jp": null,
+    "sentence_kana": "ここでちゅうだんしたらもとのもくあみだぞっ。",
+    "meaning_ru": "прерывание",
+    "sentence_ru": "Если остановиться здесь, всё пойдёт насмарку.",
+    "noteId": 1618893724165
+  },
+  {
+    "expression": "注目",
+    "sentence_jp": null,
+    "sentence_kana": "らいげつやってくるかれのさいきんのえいがにちゅうもくしなさい。",
+    "meaning_ru": "внимание",
+    "sentence_ru": "Обрати внимание на его недавний фильм, который выходит в следующем месяце.",
+    "noteId": 1618893734040
+  },
+  {
+    "expression": "注文",
+    "sentence_jp": null,
+    "sentence_kana": "「ごちゅうもんは？」「オレンジジュース」「アイスつきで？」「そう」「まいど」",
+    "meaning_ru": "заказ",
+    "sentence_ru": "«Что закажете?» «Апельсиновый сок» «Со льдом?» «Да» «Спасибо за заказ».",
+    "noteId": 1618893743180
+  },
+  {
+    "expression": "長～、長～",
+    "sentence_jp": "長距離を走る。",
+    "sentence_kana": "ちょうきょりをはしる。",
+    "meaning_ru": "длинный (префикс)",
+    "sentence_ru": "Бежать на длинную дистанцию.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893755243
+  },
+  {
+    "expression": "超～",
+    "sentence_jp": "超高速のパソコンを買った。",
+    "sentence_kana": "ちょうこうそくのパソコンをかった。",
+    "meaning_ru": "сверх- (префикс)",
+    "sentence_ru": "Я купил(а) сверхбыстрый компьютер.",
+    "note": "Tatoeba match used the verb 超える, not the prefix, replaced",
+    "noteId": 1618893769676
+  },
+  {
+    "expression": "～帳",
+    "sentence_jp": null,
+    "sentence_kana": "こうげん、つまりひかりのむきだな、それといんえいとかにもきをつけて、できるだけせいかくにてもとにあるクロッキーちょうにかきとっていくだけ。",
+    "meaning_ru": "тетрадь, книжка (суффикс)",
+    "sentence_ru": "Просто внимательно следи за источником света и светотенью, и как можно точнее зарисовывай в блокнот для набросков.",
+    "noteId": 1618893788573
+  },
+  {
+    "expression": "超一流",
+    "sentence_jp": "超一流のホテルに泊まった。",
+    "sentence_kana": "ちょういちりゅうのホテルにとまった。",
+    "meaning_ru": "высшего класса",
+    "sentence_ru": "Я остановился(лась) в отеле высшего класса.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893806304
+  },
+  {
+    "expression": "超大型",
+    "sentence_jp": "超大型の台風が接近している。",
+    "sentence_kana": "ちょうおおがたのたいふうがせっきんしている。",
+    "meaning_ru": "сверхкрупный",
+    "sentence_ru": "Приближается сверхмощный тайфун.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893826882
+  },
+  {
+    "expression": "父親",
+    "sentence_jp": null,
+    "sentence_kana": "きのう、ひょんなことでちちおやのこせきしょうほんのコピーをみてしまいました。",
+    "meaning_ru": "отец",
+    "sentence_ru": "Вчера случайно увидел(а) копию выписки из семейного реестра отца.",
+    "noteId": 1618893886687
+  },
+  {
+    "expression": "朝刊",
+    "sentence_jp": null,
+    "sentence_kana": "きょうのちょうかんによればそのしけいしゅうはじさつしたようだ。",
+    "meaning_ru": "утренняя газета",
+    "sentence_ru": "Согласно сегодняшней утренней газете, тот приговорённый к смерти покончил с собой.",
+    "noteId": 1618893939434
+  },
+  {
+    "expression": "超高層ビル",
+    "sentence_jp": null,
+    "sentence_kana": "このとちにちょうこうそうビルをたてることはほうりつがきんじている。",
+    "meaning_ru": "небоскрёб",
+    "sentence_ru": "Закон запрещает строить небоскрёб на этой земле.",
+    "noteId": 1618893965054
+  },
+  {
+    "expression": "超小型",
+    "sentence_jp": "超小型のカメラを買った。",
+    "sentence_kana": "ちょうこがたのカメラをかった。",
+    "meaning_ru": "сверхминиатюрный",
+    "sentence_ru": "Я купил(а) сверхминиатюрную камеру.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618893979843
+  },
+  {
+    "expression": "調子",
+    "sentence_jp": null,
+    "sentence_kana": "ただ、ちょうしをあわせているんじゃない。ほんとうに、わたしのきもちをわかっていてどうじょうしているめだった。",
+    "meaning_ru": "состояние, самочувствие",
+    "sentence_ru": "Это не просто подыгрывание. Это были глаза, которые действительно понимали мои чувства и сочувствовали.",
+    "noteId": 1618893989574
+  },
+  {
+    "expression": "長所",
+    "sentence_jp": null,
+    "sentence_kana": "だれにでもちょうしょとたんしょがある。",
+    "meaning_ru": "достоинство",
+    "sentence_ru": "У каждого есть достоинства и недостатки.",
+    "noteId": 1618894003407
+  },
+  {
+    "expression": "頂上",
+    "sentence_jp": null,
+    "sentence_kana": "ふじさんのちょうじょうはゆきでおおわれていた。",
+    "meaning_ru": "вершина",
+    "sentence_ru": "Вершина горы Фудзи была покрыта снегом.",
+    "noteId": 1618894015234
+  },
+  {
+    "expression": "調整",
+    "sentence_jp": null,
+    "sentence_kana": "りょうしゃのりがいのちょうせいをはかりつつ、こくさいてきしやにたったじんこうせいさくをかんがえていかなければならない。",
+    "meaning_ru": "регулировка, координация",
+    "sentence_ru": "Необходимо продумывать демографическую политику с международной точки зрения, стремясь координировать интересы обеих сторон.",
+    "noteId": 1618894028255
+  },
+  {
+    "expression": "挑戦状",
+    "sentence_jp": "挑戦状を送りつけた。",
+    "sentence_kana": "ちょうせんじょうをおくりつけた。",
+    "meaning_ru": "письменный вызов",
+    "sentence_ru": "Он отправил письменный вызов.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894047356
+  },
+  {
+    "expression": "超大作",
+    "sentence_jp": "超大作の映画が公開された。",
+    "sentence_kana": "ちょうたいさくのえいががこうかいされた。",
+    "meaning_ru": "грандиозное произведение (блокбастер)",
+    "sentence_ru": "Вышел грандиозный блокбастер.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894060218
+  },
+  {
+    "expression": "ちょうど",
+    "sentence_jp": null,
+    "sentence_kana": "じっさいはそんなことあるわけないが、くぎをさすにはちょうどよさそうだ。",
+    "meaning_ru": "как раз",
+    "sentence_ru": "На самом деле такого не может быть, но для предупреждения это, похоже, как раз подходит.",
+    "noteId": 1618894068781
+  },
+  {
+    "expression": "長方形",
+    "sentence_jp": null,
+    "sentence_kana": "ちょうほうけいのたいへんはへいこうである。",
+    "meaning_ru": "прямоугольник",
+    "sentence_ru": "Противоположные стороны прямоугольника параллельны.",
+    "noteId": 1618894083396
+  },
+  {
+    "expression": "調味料",
+    "sentence_jp": "調味料を加える。",
+    "sentence_kana": "ちょうみりょうをくわえる。",
+    "meaning_ru": "приправа",
+    "sentence_ru": "Добавить приправу.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894102033
+  },
+  {
+    "expression": "貯金",
+    "sentence_jp": null,
+    "sentence_kana": "かいしゃをクビになったけど、ちょきんがすこしあるので、さしずめせいかつにはこまらない。",
+    "meaning_ru": "сбережения",
+    "sentence_ru": "Меня уволили с работы, но у меня есть немного сбережений, так что пока с жизнью проблем не будет.",
+    "noteId": 1618894109900
+  },
+  {
+    "expression": "著者",
+    "sentence_jp": null,
+    "sentence_kana": "ほんしょのけってんは、きこんしゃであるちょしゃがひこんをすすめても、せっとくりょくをかくことである。",
+    "meaning_ru": "автор",
+    "sentence_ru": "Недостаток этой книги в том, что она теряет убедительность, когда женатый автор советует не вступать в брак.",
+    "noteId": 1618894125926
+  },
+  {
+    "expression": "貯蓄",
+    "sentence_jp": null,
+    "sentence_kana": "ろうごをあんしんしてくらしたかったらいまからちょちくをはじめなさい。",
+    "meaning_ru": "накопления, сбережения",
+    "sentence_ru": "Если хочешь спокойно жить в старости, начни копить с сейчас.",
+    "noteId": 1618894149911
+  },
+  {
+    "expression": "著名人",
+    "sentence_jp": null,
+    "sentence_kana": "このまちはなんにんものちょめいじんをうみだした。",
+    "meaning_ru": "знаменитость",
+    "sentence_ru": "Этот город породил многих знаменитостей.",
+    "noteId": 1618894166205
+  },
+  {
+    "expression": "散らかる",
+    "sentence_jp": "部屋が散らかっている。",
+    "sentence_kana": "へやがちらかっている。",
+    "meaning_ru": "быть разбросанным, в беспорядке",
+    "sentence_ru": "В комнате беспорядок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894174053
+  },
+  {
+    "expression": "ちらっと",
+    "sentence_jp": null,
+    "sentence_kana": "れっしゃのまどからふじさんがちらっとみえます。",
+    "meaning_ru": "мельком, украдкой (взгляд)",
+    "sentence_ru": "Из окна поезда мельком видна гора Фудзи.",
+    "noteId": 1618894186852
+  },
+  {
+    "expression": "つい",
+    "sentence_jp": "つい本当のことを言ってしまった。",
+    "sentence_kana": "ついほんとうのことをいってしまった。",
+    "meaning_ru": "случайно, невольно",
+    "sentence_ru": "Я невольно сказал(а) правду.",
+    "note": "Tatoeba match was unclear/unrelated, replaced",
+    "noteId": 1618894200767
+  },
+  {
+    "expression": "追加",
+    "sentence_jp": null,
+    "sentence_kana": "じかんをおかないとついか・さくじょがはんえいされない。",
+    "meaning_ru": "дополнение",
+    "sentence_ru": "Если не подождать, добавление/удаление не отобразится.",
+    "noteId": 1618894213018
+  },
+  {
+    "expression": "ついに",
+    "sentence_jp": null,
+    "sentence_kana": "ついにけんどうのこきゅうをつかんだ。",
+    "meaning_ru": "наконец-то",
+    "sentence_ru": "Наконец-то я уловил(а) дыхание кэндо.",
+    "noteId": 1618894220202
+  },
+  {
+    "expression": "費やす",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはほんにしゅうにゅうのだいぶぶんをついやす。",
+    "meaning_ru": "тратить",
+    "sentence_ru": "Она тратит большую часть дохода на книги.",
+    "noteId": 1618894233991
+  },
+  {
+    "expression": "通学",
+    "sentence_jp": null,
+    "sentence_kana": "バスつうがくとせっきょくてきさべつぜせいそちなどがろんそうのおおいわだいだった。",
+    "meaning_ru": "учебная поездка",
+    "sentence_ru": "Автобусный подвоз в школу и позитивная дискриминация были спорными темами.",
+    "noteId": 1618894244804
+  },
+  {
+    "expression": "通勤",
+    "sentence_jp": null,
+    "sentence_kana": "しごとははちじかんするとして、なんかつうきんさんじかんのあいだもしごとをしているようで、しかしおかねはでず、もったいないな。",
+    "meaning_ru": "поездка на работу",
+    "sentence_ru": "Работаешь 8 часов, но 3 часа на дорогу до работы тоже как будто работа, а денег за это не платят, обидно.",
+    "noteId": 1618894256760
+  },
+  {
+    "expression": "通信～",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはてきのむせんつうしんをじゅしんした。",
+    "meaning_ru": "связь, коммуникация (префикс)",
+    "sentence_ru": "Они приняли радиосообщение противника.",
+    "noteId": 1618894277042
+  },
+  {
+    "expression": "通信機能",
+    "sentence_jp": "この機器には通信機能がある。",
+    "sentence_kana": "このききにはつうしんきのうがある。",
+    "meaning_ru": "функция связи",
+    "sentence_ru": "У этого устройства есть функция связи.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894293839
+  },
+  {
+    "expression": "通信速度",
+    "sentence_jp": "通信速度が遅い。",
+    "sentence_kana": "つうしんそくどがおそい。",
+    "meaning_ru": "скорость соединения",
+    "sentence_ru": "Скорость соединения медленная.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894336189
+  },
+  {
+    "expression": "通信網",
+    "sentence_jp": "通信網が発達している。",
+    "sentence_kana": "つうしんもうがはったつしている。",
+    "meaning_ru": "сеть связи",
+    "sentence_ru": "Сеть связи хорошо развита.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618894350368
+  },
+  {
+    "expression": "通訳",
+    "sentence_jp": null,
+    "sentence_kana": "ほんやくかかつうやくになろうとべんきょうしています。",
+    "meaning_ru": "устный перевод",
+    "sentence_ru": "Я учусь, чтобы стать переводчиком или устным переводчиком.",
+    "noteId": 1618894362951
+  },
+  {
+    "expression": "～遣い",
+    "sentence_jp": null,
+    "sentence_kana": "むだづかいをするな。",
+    "meaning_ru": "манера использования (суффикс)",
+    "sentence_ru": "Не трать деньги впустую.",
+    "noteId": 1618894381972
+  }
+]
