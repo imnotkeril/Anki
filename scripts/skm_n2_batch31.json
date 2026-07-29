@@ -1,0 +1,416 @@
+[
+  {
+    "expression": "同業者",
+    "sentence_jp": null,
+    "sentence_kana": "なぜ、ライバルのどうぎょうしゃにまでもこうかいしているのか。",
+    "meaning_ru": "коллега по бизнесу, конкурент той же отрасли",
+    "sentence_ru": "Почему это раскрывается даже конкурентам из той же отрасли?",
+    "noteId": 1618911647658
+  },
+  {
+    "expression": "東京発",
+    "sentence_jp": null,
+    "sentence_kana": "とうきょうはつのひゃくにじゅうさんびんはなんじにとうちゃくしますか。",
+    "meaning_ru": "отправление из Токио",
+    "sentence_ru": "Во сколько прибывает рейс 123 из Токио?",
+    "noteId": 1618911662281
+  },
+  {
+    "expression": "東京方面",
+    "sentence_jp": "東京方面の電車に乗る。",
+    "sentence_kana": "とうきょうほうめんのでんしゃにのる。",
+    "meaning_ru": "в направлении Токио",
+    "sentence_ru": "Сесть на поезд в направлении Токио.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618911678128
+  },
+  {
+    "expression": "投資",
+    "sentence_jp": null,
+    "sentence_kana": "リスクマネーとは、ハイリスクながらハイリターンをもとめるとうしにとうにゅうされるしきんのことをいう。",
+    "meaning_ru": "инвестиция",
+    "sentence_ru": "Рисковый капитал — это средства, вложенные в инвестиции с высоким риском, но и высокой доходностью.",
+    "noteId": 1618911689282
+  },
+  {
+    "expression": "どうせ",
+    "sentence_jp": null,
+    "sentence_kana": "そうだ、どうせならさんぽがてらに、りんどうにいってプチしんりんよくでも・・・。",
+    "meaning_ru": "всё равно, в любом случае",
+    "sentence_ru": "Точно, раз уж так, можно заодно прогуляться по лесной тропе и немного подышать лесным воздухом...",
+    "noteId": 1618911697453
+  },
+  {
+    "expression": "同世代",
+    "sentence_jp": null,
+    "sentence_kana": "どうせだいのひとは、しごととか、かいものでるすばかりです。",
+    "meaning_ru": "одно поколение",
+    "sentence_ru": "Люди моего поколения вечно отсутствуют дома — то работа, то покупки.",
+    "noteId": 1618911774750
+  },
+  {
+    "expression": "到着",
+    "sentence_jp": null,
+    "sentence_kana": "がいこくじんがにほんにじょうりくするときは、とうちゃくしたくうこうとうでじょうりくきょかのしんせいをおこなわなければなりません。",
+    "meaning_ru": "прибытие",
+    "sentence_ru": "Когда иностранец прибывает в Японию, он должен подать заявление на разрешение на въезд в аэропорту прибытия.",
+    "noteId": 1618911789103
+  },
+  {
+    "expression": "同程度",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはちりょくではかれとどうていどだ。",
+    "meaning_ru": "одинаковый уровень",
+    "sentence_ru": "По уму я примерно на одном уровне с ним.",
+    "noteId": 1618911801952
+  },
+  {
+    "expression": "とうとう",
+    "sentence_jp": null,
+    "sentence_kana": "かれはかのじょにくるまをうんてんさせるつもりはなかったのだが、かのじょがあまりにせがむものだから、かれのほうがとうとうおれた。",
+    "meaning_ru": "в конце концов",
+    "sentence_ru": "Он не собирался позволять ей вести машину, но она так настойчиво упрашивала, что он в конце концов сдался.",
+    "noteId": 1618911808103
+  },
+  {
+    "expression": "道徳",
+    "sentence_jp": null,
+    "sentence_kana": "かれはふどうとくなおとこだ。",
+    "meaning_ru": "мораль",
+    "sentence_ru": "Он безнравственный человек.",
+    "noteId": 1618911819289
+  },
+  {
+    "expression": "道徳的",
+    "sentence_jp": null,
+    "sentence_kana": "かれはどうとくてきにだらくした。",
+    "meaning_ru": "нравственный, этический",
+    "sentence_ru": "Он морально деградировал.",
+    "noteId": 1618911843634
+  },
+  {
+    "expression": "盗難",
+    "sentence_jp": null,
+    "sentence_kana": "かれはとうなんしゃをみたとしらせてきた。",
+    "meaning_ru": "кража",
+    "sentence_ru": "Он сообщил, что видел угнанную машину.",
+    "noteId": 1618911853015
+  },
+  {
+    "expression": "導入",
+    "sentence_jp": null,
+    "sentence_kana": "おおてぎんこうのたいはんがこのせいどをどうにゅうしている。",
+    "meaning_ru": "внедрение",
+    "sentence_ru": "Большинство крупных банков внедрили эту систему.",
+    "noteId": 1618911863610
+  },
+  {
+    "expression": "投票",
+    "sentence_jp": null,
+    "sentence_kana": "せいふがじゅうみんにとういっぱんとうひょうをじっししました。",
+    "meaning_ru": "голосование",
+    "sentence_ru": "Правительство провело всенародное голосование, обращённое к жителям.",
+    "noteId": 1618911872116
+  },
+  {
+    "expression": "当分",
+    "sentence_jp": null,
+    "sentence_kana": "かれはとうぶんのあいだともだちといっしょにすんでいる。",
+    "meaning_ru": "пока что, некоторое время",
+    "sentence_ru": "Он какое-то время живёт вместе с другом.",
+    "noteId": 1618911884855
+  },
+  {
+    "expression": "どうも",
+    "sentence_jp": null,
+    "sentence_kana": "さきのじかんにいねむりしたぶんもあわせて、こんどのしけんはどうもひとすじなわではいかないかんじがただよっている。",
+    "meaning_ru": "почему-то, как-то",
+    "sentence_ru": "С учётом того, что я вздремнул(а) на предыдущем занятии, этот экзамен почему-то кажется совсем не простым.",
+    "noteId": 1618911917099
+  },
+  {
+    "expression": "同僚",
+    "sentence_jp": null,
+    "sentence_kana": "たとえば、ちちのしごとでは、うりかいのタイミングはひじょうにたいせつであり、かれはどうりょうにこまごまとしたことをいわないで「しおどきというものがある」といったり、かいたりすることがときどきあった。",
+    "meaning_ru": "коллега",
+    "sentence_ru": "Например, в работе моего отца момент покупки-продажи был крайне важен, и он иногда говорил или писал коллегам не всякие мелочи, а просто «на всё есть своё время».",
+    "noteId": 1618911934898
+  },
+  {
+    "expression": "登録証",
+    "sentence_jp": "外国人登録証を提示する。",
+    "sentence_kana": "がいこくじんとうろくしょうをていじする。",
+    "meaning_ru": "регистрационное удостоверение",
+    "sentence_ru": "Предъявить удостоверение регистрации иностранца.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618911949849
+  },
+  {
+    "expression": "登録済み",
+    "sentence_jp": "このメールアドレスは登録済みです。",
+    "sentence_kana": "このメールアドレスはとうろくずみです。",
+    "meaning_ru": "уже зарегистрирован",
+    "sentence_ru": "Этот адрес электронной почты уже зарегистрирован.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618911963629
+  },
+  {
+    "expression": "通り～",
+    "sentence_jp": null,
+    "sentence_kana": "それはじょうせきどおりというだけで、てをぬいたわけではないのです。",
+    "meaning_ru": "согласно, как обычно (суффикс)",
+    "sentence_ru": "Это просто по стандартной схеме, а не потому что я схалтурил(а).",
+    "noteId": 1618911979749
+  },
+  {
+    "expression": "通りかかる",
+    "sentence_jp": null,
+    "sentence_kana": "すると、たまたましょうじょのおばあちゃんがとおりかかる。",
+    "meaning_ru": "случайно проходить мимо",
+    "sentence_ru": "И тут случайно мимо проходит бабушка девочки.",
+    "noteId": 1618911997685
+  },
+  {
+    "expression": "通り過ぎる",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはひじょうにびじんだったので、かのじょがとおりすぎるとだれでもふりむいたものです。",
+    "meaning_ru": "проходить мимо",
+    "sentence_ru": "Она была настолько красива, что все оборачивались, когда она проходила мимо.",
+    "noteId": 1618912013421
+  },
+  {
+    "expression": "溶かす",
+    "sentence_jp": null,
+    "sentence_kana": "よん、ちゅうかなべにごまあぶらをねっしてバターをとかす。",
+    "meaning_ru": "растапливать",
+    "sentence_ru": "4. Разогреть кунжутное масло в воке и растопить в нём масло.",
+    "noteId": 1618912032281
+  },
+  {
+    "expression": "とかす",
+    "sentence_jp": "髪をとかす。",
+    "sentence_kana": "かみをとかす。",
+    "meaning_ru": "расчёсывать",
+    "sentence_ru": "Расчёсывать волосы.",
+    "note": "Tatoeba match was a false positive (car accident sentence, unrelated word), replaced",
+    "noteId": 1618912041425
+  },
+  {
+    "expression": "時折",
+    "sentence_jp": null,
+    "sentence_kana": "ときおりクラブでかれにあいます。",
+    "meaning_ru": "время от времени",
+    "sentence_ru": "Время от времени я встречаю его в клубе.",
+    "noteId": 1618912055604
+  },
+  {
+    "expression": "どきどき",
+    "sentence_jp": null,
+    "sentence_kana": "なまえをよばれてむねがどきどきした。",
+    "meaning_ru": "сильно биться (о сердце)",
+    "sentence_ru": "Когда назвали моё имя, сердце сильно забилось.",
+    "noteId": 1618912066529
+  },
+  {
+    "expression": "解く",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくはそのもんだいをとくのににじかんかかった。",
+    "meaning_ru": "решать, развязывать",
+    "sentence_ru": "Мне понадобилось 2 часа, чтобы решить эту задачу.",
+    "noteId": 1618912086918
+  },
+  {
+    "expression": "溶く",
+    "sentence_jp": "卵を溶く。",
+    "sentence_kana": "たまごをとく。",
+    "meaning_ru": "растворять, разводить",
+    "sentence_ru": "Взбить яйцо.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912104787
+  },
+  {
+    "expression": "とく",
+    "sentence_jp": "髪をブラシでとく。",
+    "sentence_kana": "かみをブラシでとく。",
+    "meaning_ru": "расчёсывать",
+    "sentence_ru": "Расчёсывать волосы щёткой.",
+    "note": "Tatoeba match was unrelated/vague, replaced",
+    "noteId": 1618912117632
+  },
+  {
+    "expression": "得意先",
+    "sentence_jp": null,
+    "sentence_kana": "とくいさきはせきにんしゃがだれかしりたがった。",
+    "meaning_ru": "постоянный клиент",
+    "sentence_ru": "Клиент хотел знать, кто ответственный.",
+    "noteId": 1618912135161
+  },
+  {
+    "expression": "読書",
+    "sentence_jp": null,
+    "sentence_kana": "となりのホワイトばあさんはどくしょがすきだ。",
+    "meaning_ru": "чтение",
+    "sentence_ru": "Соседка, бабушка Уайт, любит читать.",
+    "noteId": 1618912147322
+  },
+  {
+    "expression": "独身",
+    "sentence_jp": null,
+    "sentence_kana": "きょうだいとも「つまとひこうきのりょうほうはやしなえない」とのりゆうで、しょうがいどくしんをとおした。",
+    "meaning_ru": "холост(ая)",
+    "sentence_ru": "Оба брата так и остались холостяками всю жизнь, объясняя это тем, что «не могут содержать и жену, и самолёт».",
+    "noteId": 1618912158761
+  },
+  {
+    "expression": "独身者",
+    "sentence_jp": "彼は独身者だ。",
+    "sentence_kana": "かれはどくしんしゃだ。",
+    "meaning_ru": "холостяк",
+    "sentence_ru": "Он холостяк.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912174624
+  },
+  {
+    "expression": "独立",
+    "sentence_jp": null,
+    "sentence_kana": "べいこくのじんみんはどくりつのためにたたかった。",
+    "meaning_ru": "независимость",
+    "sentence_ru": "Народ США боролся за независимость.",
+    "noteId": 1618912190539
+  },
+  {
+    "expression": "独立心",
+    "sentence_jp": "彼女は独立心が強い。",
+    "sentence_kana": "かのじょはどくりつしんがつよい。",
+    "meaning_ru": "дух независимости",
+    "sentence_ru": "У неё сильный дух независимости.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912205002
+  },
+  {
+    "expression": "解ける",
+    "sentence_jp": "謎が解ける。",
+    "sentence_kana": "なぞがとける。",
+    "meaning_ru": "решаться, разгадываться",
+    "sentence_ru": "Загадка разгадывается.",
+    "note": "Tatoeba match was actually about melting ice (溶ける), a different word, replaced",
+    "noteId": 1618912215356
+  },
+  {
+    "expression": "溶ける",
+    "sentence_jp": null,
+    "sentence_kana": "こおりはひにあたるととける。",
+    "meaning_ru": "таять, растворяться",
+    "sentence_ru": "Лёд тает на солнце.",
+    "noteId": 1618912223031
+  },
+  {
+    "expression": "どける",
+    "sentence_jp": "荷物をどける。",
+    "sentence_kana": "にもつをどける。",
+    "meaning_ru": "убирать, отодвигать",
+    "sentence_ru": "Убрать вещи в сторону.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912230381
+  },
+  {
+    "expression": "所々",
+    "sentence_jp": null,
+    "sentence_kana": "そのほんはところどころひじょうにすばらしい。",
+    "meaning_ru": "местами",
+    "sentence_ru": "Эта книга местами очень хороша.",
+    "noteId": 1618912260789
+  },
+  {
+    "expression": "年上",
+    "sentence_jp": "彼は私より年上だ。",
+    "sentence_kana": "かれはわたしよりとしうえだ。",
+    "meaning_ru": "старше по возрасту",
+    "sentence_ru": "Он старше меня.",
+    "note": "Tatoeba match was a false positive (物価は毎年上昇, unrelated word), replaced",
+    "noteId": 1618912269990
+  },
+  {
+    "expression": "年下",
+    "sentence_jp": null,
+    "sentence_kana": "なまえはリンダで、トニーよりひとつとししたでした。",
+    "meaning_ru": "младше по возрасту",
+    "sentence_ru": "Её звали Линда, она была на год младше Тони.",
+    "noteId": 1618912280510
+  },
+  {
+    "expression": "土砂崩れ",
+    "sentence_jp": "大雨で土砂崩れが起きた。",
+    "sentence_kana": "おおあめでどしゃくずれがおきた。",
+    "meaning_ru": "оползень",
+    "sentence_ru": "Из-за сильного дождя произошёл оползень.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912297632
+  },
+  {
+    "expression": "都心",
+    "sentence_jp": null,
+    "sentence_kana": "かれはそのしょうばいをとしんにしゅうちゅうした。",
+    "meaning_ru": "центр города",
+    "sentence_ru": "Он сосредоточил этот бизнес в центре города.",
+    "noteId": 1618912726408
+  },
+  {
+    "expression": "都心方面",
+    "sentence_jp": "都心方面へ向かう。",
+    "sentence_kana": "としんほうめんへむかう。",
+    "meaning_ru": "в сторону центра города",
+    "sentence_ru": "Направляться в сторону центра города.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618912742669
+  },
+  {
+    "expression": "とっくに",
+    "sentence_jp": null,
+    "sentence_kana": "むだづかいは、とっくにやめていてよいころだ。",
+    "meaning_ru": "уже давно",
+    "sentence_ru": "Давно пора было бы бросить пустые траты.",
+    "noteId": 1618912750005
+  },
+  {
+    "expression": "どっさり",
+    "sentence_jp": null,
+    "sentence_kana": "しょくたくにはくだものがどっさりのせてあった。",
+    "meaning_ru": "много, куча",
+    "sentence_ru": "На столе была навалена куча фруктов.",
+    "noteId": 1618912758499
+  },
+  {
+    "expression": "突如",
+    "sentence_jp": null,
+    "sentence_kana": "くらやみからごうとうがとつじょとしてあらわれた。",
+    "meaning_ru": "внезапно",
+    "sentence_ru": "Из темноты внезапно появился грабитель.",
+    "noteId": 1618912770548
+  },
+  {
+    "expression": "とても",
+    "sentence_jp": null,
+    "sentence_kana": "きみはぼくにとてもいらいらしている。",
+    "meaning_ru": "очень / никак не (с отрицанием)",
+    "sentence_ru": "Ты очень раздражён(а) мной.",
+    "noteId": 1618912780701
+  },
+  {
+    "expression": "～届",
+    "sentence_jp": "婚姻届を出す。",
+    "sentence_kana": "こんいんとどけをだす。",
+    "meaning_ru": "уведомление, заявление (суффикс)",
+    "sentence_ru": "Подать заявление о регистрации брака.",
+    "note": "Tatoeba match used verb お届け (delivery), a different sense, replaced",
+    "noteId": 1618912801923
+  },
+  {
+    "expression": "怒鳴る",
+    "sentence_jp": null,
+    "sentence_kana": "かれはおこるといつもわたしにむかってどなる。",
+    "meaning_ru": "кричать, орать",
+    "sentence_ru": "Когда он злится, всегда кричит на меня.",
+    "noteId": 1618912813819
+  }
+]
