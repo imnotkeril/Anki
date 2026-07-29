@@ -1,0 +1,412 @@
+[
+  {
+    "expression": "～相",
+    "sentence_jp": "外務相が会見した。",
+    "sentence_kana": "がいむしょうがかいけんした。",
+    "meaning_ru": "министр (суффикс)",
+    "sentence_ru": "Министр иностранных дел провёл пресс-конференцию.",
+    "note": "Tatoeba match used 相談 (consultation), a different reading of 相, replaced",
+    "noteId": 1618828621358
+  },
+  {
+    "expression": "～証",
+    "sentence_jp": "会員証を持っている。",
+    "sentence_kana": "かいいんしょうをもっている。",
+    "meaning_ru": "удостоверение (суффикс)",
+    "sentence_ru": "У меня есть членский билет.",
+    "note": "Tatoeba match used 公証役場 (notary office), a different sense, replaced",
+    "noteId": 1618828716163
+  },
+  {
+    "expression": "～場",
+    "sentence_jp": null,
+    "sentence_kana": "むしばをあなどるといのちにかかわるばあいもあるのです。",
+    "meaning_ru": "место (суффикс)",
+    "sentence_ru": "Если недооценивать кариес, в некоторых случаях это может стоить жизни.",
+    "noteId": 1618828734122
+  },
+  {
+    "expression": "～状",
+    "sentence_jp": null,
+    "sentence_kana": "しょきのじかくしょうじょうとしては、はいにょうしょうがいがありますが、おおくのばあい、はっきりとしたしょうじょうがありません。",
+    "meaning_ru": "письмо, состояние (суффикс)",
+    "sentence_ru": "В качестве ранних субъективных симптомов есть нарушение мочеиспускания, но в большинстве случаев чётких симптомов нет.",
+    "noteId": 1618828749883
+  },
+  {
+    "expression": "消化",
+    "sentence_jp": null,
+    "sentence_kana": "しょくもつはいのなかでしょうかされる。",
+    "meaning_ru": "пищеварение",
+    "sentence_ru": "Пища переваривается в желудке.",
+    "noteId": 1618828761535
+  },
+  {
+    "expression": "消火器",
+    "sentence_jp": "消火器を使って火を消した。",
+    "sentence_kana": "しょうかきをつかってひをけした。",
+    "meaning_ru": "огнетушитель",
+    "sentence_ru": "Я потушил(а) огонь с помощью огнетушителя.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618828777314
+  },
+  {
+    "expression": "奨学金",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはとくべつのしょうがくきんをもらってえんげきをけんきゅうしていた。",
+    "meaning_ru": "стипендия",
+    "sentence_ru": "Она изучала театральное искусство, получая специальную стипендию.",
+    "noteId": 1618828789667
+  },
+  {
+    "expression": "乗客",
+    "sentence_jp": null,
+    "sentence_kana": "れっしゃはじょうきゃくでいっぱいだった。",
+    "meaning_ru": "пассажир",
+    "sentence_ru": "Поезд был полон пассажиров.",
+    "noteId": 1618828799270
+  },
+  {
+    "expression": "消去",
+    "sentence_jp": "データを消去する。",
+    "sentence_kana": "データをしょうきょする。",
+    "meaning_ru": "стирание, удаление",
+    "sentence_ru": "Удалить данные.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618828811497
+  },
+  {
+    "expression": "消極的",
+    "sentence_jp": null,
+    "sentence_kana": "けいさつがいりょうじこのりっけんにしょうきょくてきだ。",
+    "meaning_ru": "пассивный, нерешительный",
+    "sentence_ru": "Полиция неохотно возбуждает дела о врачебных ошибках.",
+    "noteId": 1618828832666
+  },
+  {
+    "expression": "賞金",
+    "sentence_jp": null,
+    "sentence_kana": "かれはしょうきんをぎんこうによきんした。",
+    "meaning_ru": "денежный приз",
+    "sentence_ru": "Он положил призовые деньги в банк.",
+    "noteId": 1618828845329
+  },
+  {
+    "expression": "衝撃的",
+    "sentence_jp": "それは衝撃的なニュースだった。",
+    "sentence_kana": "それはしょうげきてきなニュースだった。",
+    "meaning_ru": "шокирующий",
+    "sentence_ru": "Это была шокирующая новость.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618828857408
+  },
+  {
+    "expression": "証言",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはかれにたいしてふりなしょうげんをした。",
+    "meaning_ru": "показания, свидетельство",
+    "sentence_ru": "Она дала показания против него.",
+    "noteId": 1618828866622
+  },
+  {
+    "expression": "証拠",
+    "sentence_jp": null,
+    "sentence_kana": "じょうきょうしょうことしちゃあ、じゅうぶんだね。",
+    "meaning_ru": "доказательство, улика",
+    "sentence_ru": "Как косвенное доказательство, этого достаточно.",
+    "noteId": 1618828879627
+  },
+  {
+    "expression": "正午過ぎ",
+    "sentence_jp": "正午過ぎに到着する。",
+    "sentence_kana": "しょうごすぎにとうちゃくする。",
+    "meaning_ru": "после полудня",
+    "sentence_ru": "Прибыть после полудня.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618828902350
+  },
+  {
+    "expression": "詳細",
+    "sentence_jp": null,
+    "sentence_kana": "りょこうがいしゃはりょこうのしょうさいをすべてわたしたちにおしえてくれた。",
+    "meaning_ru": "подробности",
+    "sentence_ru": "Турагентство сообщило нам все подробности поездки.",
+    "noteId": 1618828912057
+  },
+  {
+    "expression": "上司",
+    "sentence_jp": null,
+    "sentence_kana": "じょうしはぼくのしごとぶりがいいかげんだとけめつけた。",
+    "meaning_ru": "начальник",
+    "sentence_ru": "Начальник решил, что моя работа выполнена небрежно.",
+    "noteId": 1618828925962
+  },
+  {
+    "expression": "乗車",
+    "sentence_jp": null,
+    "sentence_kana": "れっしゃにじょうしゃしたあとで、わたしはさいふをいえにおきわすれてきたことにきがついた。",
+    "meaning_ru": "посадка (в транспорт)",
+    "sentence_ru": "Сев в поезд, я понял(а), что забыл(а) кошелёк дома.",
+    "noteId": 1618828994984
+  },
+  {
+    "expression": "上旬",
+    "sentence_jp": null,
+    "sentence_kana": "しちがつのじょうじゅんは、うみにいくのははやいかな？",
+    "meaning_ru": "первая декада месяца",
+    "sentence_ru": "Не рано ли ехать на море в начале июля?",
+    "noteId": 1618829007097
+  },
+  {
+    "expression": "少々",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはしんせつにもわたしにしょうしょうようだててくれた。",
+    "meaning_ru": "немного",
+    "sentence_ru": "Она любезно одолжила мне немного денег.",
+    "noteId": 1618829018334
+  },
+  {
+    "expression": "症状",
+    "sentence_jp": null,
+    "sentence_kana": "しょきのじかくしょうじょうとしては、はいにょうしょうがいがありますが、おおくのばあい、はっきりとしたしょうじょうがありません。",
+    "meaning_ru": "симптом",
+    "sentence_ru": "В качестве ранних субъективных симптомов есть нарушение мочеиспускания, но в большинстве случаев чётких симптомов нет.",
+    "noteId": 1618829028738
+  },
+  {
+    "expression": "上昇",
+    "sentence_jp": null,
+    "sentence_kana": "よってりゅうつうするマネーがへり、ぶっかじょうしょうはちんせいかする。",
+    "meaning_ru": "рост, подъём",
+    "sentence_ru": "Таким образом, денежная масса в обращении сокращается, и рост цен успокаивается.",
+    "noteId": 1618829046601
+  },
+  {
+    "expression": "使用済み",
+    "sentence_jp": "使用済みの電池を捨てる。",
+    "sentence_kana": "しようずみのでんちをすてる。",
+    "meaning_ru": "использованный",
+    "sentence_ru": "Выбросить использованные батарейки.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618829065005
+  },
+  {
+    "expression": "承諾",
+    "sentence_jp": null,
+    "sentence_kana": "あっさりことわられるとおもいきや、かのじょはしょうだくしてくれました。",
+    "meaning_ru": "согласие, одобрение",
+    "sentence_ru": "Я думал(а), что мне легко откажут, но она согласилась.",
+    "noteId": 1618829075437
+  },
+  {
+    "expression": "上達",
+    "sentence_jp": null,
+    "sentence_kana": "のうりょくにははやくじょうたつするものとゆっくりじょうたつするものがありますよね？",
+    "meaning_ru": "прогресс (в навыке)",
+    "sentence_ru": "Ведь есть навыки, которые быстро прогрессируют, и те, что медленно, правда?",
+    "noteId": 1618829085881
+  },
+  {
+    "expression": "商店街",
+    "sentence_jp": null,
+    "sentence_kana": "しょうてんがいにはいると、ひなはまるでおのぼりさんのようにキョロキョロあたりをみまわした。",
+    "meaning_ru": "торговая улица",
+    "sentence_ru": "Войдя на торговую улицу, Хина растерянно озиралась по сторонам, как приезжая из деревни.",
+    "noteId": 1618829103006
+  },
+  {
+    "expression": "消毒",
+    "sentence_jp": null,
+    "sentence_kana": "ほにゅうびんをしゃふつしょうどくしなさい。",
+    "meaning_ru": "дезинфекция",
+    "sentence_ru": "Стерилизуй бутылочку кипячением.",
+    "noteId": 1618829116553
+  },
+  {
+    "expression": "衝突",
+    "sentence_jp": null,
+    "sentence_kana": "このもんだいは、アイドルのエゴとヲタのエゴのしょうとつだ。",
+    "meaning_ru": "столкновение",
+    "sentence_ru": "Эта проблема — столкновение эго айдола и эго отаку.",
+    "noteId": 1618829128226
+  },
+  {
+    "expression": "勝敗",
+    "sentence_jp": null,
+    "sentence_kana": "しょうはいはもんだいではない。",
+    "meaning_ru": "победа или поражение",
+    "sentence_ru": "Победа или поражение — не главное.",
+    "noteId": 1618829139979
+  },
+  {
+    "expression": "消費",
+    "sentence_jp": null,
+    "sentence_kana": "べいしょうひしゃだんたいがリアルプレーヤーを「バッドウェア」とにんてい。",
+    "meaning_ru": "потребление",
+    "sentence_ru": "Американская ассоциация потребителей признала RealPlayer «плохим ПО».",
+    "noteId": 1618829148769
+  },
+  {
+    "expression": "消費者",
+    "sentence_jp": null,
+    "sentence_kana": "べいしょうひしゃだんたいがリアルプレーヤーを「バッドウェア」とにんてい。",
+    "meaning_ru": "потребитель",
+    "sentence_ru": "Американская ассоциация потребителей признала RealPlayer «плохим ПО».",
+    "noteId": 1618829163860
+  },
+  {
+    "expression": "賞品",
+    "sentence_jp": null,
+    "sentence_kana": "せんせいはジョンにしょうひんをあたえた。",
+    "meaning_ru": "приз (предмет)",
+    "sentence_ru": "Учитель вручил Джону приз.",
+    "noteId": 1618829177179
+  },
+  {
+    "expression": "勝負",
+    "sentence_jp": null,
+    "sentence_kana": "ようするにタイマンしょうぶなんだけど、そのしあいないようはじょうじんではかんがえられないほどのこうレベル。",
+    "meaning_ru": "поединок, состязание",
+    "sentence_ru": "По сути это поединок один на один, но уровень этого матча настолько высок, что обычному человеку не понять.",
+    "noteId": 1618829187284
+  },
+  {
+    "expression": "丈夫",
+    "sentence_jp": null,
+    "sentence_kana": "みぎよーし、ひだりよーし・・・、よし。だいじょうぶ。",
+    "meaning_ru": "крепкий, здоровый",
+    "sentence_ru": "Справа порядок, слева порядок... хорошо. Всё в порядке.",
+    "noteId": 1618829202423
+  },
+  {
+    "expression": "情報",
+    "sentence_jp": null,
+    "sentence_kana": "びせいぶつがくのきほんからさいしんのじょうほうまでをもうらする。",
+    "meaning_ru": "информация",
+    "sentence_ru": "Охватывает всё от основ микробиологии до новейшей информации.",
+    "noteId": 1618829211899
+  },
+  {
+    "expression": "消防士",
+    "sentence_jp": null,
+    "sentence_kana": "かれはしょうぼうしになろうとけっしんした。",
+    "meaning_ru": "пожарный",
+    "sentence_ru": "Он решил стать пожарным.",
+    "noteId": 1618829225876
+  },
+  {
+    "expression": "消防署",
+    "sentence_jp": null,
+    "sentence_kana": "しょうぼうしょはけいさつしょのとなりにあります。",
+    "meaning_ru": "пожарная часть",
+    "sentence_ru": "Пожарная часть находится рядом с полицейским участком.",
+    "noteId": 1618829238273
+  },
+  {
+    "expression": "証明",
+    "sentence_jp": null,
+    "sentence_kana": "れつにならんでながいあいだまたされたあと、みぶんしょうめいとしてせいしきなしゅっしょうしょうめいしょがひつようだといわれた。",
+    "meaning_ru": "доказательство, справка",
+    "sentence_ru": "Простояв в очереди долгое время, мне сказали, что в качестве удостоверения личности нужно официальное свидетельство о рождении.",
+    "noteId": 1618829249392
+  },
+  {
+    "expression": "条約",
+    "sentence_jp": null,
+    "sentence_kana": "じょうやくのせいしんがぼっきゃくされていた。",
+    "meaning_ru": "договор",
+    "sentence_ru": "Дух договора был утрачен.",
+    "noteId": 1618829258396
+  },
+  {
+    "expression": "しょう油",
+    "sentence_jp": "しょう油を刺身につける。",
+    "sentence_kana": "しょうゆをさしみにつける。",
+    "meaning_ru": "соевый соус",
+    "sentence_ru": "Обмакивать сашими в соевый соус.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618829282756
+  },
+  {
+    "expression": "～職",
+    "sentence_jp": null,
+    "sentence_kana": "しんめいをかけてしょくむをじっせんし、すべてのけいさつかんのこころにひをともしてくれました。",
+    "meaning_ru": "работа, должность (суффикс)",
+    "sentence_ru": "Рискуя жизнью, он выполнял свой долг и зажёг огонь в сердцах всех полицейских.",
+    "noteId": 1618829293915
+  },
+  {
+    "expression": "職場",
+    "sentence_jp": null,
+    "sentence_kana": "しょくばでアウトルックのスケジュールをしようしていますが、ピーディーエーをこうにゅうしシンクロさせたいとかんがえています。",
+    "meaning_ru": "место работы",
+    "sentence_ru": "На работе я использую расписание Outlook, но хочу купить КПК и синхронизировать его.",
+    "noteId": 1618829329449
+  },
+  {
+    "expression": "植物",
+    "sentence_jp": null,
+    "sentence_kana": "そのえきからようざいをきはつさせる。のこるのは、かおりせいぶんとしょくぶつワックスのかたまり。",
+    "meaning_ru": "растение",
+    "sentence_ru": "Из этой жидкости испаряется растворитель. Остаётся комок ароматических компонентов и растительного воска.",
+    "noteId": 1618829344319
+  },
+  {
+    "expression": "植民地",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはアフリカにしょくみんちをつくった。",
+    "meaning_ru": "колония",
+    "sentence_ru": "Они основали колонию в Африке.",
+    "noteId": 1618829366369
+  },
+  {
+    "expression": "食欲",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはストレスがたまるとしょくよくがなくなるのではなく、ぎゃくになにかたべないときがすまなくなる。",
+    "meaning_ru": "аппетит",
+    "sentence_ru": "Когда у меня накапливается стресс, у меня не пропадает аппетит, наоборот — я не могу успокоиться, пока чего-нибудь не съем.",
+    "noteId": 1618829375992
+  },
+  {
+    "expression": "食糧",
+    "sentence_jp": null,
+    "sentence_kana": "かんばつはしょくりょうぶそくをまねいた。",
+    "meaning_ru": "продовольствие",
+    "sentence_ru": "Засуха вызвала нехватку продовольствия.",
+    "noteId": 1618829398047
+  },
+  {
+    "expression": "助言",
+    "sentence_jp": null,
+    "sentence_kana": "けんめいでりょうしんてきなひとにじょげんをもとめなさい。",
+    "meaning_ru": "совет",
+    "sentence_ru": "Проси совета у мудрого и добросовестного человека.",
+    "noteId": 1618829407368
+  },
+  {
+    "expression": "諸事情",
+    "sentence_jp": "諸事情により中止します。",
+    "sentence_kana": "しょじじょうによりちゅうしします。",
+    "meaning_ru": "различные обстоятельства",
+    "sentence_ru": "Отменяется по различным обстоятельствам.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618829419515
+  },
+  {
+    "expression": "初旬",
+    "sentence_jp": "4月初旬に桜が咲く。",
+    "sentence_kana": "しがつしょじゅんにさくらがさく。",
+    "meaning_ru": "начало месяца",
+    "sentence_ru": "Сакура цветёт в начале апреля.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618829431553
+  },
+  {
+    "expression": "徐々に",
+    "sentence_jp": null,
+    "sentence_kana": "たんごはじょじょにふえますので、こまめにチェックしてください。",
+    "meaning_ru": "постепенно",
+    "sentence_ru": "Слова постепенно накапливаются, так что регулярно проверяйте их.",
+    "noteId": 1618829444560
+  }
+]
