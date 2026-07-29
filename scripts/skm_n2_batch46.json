@@ -1,0 +1,194 @@
+[
+  {
+    "expression": "労働条件",
+    "sentence_jp": null,
+    "sentence_kana": "そのため、はけんろうどうしゃはれつあくなろうどうじょうけんのもとではたらいている。",
+    "meaning_ru": "условия труда",
+    "sentence_ru": "Поэтому временные работники трудятся в ужасных условиях труда.",
+    "noteId": 1618998112347
+  },
+  {
+    "expression": "ローン",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはそのローンにななパーセントのりしをはらった。",
+    "meaning_ru": "кредит, заём",
+    "sentence_ru": "Она заплатила 7% процентов по этому кредиту.",
+    "noteId": 1618998118541
+  },
+  {
+    "expression": "ロンドン行き",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはロンドンゆきをちゅうしした。",
+    "meaning_ru": "рейс/направление в Лондон",
+    "sentence_ru": "Они отменили поездку в Лондон.",
+    "noteId": 1618998128122
+  },
+  {
+    "expression": "論文",
+    "sentence_jp": null,
+    "sentence_kana": "がくせいがえいぶんろんぶんしにろんぶんをとうこうして、「じょうけんつきさいろく」になっています。",
+    "meaning_ru": "диссертация, статья",
+    "sentence_ru": "Студент отправил статью в англоязычный научный журнал, и она была принята «условно».",
+    "noteId": 1618998153705
+  },
+  {
+    "expression": "わがまま",
+    "sentence_jp": null,
+    "sentence_kana": "ほんにんはゆいがどくそんをきめこんでいるようだけども、まわりからみればたんなるわがままだよね。",
+    "meaning_ru": "эгоистичный, своевольный",
+    "sentence_ru": "Сам он, похоже, считает себя единственно правым, но со стороны это просто эгоизм.",
+    "noteId": 1618998163055
+  },
+  {
+    "expression": "わく",
+    "sentence_jp": "温泉が地下からわく。",
+    "sentence_kana": "おんせんがちかからわく。",
+    "meaning_ru": "возникать, бить ключом",
+    "sentence_ru": "Горячий источник бьёт из-под земли.",
+    "note": "Tatoeba match used いわく (a saying/pretext), a false-positive homophone, replaced",
+    "noteId": 1618998169877
+  },
+  {
+    "expression": "枠",
+    "sentence_jp": null,
+    "sentence_kana": "わくができあがると、クモはちょうどじてんしゃのしゃりんのやのように、それにきぬのいとをかける。",
+    "meaning_ru": "рамка, каркас",
+    "sentence_ru": "Когда рама готова, паук натягивает на неё шёлковые нити, словно спицы велосипедного колеса.",
+    "noteId": 1618998176747
+  },
+  {
+    "expression": "わざと",
+    "sentence_jp": "彼はわざと負けた。",
+    "sentence_kana": "かれはわざとまけた。",
+    "meaning_ru": "нарочно",
+    "sentence_ru": "Он проиграл нарочно.",
+    "note": "Tatoeba match used わざとらしさ (a derived noun form), replaced with the plain adverb",
+    "noteId": 1618998185438
+  },
+  {
+    "expression": "わざわざ",
+    "sentence_jp": null,
+    "sentence_kana": "ゆうじんにあいにわざわざでかけていったが、かれはるすだった。",
+    "meaning_ru": "специально, нарочно (потрудиться)",
+    "sentence_ru": "Я специально поехал(а), чтобы встретиться с другом, но его не было дома.",
+    "noteId": 1618998194972
+  },
+  {
+    "expression": "和食",
+    "sentence_jp": null,
+    "sentence_kana": "わしょくのレストランへいくたびに、わりばしをいえへもってかえります。",
+    "meaning_ru": "японская кухня",
+    "sentence_ru": "Каждый раз, когда хожу в японский ресторан, приношу домой одноразовые палочки.",
+    "noteId": 1618998207093
+  },
+  {
+    "expression": "わずか",
+    "sentence_jp": null,
+    "sentence_kana": "わずかなヒントをいとぐちにして、ただしいこたえをみつけた。",
+    "meaning_ru": "лишь, всего",
+    "sentence_ru": "Используя лишь небольшую подсказку как зацепку, я нашёл(шла) правильный ответ.",
+    "noteId": 1618998217500
+  },
+  {
+    "expression": "綿",
+    "sentence_jp": "綿でできた服を着る。",
+    "sentence_kana": "わたでできたふくをきる。",
+    "meaning_ru": "хлопок, вата",
+    "sentence_ru": "Носить одежду из хлопка.",
+    "note": "Tatoeba match used 海綿 (sponge, read かいめん), a different reading of the kanji, replaced",
+    "noteId": 1618998225402
+  },
+  {
+    "expression": "話題",
+    "sentence_jp": null,
+    "sentence_kana": "しんじていたかどうかはともかく、ちょうじょうてきなわだいにきょぜつはんのうがあるということはないようだ。",
+    "meaning_ru": "тема разговора",
+    "sentence_ru": "Независимо от того, верил(а) ли я в это, похоже, у меня нет отторжения к паранормальным темам.",
+    "noteId": 1618998233171
+  },
+  {
+    "expression": "和風",
+    "sentence_jp": "和風の庭を作る。",
+    "sentence_kana": "わふうのにわをつくる。",
+    "meaning_ru": "в японском стиле",
+    "sentence_ru": "Создать сад в японском стиле.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618998241598
+  },
+  {
+    "expression": "笑いかける",
+    "sentence_jp": "彼は私に笑いかけた。",
+    "sentence_kana": "かれはわたしにわらいかけた。",
+    "meaning_ru": "улыбаться (кому-то)",
+    "sentence_ru": "Он мне улыбнулся.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618998253974
+  },
+  {
+    "expression": "割合",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはいちじかんさんマイルのわりあいであるいた。",
+    "meaning_ru": "пропорция, соотношение",
+    "sentence_ru": "Они шли со скоростью 3 мили в час.",
+    "noteId": 1618998262037
+  },
+  {
+    "expression": "割り勘",
+    "sentence_jp": null,
+    "sentence_kana": "しはらいはわりかんにしよう。",
+    "meaning_ru": "поделить счёт поровну",
+    "sentence_ru": "Давай разделим оплату поровну.",
+    "noteId": 1618998274074
+  },
+  {
+    "expression": "割り算",
+    "sentence_jp": "割り算を習う。",
+    "sentence_kana": "わりざんをならう。",
+    "meaning_ru": "деление (арифметика)",
+    "sentence_ru": "Учить деление.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618998284888
+  },
+  {
+    "expression": "割と",
+    "sentence_jp": "この本は割と面白い。",
+    "sentence_kana": "このほんはわりとおもしろい。",
+    "meaning_ru": "сравнительно, довольно",
+    "sentence_ru": "Эта книга довольно интересная.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618998292441
+  },
+  {
+    "expression": "割る",
+    "sentence_jp": null,
+    "sentence_kana": "「あれ、タンジェントってサインでコサインをわるんだっけ？」「ぎゃく、ぎゃく」",
+    "meaning_ru": "делить, разбивать",
+    "sentence_ru": "«Погоди, тангенс — это синус, делённый на косинус?» — «Наоборот, наоборот».",
+    "noteId": 1618998301848
+  },
+  {
+    "expression": "湾",
+    "sentence_jp": "船は湾に停泊した。",
+    "sentence_kana": "ふねはわんにていはくした。",
+    "meaning_ru": "залив",
+    "sentence_ru": "Корабль встал на якорь в заливе.",
+    "note": "Tatoeba match used 湾曲 (curve), a different compound, replaced",
+    "noteId": 1618998309648
+  },
+  {
+    "expression": "夫人",
+    "sentence_jp": null,
+    "sentence_kana": "ブルースふじんはえいにちかんをとんださいしょのじょせいパイロットであった。",
+    "meaning_ru": "супруга, госпожа",
+    "sentence_ru": "Госпожа Брюс была первой женщиной-пилотом, совершившей перелёт между Англией и Японией.",
+    "noteId": 1619000117262
+  },
+  {
+    "expression": "新時代",
+    "sentence_jp": null,
+    "sentence_kana": "トランジスターのはつめいはしんじだいをかくした。",
+    "meaning_ru": "новая эпоха",
+    "sentence_ru": "Изобретение транзистора ознаменовало новую эпоху.",
+    "noteId": 1619135687550
+  }
+]
