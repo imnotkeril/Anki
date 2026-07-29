@@ -1,0 +1,414 @@
+[
+  {
+    "expression": "古典的",
+    "sentence_jp": null,
+    "sentence_kana": "もっとこてんてきなかおだちなのかとおもいきや、いまのじだいでもじゅうぶんつうようするびけいです。",
+    "meaning_ru": "классический",
+    "sentence_ru": "Я думал(а), что у него более классические черты лица, но он достаточно красив и для нашего времени.",
+    "noteId": 1618750825672
+  },
+  {
+    "expression": "言葉遣い",
+    "sentence_jp": null,
+    "sentence_kana": "わたしのりょうしんがここにいるあいだはじょうひんなことばづかいをしてください。",
+    "meaning_ru": "манера речи",
+    "sentence_ru": "Пожалуйста, говори вежливо, пока здесь мои родители.",
+    "noteId": 1618750858552
+  },
+  {
+    "expression": "子ども扱い",
+    "sentence_jp": null,
+    "sentence_kana": "おばにかかったらわたしなんかまるでこどもあつかいだ。",
+    "meaning_ru": "обращение как с ребёнком",
+    "sentence_ru": "Когда дело касается тёти, она обращается со мной прямо как с ребёнком.",
+    "noteId": 1618750873664
+  },
+  {
+    "expression": "子供連れ",
+    "sentence_jp": "子供連れの家族が多い。",
+    "sentence_kana": "こどもづれのかぞくがおおい。",
+    "meaning_ru": "с детьми",
+    "sentence_ru": "Много семей с детьми.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750898372
+  },
+  {
+    "expression": "好み",
+    "sentence_jp": null,
+    "sentence_kana": "おんがくのこのみはひとによってすきずきです。",
+    "meaning_ru": "вкус, предпочтение",
+    "sentence_ru": "Музыкальные вкусы у всех разные.",
+    "noteId": 1618750908588
+  },
+  {
+    "expression": "コピー",
+    "sentence_jp": null,
+    "sentence_kana": "きのう、ひょんなことでちちおやのこせきしょうほんのコピーをみてしまいました。",
+    "meaning_ru": "копия",
+    "sentence_ru": "Вчера случайно увидел(а) копию выписки из семейного реестра отца.",
+    "noteId": 1618750918611
+  },
+  {
+    "expression": "（ご）夫妻",
+    "sentence_jp": "田中ご夫妻をご紹介します。",
+    "sentence_kana": "たなかごふさいをごしょうかいします。",
+    "meaning_ru": "супружеская пара (вежливо)",
+    "sentence_ru": "Позвольте представить супругов Танака.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750941979
+  },
+  {
+    "expression": "こぼす",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくはもうきみがぐちをこぼすのをききあきている。",
+    "meaning_ru": "проливать",
+    "sentence_ru": "Мне уже надоело слушать, как ты жалуешься.",
+    "noteId": 1618750950468
+  },
+  {
+    "expression": "こぼれる",
+    "sentence_jp": "グラスから水がこぼれた。",
+    "sentence_kana": "グラスからみずがこぼれた。",
+    "meaning_ru": "проливаться, переполняться",
+    "sentence_ru": "Вода пролилась из стакана.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750959703
+  },
+  {
+    "expression": "コマーシャル",
+    "sentence_jp": null,
+    "sentence_kana": "かれはスーパーマーケットのコマーシャルをあつかっている。",
+    "meaning_ru": "реклама (телевизионная)",
+    "sentence_ru": "Он занимается рекламой для супермаркета.",
+    "noteId": 1618750973450
+  },
+  {
+    "expression": "コミュニケーション",
+    "sentence_jp": null,
+    "sentence_kana": "かれらのコミュニケーションはわれわれがかんがえてきたものよりはるかにふくざつかもしれません。",
+    "meaning_ru": "коммуникация",
+    "sentence_ru": "Их коммуникация может быть гораздо сложнее, чем мы предполагали.",
+    "noteId": 1618750988979
+  },
+  {
+    "expression": "～込む",
+    "sentence_jp": null,
+    "sentence_kana": "ノートパソコンのでんげんをいれ、ブラウザをたちあげて、もうおぼえてしまったアドレスをうちこむ。",
+    "meaning_ru": "внутрь, глубоко (суффикс)",
+    "sentence_ru": "Включаю ноутбук, запускаю браузер и ввожу уже запомнившийся адрес.",
+    "noteId": 1618751010731
+  },
+  {
+    "expression": "小屋",
+    "sentence_jp": null,
+    "sentence_kana": "しばいごやあとちにがっこうがたてられたのがせんきゅうひゃくごねんしがつでした。",
+    "meaning_ru": "хижина",
+    "sentence_ru": "Школа была построена на месте бывшего театра в апреле 1905 года.",
+    "noteId": 1618751031749
+  },
+  {
+    "expression": "娯楽",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょにはだいすきなかのじょのごらくにむちゅうになるじかんがあった。",
+    "meaning_ru": "развлечение",
+    "sentence_ru": "У неё было время, чтобы увлечься любимым развлечением.",
+    "noteId": 1618751046187
+  },
+  {
+    "expression": "娯楽番組",
+    "sentence_jp": "娯楽番組をよく見る。",
+    "sentence_kana": "ごらくばんぐみをよくみる。",
+    "meaning_ru": "развлекательная программа",
+    "sentence_ru": "Я часто смотрю развлекательные программы.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618751068384
+  },
+  {
+    "expression": "殺し合う",
+    "sentence_jp": "兄弟が殺し合う悲劇。",
+    "sentence_kana": "きょうだいがころしあうひげき。",
+    "meaning_ru": "убивать друг друга",
+    "sentence_ru": "Трагедия, где братья убивают друг друга.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618751082097
+  },
+  {
+    "expression": "殺す",
+    "sentence_jp": "彼は虫を殺すのが嫌いだ。",
+    "sentence_kana": "かれはむしをころすのがきらいだ。",
+    "meaning_ru": "убивать",
+    "sentence_ru": "Он не любит убивать насекомых.",
+    "note": "Tatoeba match used 自殺する (commit suicide), a different word, replaced",
+    "noteId": 1618751089039
+  },
+  {
+    "expression": "今～",
+    "sentence_jp": null,
+    "sentence_kana": "きょうはろくがつじゅうはちにちで、ムーリエルのたんじょうびです！",
+    "meaning_ru": "нынешний, текущий (префикс)",
+    "sentence_ru": "Сегодня 18 июня, день рождения Мюриэль!",
+    "noteId": 1618751104194
+  },
+  {
+    "expression": "今学期",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはこんがっきがんばってべんきょうしている。",
+    "meaning_ru": "этот семестр",
+    "sentence_ru": "Она усердно учится в этом семестре.",
+    "noteId": 1618824146966
+  },
+  {
+    "expression": "今後",
+    "sentence_jp": "今後は気をつけます。",
+    "sentence_kana": "こんごはきをつけます。",
+    "meaning_ru": "впредь, отныне",
+    "sentence_ru": "Впредь буду внимательнее.",
+    "note": "Tatoeba match actually used 今 + 後悔 (regret), not 今後, replaced",
+    "noteId": 1618824159939
+  },
+  {
+    "expression": "混雑",
+    "sentence_jp": null,
+    "sentence_kana": "ろうかはたいへんこんざつしていたのであるけなかった。",
+    "meaning_ru": "затор",
+    "sentence_ru": "В коридоре была такая толкучка, что невозможно было пройти.",
+    "noteId": 1618824172954
+  },
+  {
+    "expression": "今シーズン",
+    "sentence_jp": null,
+    "sentence_kana": "かれらのチームはこんシーズンほとんどしょうさんがたたない。",
+    "meaning_ru": "этот сезон",
+    "sentence_ru": "У их команды в этом сезоне почти нет шансов на победу.",
+    "noteId": 1618824188015
+  },
+  {
+    "expression": "今世紀",
+    "sentence_jp": null,
+    "sentence_kana": "じんるいはこんせいきにはいってこれまでいじょうにせんそうにくるしんできた。",
+    "meaning_ru": "этот век",
+    "sentence_ru": "В этом веке человечество страдало от войн больше, чем когда-либо.",
+    "noteId": 1618824200624
+  },
+  {
+    "expression": "献立",
+    "sentence_jp": null,
+    "sentence_kana": "それほどおおくのひとびとのためのりょうりのこんだてをかんがえるのはむずかしい。",
+    "meaning_ru": "меню",
+    "sentence_ru": "Трудно продумать меню для такого количества людей.",
+    "noteId": 1618824213465
+  },
+  {
+    "expression": "昆虫",
+    "sentence_jp": null,
+    "sentence_kana": "ときをこえてこだいのこんちゅうたちがこはくのなかでいきいきとおどる。",
+    "meaning_ru": "насекомое",
+    "sentence_ru": "Сквозь время древние насекомые словно живо танцуют внутри янтаря.",
+    "noteId": 1618824224585
+  },
+  {
+    "expression": "コントロール",
+    "sentence_jp": null,
+    "sentence_kana": "だれもわたしたちをコントロールできない。",
+    "meaning_ru": "контроль",
+    "sentence_ru": "Никто не может нас контролировать.",
+    "noteId": 1618824236846
+  },
+  {
+    "expression": "今年度",
+    "sentence_jp": null,
+    "sentence_kana": "さくねんどのコンピューターからのりえきは、こんねんどぶんよりもじゅっパーセントちかくおおかった。",
+    "meaning_ru": "этот финансовый год",
+    "sentence_ru": "Прибыль от компьютеров в прошлом финансовом году была почти на 10% больше, чем в этом.",
+    "noteId": 1618824258531
+  },
+  {
+    "expression": "婚約",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはこんやくをかいしょうしました。",
+    "meaning_ru": "помолвка",
+    "sentence_ru": "Я расторг(ла) помолвку.",
+    "noteId": 1618824268796
+  },
+  {
+    "expression": "混乱",
+    "sentence_jp": null,
+    "sentence_kana": "とうほく・あきたしんかんせんがうんてんをみあわせるなど こうつうもこんらんした。",
+    "meaning_ru": "хаос",
+    "sentence_ru": "Движение поездов Тохоку и Акита Синкансэн было приостановлено, транспорт тоже пришёл в хаос.",
+    "noteId": 1618824279789
+  },
+  {
+    "expression": "～差",
+    "sentence_jp": null,
+    "sentence_kana": "たまにはへんさちのたかいひととレベルのたかいかいわしてみたい。",
+    "meaning_ru": "разница (суффикс)",
+    "sentence_ru": "Иногда хочется вести содержательный разговор с человеком с высоким уровнем.",
+    "noteId": 1618824309303
+  },
+  {
+    "expression": "～さ",
+    "sentence_jp": "この問題の難しさに驚いた。",
+    "sentence_kana": "このもんだいのむずかしさにおどろいた。",
+    "meaning_ru": "превращает прилагательное в существительное (суффикс)",
+    "sentence_ru": "Меня удивила сложность этой задачи.",
+    "note": "Tatoeba match was too trivial to show the suffix, replaced",
+    "noteId": 1618824361972
+  },
+  {
+    "expression": "再～",
+    "sentence_jp": null,
+    "sentence_kana": "そんなことをかんがえながら『わがはいはカモである』をさいけんしました。",
+    "meaning_ru": "повторно, снова (префикс)",
+    "sentence_ru": "Размышляя об этом, я пересмотрел(а) «Я — утка» (пародия на «Я — кот»).",
+    "noteId": 1618824397372
+  },
+  {
+    "expression": "最～",
+    "sentence_jp": null,
+    "sentence_kana": "それはさいきんのしゃしん？",
+    "meaning_ru": "самый (превосх. степень, префикс)",
+    "sentence_ru": "Это недавнее фото?",
+    "noteId": 1618824450408
+  },
+  {
+    "expression": "再インストール",
+    "sentence_jp": "ソフトを再インストールする。",
+    "sentence_kana": "ソフトをさいインストールする。",
+    "meaning_ru": "переустановка",
+    "sentence_ru": "Переустановить программу.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618824461252
+  },
+  {
+    "expression": "災害",
+    "sentence_jp": null,
+    "sentence_kana": "せいふがじえいたいにおきなわへのさいがいはけんをようせいした。",
+    "meaning_ru": "стихийное бедствие",
+    "sentence_ru": "Правительство запросило у сил самообороны отправку на Окинаву для помощи при стихийном бедствии.",
+    "noteId": 1618824483180
+  },
+  {
+    "expression": "在学中",
+    "sentence_jp": null,
+    "sentence_kana": "かれはじゅうねんきゅうにざいがくちゅうだ。",
+    "meaning_ru": "во время учёбы",
+    "sentence_ru": "Он сейчас учится в 10 классе.",
+    "noteId": 1618824502357
+  },
+  {
+    "expression": "再起動",
+    "sentence_jp": "パソコンを再起動する。",
+    "sentence_kana": "パソコンをさいきどうする。",
+    "meaning_ru": "перезагрузка",
+    "sentence_ru": "Перезагрузить компьютер.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618824515764
+  },
+  {
+    "expression": "細菌",
+    "sentence_jp": null,
+    "sentence_kana": "さいきんなどからかくりするため、めんかいしゃぜつとなっています。",
+    "meaning_ru": "бактерия",
+    "sentence_ru": "Посещения запрещены, чтобы изолировать от бактерий и т.п.",
+    "noteId": 1618824533895
+  },
+  {
+    "expression": "最高気温",
+    "sentence_jp": "今日の最高気温は30度だ。",
+    "sentence_kana": "きょうのさいこうきおんはさんじゅうどだ。",
+    "meaning_ru": "максимальная температура",
+    "sentence_ru": "Сегодняшняя максимальная температура — 30 градусов.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618824550550
+  },
+  {
+    "expression": "再三",
+    "sentence_jp": null,
+    "sentence_kana": "かれはわたしに、さいさんでんわをかけてきた。",
+    "meaning_ru": "неоднократно",
+    "sentence_ru": "Он неоднократно звонил мне.",
+    "noteId": 1618824563403
+  },
+  {
+    "expression": "財政的",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょからのざいせいてきしえんがわたしたちのこのけいかくにはふかけつである。",
+    "meaning_ru": "финансовый",
+    "sentence_ru": "Её финансовая поддержка необходима для этого нашего плана.",
+    "noteId": 1618824581650
+  },
+  {
+    "expression": "最前列",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはコンサートホールのさいぜんれつにすわってオーケストラをきいた。",
+    "meaning_ru": "первый ряд",
+    "sentence_ru": "Они сидели в первом ряду концертного зала и слушали оркестр.",
+    "noteId": 1618824597727
+  },
+  {
+    "expression": "最大",
+    "sentence_jp": null,
+    "sentence_kana": "さいだいげんにしゅしょうというけんりょくをりようし、じこのほしんのためにりようするキツネのようにずるがしこいしゅしょうにみえてくる。",
+    "meaning_ru": "максимальный",
+    "sentence_ru": "Он выглядит как хитрая лиса-премьер-министр, максимально использующий власть в своих интересах.",
+    "noteId": 1618824608550
+  },
+  {
+    "expression": "最低気温",
+    "sentence_jp": null,
+    "sentence_kana": "きょうのさいていきおんはさんどだった。",
+    "meaning_ru": "минимальная температура",
+    "sentence_ru": "Сегодняшняя минимальная температура была 3 градуса.",
+    "noteId": 1618824628723
+  },
+  {
+    "expression": "採点",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはとうあんのさいてんにぼっとうしていた。",
+    "meaning_ru": "оценивание (проверка работ)",
+    "sentence_ru": "Она была поглощена проверкой работ.",
+    "noteId": 1618824639246
+  },
+  {
+    "expression": "才能",
+    "sentence_jp": null,
+    "sentence_kana": "かれはじょうじかれのさいのうをねたむひとびとからちゅうしょうされることにうんざりしていた。",
+    "meaning_ru": "талант",
+    "sentence_ru": "Ему надоело, что его постоянно оговаривают люди, завидующие его таланту.",
+    "noteId": 1618824648776
+  },
+  {
+    "expression": "栽培",
+    "sentence_jp": null,
+    "sentence_kana": "かじゅさいばいしゃがリンゴのつぎほをだいぎにつぎきしました。",
+    "meaning_ru": "выращивание",
+    "sentence_ru": "Плодовод привил черенок яблони на подвой.",
+    "noteId": 1618824661133
+  },
+  {
+    "expression": "再発防止",
+    "sentence_jp": "再発防止策を講じる。",
+    "sentence_kana": "さいはつぼうしさくをこうじる。",
+    "meaning_ru": "предотвращение повторения",
+    "sentence_ru": "Принять меры по предотвращению повторения.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618824694071
+  },
+  {
+    "expression": "裁判",
+    "sentence_jp": null,
+    "sentence_kana": "だが、レーガンせいけんとさいこうさいばんしょにつぶされるまえでさえ、オーエスエイチエーはちゃばんであった。",
+    "meaning_ru": "суд, судебный процесс",
+    "sentence_ru": "Но даже до того, как администрация Рейгана и Верховный суд разгромили её, OSHA была фарсом.",
+    "noteId": 1618824710770
+  },
+  {
+    "expression": "裁判官",
+    "sentence_jp": null,
+    "sentence_kana": "べんごにんはさいばんかんにひこくにんたちのねんれいをこうりょするようにもとめた。",
+    "meaning_ru": "судья",
+    "sentence_ru": "Адвокат попросил судью учесть возраст подсудимых.",
+    "noteId": 1618824729330
+  }
+]
