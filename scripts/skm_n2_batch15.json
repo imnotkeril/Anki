@@ -1,0 +1,418 @@
+[
+  {
+    "expression": "貢献",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはひじょうにかいしゃにこうけんした。",
+    "meaning_ru": "вклад",
+    "sentence_ru": "Она внесла огромный вклад в компанию.",
+    "noteId": 1618749779982
+  },
+  {
+    "expression": "広告費",
+    "sentence_jp": null,
+    "sentence_kana": "こうこくひはこのかいしゃのけいひのやくななパーセントをしめている。",
+    "meaning_ru": "расходы на рекламу",
+    "sentence_ru": "Расходы на рекламу составляют около 7% расходов этой компании.",
+    "noteId": 1618749814154
+  },
+  {
+    "expression": "交際",
+    "sentence_jp": null,
+    "sentence_kana": "いもうとはかれらとのこうさいをのぞんでいない。",
+    "meaning_ru": "общение, отношения",
+    "sentence_ru": "Сестра не хочет с ними общаться.",
+    "noteId": 1618749829721
+  },
+  {
+    "expression": "交際費",
+    "sentence_jp": "交際費を経費で落とす。",
+    "sentence_kana": "こうさいひをけいひでおとす。",
+    "meaning_ru": "представительские расходы",
+    "sentence_ru": "Списать представительские расходы.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618749844242
+  },
+  {
+    "expression": "子ウサギ",
+    "sentence_jp": "子ウサギが生まれた。",
+    "sentence_kana": "こウサギがうまれた。",
+    "meaning_ru": "крольчонок",
+    "sentence_ru": "Родился крольчонок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618749858223
+  },
+  {
+    "expression": "講師",
+    "sentence_jp": null,
+    "sentence_kana": "せいかくにいうとわたしはだいがくこうしです。",
+    "meaning_ru": "преподаватель (внештатный)",
+    "sentence_ru": "Если точно, я преподаватель университета.",
+    "noteId": 1618749870536
+  },
+  {
+    "expression": "子牛",
+    "sentence_jp": "牧場に子牛がいる。",
+    "sentence_kana": "ぼくじょうにこうしがいる。",
+    "meaning_ru": "телёнок",
+    "sentence_ru": "На ферме есть телёнок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618749894904
+  },
+  {
+    "expression": "交渉",
+    "sentence_jp": null,
+    "sentence_kana": "インベーダーとわぎのこうしょうをしないことにきめた。",
+    "meaning_ru": "переговоры",
+    "sentence_ru": "Решили не вести переговоры о перемирии с захватчиками.",
+    "noteId": 1618749910671
+  },
+  {
+    "expression": "向上",
+    "sentence_jp": null,
+    "sentence_kana": "ひかんしゅぎは、こうじょうすることをしんじないのだ。",
+    "meaning_ru": "улучшение, повышение (уровня)",
+    "sentence_ru": "Пессимизм не верит в возможность улучшения.",
+    "noteId": 1618749926340
+  },
+  {
+    "expression": "降水量",
+    "sentence_jp": null,
+    "sentence_kana": "こんかのこうすいりょうはふつうでなかった。",
+    "meaning_ru": "количество осадков",
+    "sentence_ru": "Количество осадков этим летом было необычным.",
+    "noteId": 1618749941329
+  },
+  {
+    "expression": "高性能",
+    "sentence_jp": null,
+    "sentence_kana": "とうしゃのもくてきはこうじょうやかていにこうせいのうのロボットをていきょうすることです。",
+    "meaning_ru": "высокая производительность",
+    "sentence_ru": "Цель нашей компании — предоставлять высокопроизводительных роботов для заводов и домов.",
+    "noteId": 1618749960426
+  },
+  {
+    "expression": "高速バス",
+    "sentence_jp": "高速バスで東京に行く。",
+    "sentence_kana": "こうそくバスでとうきょうにいく。",
+    "meaning_ru": "скоростной автобус",
+    "sentence_ru": "Ехать в Токио на скоростном автобусе.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618749976455
+  },
+  {
+    "expression": "好対照",
+    "sentence_jp": "二人は好対照だ。",
+    "sentence_kana": "ふたりはこうたいしょうだ。",
+    "meaning_ru": "удачный контраст",
+    "sentence_ru": "Эти двое составляют хороший контраст.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618749991126
+  },
+  {
+    "expression": "交通機関",
+    "sentence_jp": null,
+    "sentence_kana": "いまではこうつうきかんがはったつしたため、あるくひとがすくないのはいかんである。",
+    "meaning_ru": "транспортная система",
+    "sentence_ru": "Прискорбно, что из-за развития транспортной системы сейчас мало кто ходит пешком.",
+    "noteId": 1618750077667
+  },
+  {
+    "expression": "交通事故",
+    "sentence_jp": null,
+    "sentence_kana": "れんじつこうつうじこがおきる。",
+    "meaning_ru": "ДТП",
+    "sentence_ru": "ДТП происходят изо дня в день.",
+    "noteId": 1618750098086
+  },
+  {
+    "expression": "高度",
+    "sentence_jp": null,
+    "sentence_kana": "こうどにせんもんてきなわだいで、たぶんにあやまったじょうほうがふくまれるかのうせいがあることはあらかじめおことわりしておきます。",
+    "meaning_ru": "высокий уровень, высота",
+    "sentence_ru": "Заранее предупреждаю, что тема очень специализированная, и в ней, вероятно, есть неточная информация.",
+    "noteId": 1618750108571
+  },
+  {
+    "expression": "強盗",
+    "sentence_jp": null,
+    "sentence_kana": "ぼうりょくだんはごうとうをけいかくしていた。",
+    "meaning_ru": "грабитель",
+    "sentence_ru": "Банда планировала ограбление.",
+    "noteId": 1618750120106
+  },
+  {
+    "expression": "強盗事件",
+    "sentence_jp": null,
+    "sentence_kana": "かれはそのごうとうじけんのじゅうはんしゃとしてたいほされた。",
+    "meaning_ru": "случай ограбления",
+    "sentence_ru": "Его арестовали как соучастника этого ограбления.",
+    "noteId": 1618750138538
+  },
+  {
+    "expression": "光熱費",
+    "sentence_jp": "光熱費が上がった。",
+    "sentence_kana": "こうねつひがあがった。",
+    "meaning_ru": "расходы на коммунальные услуги",
+    "sentence_ru": "Расходы на коммунальные услуги выросли.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750192661
+  },
+  {
+    "expression": "後輩",
+    "sentence_jp": null,
+    "sentence_kana": "かれはわたしよりさんねんこうはいです。",
+    "meaning_ru": "младший (по стажу/возрасту)",
+    "sentence_ru": "Он младше меня на три года.",
+    "noteId": 1618750203410
+  },
+  {
+    "expression": "紅葉、紅葉",
+    "sentence_jp": "秋には紅葉がきれいだ。",
+    "sentence_kana": "あきにはこうようがきれいだ。",
+    "meaning_ru": "осенние краски листвы / клён",
+    "sentence_ru": "Осенью красивая осенняя листва.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750225302
+  },
+  {
+    "expression": "効率",
+    "sentence_jp": null,
+    "sentence_kana": "することをかんがえ、けいざいてきかつこうりつてきにけんきゅうをすいこうするひつようがあります。",
+    "meaning_ru": "эффективность",
+    "sentence_ru": "Нужно продумать, что делать, и проводить исследование экономично и эффективно.",
+    "noteId": 1618750239538
+  },
+  {
+    "expression": "高齢化",
+    "sentence_jp": null,
+    "sentence_kana": "にほんはこうれいかしゃかいにたいしょしようとしています。",
+    "meaning_ru": "старение (населения)",
+    "sentence_ru": "Япония пытается справиться со стареющим обществом.",
+    "noteId": 1618750260234
+  },
+  {
+    "expression": "超える",
+    "sentence_jp": null,
+    "sentence_kana": "せいげんスピードをこえるなよ。",
+    "meaning_ru": "превышать",
+    "sentence_ru": "Не превышай ограничение скорости.",
+    "noteId": 1618750269754
+  },
+  {
+    "expression": "コーチ",
+    "sentence_jp": null,
+    "sentence_kana": "よきコーチはいわばせんしゅのおやのようなものだ。",
+    "meaning_ru": "тренер",
+    "sentence_ru": "Хороший тренер — как родитель для спортсмена.",
+    "noteId": 1618750276303
+  },
+  {
+    "expression": "誤解",
+    "sentence_jp": null,
+    "sentence_kana": "ごかいされうるものはいずれすべてごかいされるであろう。",
+    "meaning_ru": "недопонимание",
+    "sentence_ru": "Всё, что может быть неправильно понято, рано или поздно будет понято неправильно.",
+    "noteId": 1618750288185
+  },
+  {
+    "expression": "焦がす",
+    "sentence_jp": "パンを焦がしてしまった。",
+    "sentence_kana": "パンをこがしてしまった。",
+    "meaning_ru": "сжигать, палить (напр. еду)",
+    "sentence_ru": "Я сжёг(ла) хлеб.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750296984
+  },
+  {
+    "expression": "国語",
+    "sentence_jp": "国語のテストがある。",
+    "sentence_kana": "こくごのテストがある。",
+    "meaning_ru": "государственный (родной) язык",
+    "sentence_ru": "Будет тест по (японскому) языку.",
+    "note": "Tatoeba match was about 中国語 (Chinese), a false positive, replaced",
+    "noteId": 1618750314766
+  },
+  {
+    "expression": "国際欄",
+    "sentence_jp": "新聞の国際欄を読む。",
+    "sentence_kana": "しんぶんのこくさいらんをよむ。",
+    "meaning_ru": "раздел международных новостей",
+    "sentence_ru": "Читать международный раздел газеты.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750339247
+  },
+  {
+    "expression": "国際連合",
+    "sentence_jp": null,
+    "sentence_kana": "ごぞんじのように、ユーエヌとはこくさいれんごうです。",
+    "meaning_ru": "ООН",
+    "sentence_ru": "Как вы знаете, UN — это Организация Объединённых Наций.",
+    "noteId": 1618750356328
+  },
+  {
+    "expression": "国立大学",
+    "sentence_jp": "国立大学に合格した。",
+    "sentence_kana": "こくりつだいがくにごうかくした。",
+    "meaning_ru": "государственный университет",
+    "sentence_ru": "Я поступил(а) в государственный университет.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750375125
+  },
+  {
+    "expression": "焦げる",
+    "sentence_jp": null,
+    "sentence_kana": "しゃくねつのたいようでからだがこげるほどだった。",
+    "meaning_ru": "подгорать",
+    "sentence_ru": "Тело почти обгорало от палящего солнца.",
+    "noteId": 1618750434655
+  },
+  {
+    "expression": "凍える",
+    "sentence_jp": null,
+    "sentence_kana": "しあいはこごえるようなてんこうのためちゅうしされなければならなかった。",
+    "meaning_ru": "замерзать, окоченеть",
+    "sentence_ru": "Матч пришлось отменить из-за морозной погоды.",
+    "noteId": 1618750441979
+  },
+  {
+    "expression": "心が狭い",
+    "sentence_jp": "彼は心が狭い。",
+    "sentence_kana": "かれはこころがせまい。",
+    "meaning_ru": "узколобый, недалёкий",
+    "sentence_ru": "Он узколобый.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750521379
+  },
+  {
+    "expression": "心が広い",
+    "sentence_jp": null,
+    "sentence_kana": "かれはこころがひろいためにそんけいされている。",
+    "meaning_ru": "великодушный",
+    "sentence_ru": "Его уважают за великодушие.",
+    "noteId": 1618750536309
+  },
+  {
+    "expression": "心を痛める",
+    "sentence_jp": "彼女の不幸に心を痛める。",
+    "sentence_kana": "かのじょのふこうにこころをいためる。",
+    "meaning_ru": "сильно переживать, болеть душой",
+    "sentence_ru": "Я переживаю за её несчастье.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750553890
+  },
+  {
+    "expression": "心を込める",
+    "sentence_jp": "心を込めて手紙を書いた。",
+    "sentence_kana": "こころをこめててがみをかいた。",
+    "meaning_ru": "делать от всего сердца",
+    "sentence_ru": "Я написал(а) письмо от всего сердца.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750581165
+  },
+  {
+    "expression": "腰掛ける",
+    "sentence_jp": null,
+    "sentence_kana": "せいだいなためいきをつきながら、テーブルのうえにどさどさとパンをおき、いすにどっかりとこしかける。",
+    "meaning_ru": "садиться (на стул)",
+    "sentence_ru": "Тяжело вздыхая, он бросил хлеб на стол и тяжело опустился на стул.",
+    "noteId": 1618750600519
+  },
+  {
+    "expression": "こしょう",
+    "sentence_jp": null,
+    "sentence_kana": "さかなにしおとこしょうであじをつけた。",
+    "meaning_ru": "перец",
+    "sentence_ru": "Я приправил(а) рыбу солью и перцем.",
+    "noteId": 1618750608242
+  },
+  {
+    "expression": "故人",
+    "sentence_jp": null,
+    "sentence_kana": "かれはひざをついてこじんのれいにいのりをささげた。",
+    "meaning_ru": "покойный",
+    "sentence_ru": "Он встал на колени и вознёс молитву духу покойного.",
+    "noteId": 1618750622311
+  },
+  {
+    "expression": "個人～",
+    "sentence_jp": null,
+    "sentence_kana": "くにのけいざいだって、かていのけいざいだって、こじんのけいざいだって、どんぶりかんじょうでいいものではない。",
+    "meaning_ru": "личный, индивидуальный (префикс)",
+    "sentence_ru": "Ни экономика страны, ни семейный бюджет, ни личные финансы — нельзя вести их «на глазок».",
+    "noteId": 1618750638318
+  },
+  {
+    "expression": "個人競技",
+    "sentence_jp": "テニスは個人競技だ。",
+    "sentence_kana": "テニスはこじんきょうぎだ。",
+    "meaning_ru": "индивидуальные виды спорта",
+    "sentence_ru": "Теннис — индивидуальный вид спорта.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750666241
+  },
+  {
+    "expression": "個人旅行",
+    "sentence_jp": null,
+    "sentence_kana": "わがりょこうそうだんセンターはこじんりょこうしゃにサービスをていきょうする。",
+    "meaning_ru": "индивидуальные поездки",
+    "sentence_ru": "Наш туристический консультационный центр предоставляет услуги индивидуальным путешественникам.",
+    "noteId": 1618750684799
+  },
+  {
+    "expression": "コスト",
+    "sentence_jp": null,
+    "sentence_kana": "せいのうてきにはもんだいなかったんだけど、いったいあたりにかかるひようがあまりにもぼうだいで、コストパフォーマンスがわるいということでね。",
+    "meaning_ru": "издержки, себестоимость",
+    "sentence_ru": "С производительностью проблем не было, но затраты на единицу были слишком велики, так что соотношение цена-качество было плохим.",
+    "noteId": 1618750693047
+  },
+  {
+    "expression": "国家",
+    "sentence_jp": null,
+    "sentence_kana": "にほんではじょさんしこっかしけんのじゅけんしかくはじょせいのみとなっている。",
+    "meaning_ru": "государство",
+    "sentence_ru": "В Японии право сдавать государственный экзамен на акушерку имеют только женщины.",
+    "noteId": 1618750703594
+  },
+  {
+    "expression": "国会",
+    "sentence_jp": null,
+    "sentence_kana": "せいふがこんこっかいへのかいせいあんていしゅつのみおくりほうしんをかためたことをかんげいするいっぽう、こいずみしゅしょうがていしゅつだんねんをめいげんしていないてんをけいかいするこえもあがった。",
+    "meaning_ru": "парламент (Японии)",
+    "sentence_ru": "Приветствуя то, что правительство решило отложить внесение поправки, некоторые выражали настороженность.",
+    "noteId": 1618750722493
+  },
+  {
+    "expression": "小遣い帳",
+    "sentence_jp": "小遣い帳をつける。",
+    "sentence_kana": "こづかいちょうをつける。",
+    "meaning_ru": "тетрадь для учёта карманных денег",
+    "sentence_ru": "Вести тетрадь учёта карманных денег.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618750778627
+  },
+  {
+    "expression": "こつこつ",
+    "sentence_jp": null,
+    "sentence_kana": "かれはしごとをこつこつやった。",
+    "meaning_ru": "упорно, постепенно",
+    "sentence_ru": "Он упорно, шаг за шагом, делал работу.",
+    "noteId": 1618750786687
+  },
+  {
+    "expression": "骨折",
+    "sentence_jp": null,
+    "sentence_kana": "スキーをしたら、あしをこっせつしたんだ。",
+    "meaning_ru": "перелом",
+    "sentence_ru": "Катаясь на лыжах, я сломал(а) ногу.",
+    "noteId": 1618750800318
+  },
+  {
+    "expression": "古典",
+    "sentence_jp": null,
+    "sentence_kana": "もっとこてんてきなかおだちなのかとおもいきや、いまのじだいでもじゅうぶんつうようするびけいです。",
+    "meaning_ru": "классика",
+    "sentence_ru": "Я думал(а), что у него более классические черты лица, но он достаточно красив и для нашего времени.",
+    "noteId": 1618750810387
+  }
+]
