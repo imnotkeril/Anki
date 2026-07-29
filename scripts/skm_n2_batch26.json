@@ -1,0 +1,414 @@
+[
+  {
+    "expression": "粗末",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはかしゅといってもおそまつなものだ。",
+    "meaning_ru": "скудный, никудышный",
+    "sentence_ru": "Она хоть и называется певицей, но весьма посредственная.",
+    "noteId": 1618835948953
+  },
+  {
+    "expression": "そる",
+    "sentence_jp": null,
+    "sentence_kana": "かれはまいあさでんきカミソリでかおをそる。",
+    "meaning_ru": "бриться",
+    "sentence_ru": "Он каждое утро бреется электробритвой.",
+    "noteId": 1618835955210
+  },
+  {
+    "expression": "それぞれ",
+    "sentence_jp": null,
+    "sentence_kana": "れきしはそれぞれのもんだいにいくつものことなったこたえをわたしたちにあたえる。",
+    "meaning_ru": "каждый (отдельно)",
+    "sentence_ru": "История даёт нам множество разных ответов на каждый вопрос.",
+    "noteId": 1618835963043
+  },
+  {
+    "expression": "そわそわ",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはそわそわしている。",
+    "meaning_ru": "нервно, беспокойно (ёрзать)",
+    "sentence_ru": "Они нервничают.",
+    "noteId": 1618835971389
+  },
+  {
+    "expression": "尊敬",
+    "sentence_jp": null,
+    "sentence_kana": "めうえのひとのすることについてはなすとき、そんけいごをつかいます。",
+    "meaning_ru": "уважение",
+    "sentence_ru": "Говоря о действиях вышестоящего человека, используют уважительную речь.",
+    "noteId": 1618835980080
+  },
+  {
+    "expression": "田",
+    "sentence_jp": "田で稲を植える。",
+    "sentence_kana": "たでいねをうえる。",
+    "meaning_ru": "рисовое поле",
+    "sentence_ru": "Сажать рис на поле.",
+    "note": "Tatoeba match used 秋田 (Akita, a place name), a false positive, replaced",
+    "noteId": 1618835990302
+  },
+  {
+    "expression": "多～",
+    "sentence_jp": "多目的ホールがある。",
+    "sentence_kana": "たもくてきホールがある。",
+    "meaning_ru": "много- (префикс)",
+    "sentence_ru": "Есть многофункциональный зал.",
+    "note": "Tatoeba match only showed 多い (adjective), not the prefix, replaced",
+    "noteId": 1618836004809
+  },
+  {
+    "expression": "～代",
+    "sentence_jp": "電気代を払う。",
+    "sentence_kana": "でんきだいをはらう。",
+    "meaning_ru": "плата (суффикс)",
+    "sentence_ru": "Оплатить счёт за электричество.",
+    "note": "Tatoeba match used 代名詞 (pronoun), a different sense, replaced",
+    "noteId": 1618836123551
+  },
+  {
+    "expression": "退化",
+    "sentence_jp": "使わない機能は退化する。",
+    "sentence_kana": "つかわないきのうはたいかする。",
+    "meaning_ru": "деградация, регресс (биологич.)",
+    "sentence_ru": "Неиспользуемая функция деградирует.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618836134384
+  },
+  {
+    "expression": "大学院",
+    "sentence_jp": null,
+    "sentence_kana": "だいがくいんせいのケンはきょねんアメリカにいった。",
+    "meaning_ru": "аспирантура",
+    "sentence_ru": "Кен, аспирант, в прошлом году поехал в Америку.",
+    "noteId": 1618836149100
+  },
+  {
+    "expression": "大気",
+    "sentence_jp": null,
+    "sentence_kana": "これらのようざいは、きはつせいのため、しようじにじょうはつしたいきにほうしゅつされている。",
+    "meaning_ru": "атмосфера",
+    "sentence_ru": "Эти растворители, будучи летучими, испаряются при использовании и выбрасываются в атмосферу.",
+    "noteId": 1618836163182
+  },
+  {
+    "expression": "損害",
+    "sentence_jp": null,
+    "sentence_kana": "あらしはたいへんなそんがいをもたらした。",
+    "meaning_ru": "ущерб",
+    "sentence_ru": "Буря нанесла огромный ущерб.",
+    "noteId": 1618836254558
+  },
+  {
+    "expression": "大気汚染",
+    "sentence_jp": null,
+    "sentence_kana": "とうしにはたいきおせんはありません。",
+    "meaning_ru": "загрязнение воздуха",
+    "sentence_ru": "В нашем городе нет загрязнения воздуха.",
+    "noteId": 1618874716926
+  },
+  {
+    "expression": "大規模",
+    "sentence_jp": null,
+    "sentence_kana": "きゅういちいちテロいらい、せかいのかくちでだいきぼなテロリズムがはっせいしている。",
+    "meaning_ru": "крупномасштабный",
+    "sentence_ru": "После терактов 11 сентября масштабный терроризм происходит в разных уголках мира.",
+    "noteId": 1618874737534
+  },
+  {
+    "expression": "滞在",
+    "sentence_jp": null,
+    "sentence_kana": "こんかいはじめてプライベートヴィラにたいざいしましたが、これがなかなかいいです。",
+    "meaning_ru": "пребывание",
+    "sentence_ru": "В этот раз я впервые остановился(лась) в частной вилле, и это довольно хорошо.",
+    "noteId": 1618874746113
+  },
+  {
+    "expression": "～対策",
+    "sentence_jp": null,
+    "sentence_kana": "ヒートアイランドげんしょうのじったいかいせきとたいさくのありかたについて。",
+    "meaning_ru": "меры против (суффикс)",
+    "sentence_ru": "О сущностном анализе явления теплового острова и подходах к мерам противодействия.",
+    "noteId": 1618874764768
+  },
+  {
+    "expression": "大して",
+    "sentence_jp": "大して面白くない映画だった。",
+    "sentence_kana": "たいしておもしろくないえいがだった。",
+    "meaning_ru": "не особо, не так уж",
+    "sentence_ru": "Фильм был не особо интересным.",
+    "note": "Tatoeba match was unrelated (about housing), replaced",
+    "noteId": 1618874779195
+  },
+  {
+    "expression": "退職届",
+    "sentence_jp": "退職届を提出した。",
+    "sentence_kana": "たいしょくとどけをていしゅつした。",
+    "meaning_ru": "заявление об увольнении",
+    "sentence_ru": "Я подал(а) заявление об увольнении.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618874792274
+  },
+  {
+    "expression": "大臣",
+    "sentence_jp": null,
+    "sentence_kana": "こいずみしがそうりだいじんとしてもりしのあとをおそった。",
+    "meaning_ru": "министр",
+    "sentence_ru": "Господин Коидзуми сменил господина Мори на посту премьер-министра.",
+    "noteId": 1618874803062
+  },
+  {
+    "expression": "～大臣",
+    "sentence_jp": null,
+    "sentence_kana": "こいずみしがそうりだいじんとしてもりしのあとをおそった。",
+    "meaning_ru": "министр (суффикс)",
+    "sentence_ru": "Господин Коидзуми сменил господина Мори на посту премьер-министра.",
+    "noteId": 1618874827624
+  },
+  {
+    "expression": "体積",
+    "sentence_jp": null,
+    "sentence_kana": "たいせきをけいさんするなら、たてとよことふかさをかければよい。",
+    "meaning_ru": "объём (геометрический)",
+    "sentence_ru": "Чтобы вычислить объём, нужно умножить длину, ширину и глубину.",
+    "noteId": 1618874840327
+  },
+  {
+    "expression": "大多数",
+    "sentence_jp": null,
+    "sentence_kana": "かれらのだいたすうはわかものでした。",
+    "meaning_ru": "подавляющее большинство",
+    "sentence_ru": "Подавляющее большинство из них были молодые люди.",
+    "noteId": 1618874854589
+  },
+  {
+    "expression": "態度",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょのたいどはきどりやわざとらしさがない。",
+    "meaning_ru": "отношение",
+    "sentence_ru": "В её поведении нет ни жеманства, ни наигранности.",
+    "noteId": 1618874863007
+  },
+  {
+    "expression": "タイトル",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはそのうたのタイトルをどうしてもおもいだせなかった。",
+    "meaning_ru": "название, титул",
+    "sentence_ru": "Я никак не мог(ла) вспомнить название той песни.",
+    "noteId": 1618874868964
+  },
+  {
+    "expression": "逮捕",
+    "sentence_jp": null,
+    "sentence_kana": "ロバート・ハンセンが、きゅうソれんにひみつじょうほうをうりさばいたようぎでたいほされた。",
+    "meaning_ru": "арест",
+    "sentence_ru": "Роберт Хансен был арестован по подозрению в продаже секретной информации бывшему СССР.",
+    "noteId": 1618874880552
+  },
+  {
+    "expression": "タイミング",
+    "sentence_jp": null,
+    "sentence_kana": "まずはオシロでタイミングをかくにんしてみてください。",
+    "meaning_ru": "тайминг, момент",
+    "sentence_ru": "Прежде всего проверьте таймирование с помощью осциллографа.",
+    "noteId": 1618874887095
+  },
+  {
+    "expression": "対立",
+    "sentence_jp": null,
+    "sentence_kana": "かれはたいりつをひきおこそうと、わざとしつこくした。",
+    "meaning_ru": "противостояние",
+    "sentence_ru": "Он специально был навязчив, чтобы вызвать конфликт.",
+    "noteId": 1618874897428
+  },
+  {
+    "expression": "大量",
+    "sentence_jp": null,
+    "sentence_kana": "けいさつはがっこうでたいりょうのやくぶつをおうしゅうした。",
+    "meaning_ru": "большое количество",
+    "sentence_ru": "Полиция изъяла в школе большое количество наркотиков.",
+    "noteId": 1618874907615
+  },
+  {
+    "expression": "ダウンロード",
+    "sentence_jp": null,
+    "sentence_kana": "ぜんかくもじをふくむファイルめいのばあい、いちぶのオーエスではもじばけがしょうじることがありますので、ダウンロードのさいにてきぎファイルめいをへんこうしてください。",
+    "meaning_ru": "скачивание",
+    "sentence_ru": "Если имя файла содержит полноширинные символы, в некоторых ОС может возникнуть искажение кодировки, поэтому при скачивании измените имя файла при необходимости.",
+    "noteId": 1618874917621
+  },
+  {
+    "expression": "絶えず",
+    "sentence_jp": null,
+    "sentence_kana": "ゆうじょうというしょくぶつにはたえずみずをやらねばならない。",
+    "meaning_ru": "непрерывно",
+    "sentence_ru": "Растение под названием дружба нужно непрерывно поливать.",
+    "noteId": 1618874926826
+  },
+  {
+    "expression": "高まる",
+    "sentence_jp": null,
+    "sentence_kana": "ますますたかまるこうぎのこえにかれのえんぜつはきこえなかった。",
+    "meaning_ru": "возрастать, усиливаться",
+    "sentence_ru": "Из-за всё усиливающихся протестующих голосов его речь не было слышно.",
+    "noteId": 1618874938634
+  },
+  {
+    "expression": "高める",
+    "sentence_jp": null,
+    "sentence_kana": "せいふはスーダンのじんけんじょうきょうへのかんしんをたかめるためにじんりょくしてきただんたいをだまらせることにけんめいになっているようだ。",
+    "meaning_ru": "повышать",
+    "sentence_ru": "Похоже, правительство изо всех сил старается заставить замолчать организации, работавшие над повышением интереса к правозащитной ситуации в Судане.",
+    "noteId": 1618874946704
+  },
+  {
+    "expression": "耕す",
+    "sentence_jp": null,
+    "sentence_kana": "のうふはとちをたがやす。",
+    "meaning_ru": "пахать",
+    "sentence_ru": "Крестьянин пашет землю.",
+    "noteId": 1618874958046
+  },
+  {
+    "expression": "滝",
+    "sentence_jp": "山の中に美しい滝があった。",
+    "sentence_kana": "やまのなかにうつくしいたきがあった。",
+    "meaning_ru": "водопад",
+    "sentence_ru": "В горах был красивый водопад.",
+    "note": "Tatoeba match used 滝 only in a mountain's proper name, replaced",
+    "noteId": 1618874965264
+  },
+  {
+    "expression": "炊き上がる",
+    "sentence_jp": "ご飯が炊き上がった。",
+    "sentence_kana": "ごはんがたきあがった。",
+    "meaning_ru": "быть сваренным (о рисе)",
+    "sentence_ru": "Рис сварился.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618874981252
+  },
+  {
+    "expression": "炊く",
+    "sentence_jp": "ご飯を炊く。",
+    "sentence_kana": "ごはんをたく。",
+    "meaning_ru": "варить (рис)",
+    "sentence_ru": "Варить рис.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618874991415
+  },
+  {
+    "expression": "託児所",
+    "sentence_jp": null,
+    "sentence_kana": "たくじしょのトイレのドアはしまっていた。",
+    "meaning_ru": "детские ясли",
+    "sentence_ru": "Дверь в туалет в яслях была закрыта.",
+    "noteId": 1618875083165
+  },
+  {
+    "expression": "たくましい",
+    "sentence_jp": null,
+    "sentence_kana": "かれはそうぞうりょくのたくましいしょうねんであった。",
+    "meaning_ru": "крепкий, могучий",
+    "sentence_ru": "Он был мальчиком с богатым воображением.",
+    "noteId": 1618875118038
+  },
+  {
+    "expression": "多国籍",
+    "sentence_jp": "多国籍企業で働く。",
+    "sentence_kana": "たこくせききぎょうではたらく。",
+    "meaning_ru": "многонациональный",
+    "sentence_ru": "Работать в многонациональной компании.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618875132854
+  },
+  {
+    "expression": "足し算",
+    "sentence_jp": null,
+    "sentence_kana": "かれは、たしざんがはやい。",
+    "meaning_ru": "сложение",
+    "sentence_ru": "Он быстро складывает.",
+    "noteId": 1618875144405
+  },
+  {
+    "expression": "多少",
+    "sentence_jp": null,
+    "sentence_kana": "わかいきしがたしょう、そんだいなかんじになるのはよくあることで、そういうことはしょうぎかいにかぎったはなしではないでしょう。",
+    "meaning_ru": "немного",
+    "sentence_ru": "То, что молодые сёги-игроки становятся немного заносчивыми — обычное дело, и это касается не только мира сёги.",
+    "noteId": 1618875156238
+  },
+  {
+    "expression": "足す",
+    "sentence_jp": "3に2を足すと5になる。",
+    "sentence_kana": "さんににをたすとごになる。",
+    "meaning_ru": "добавлять, складывать",
+    "sentence_ru": "3 плюс 2 равно 5.",
+    "note": "Tatoeba match used the idiom 用を足す (relieve oneself), a different sense, replaced",
+    "noteId": 1618875164772
+  },
+  {
+    "expression": "～出す",
+    "sentence_jp": null,
+    "sentence_kana": "ついかんばんヘルニアはせぼねのあいだにあるついかんばんというなんこつがとびだすものです。",
+    "meaning_ru": "начинать делать, выкладывать (суффикс)",
+    "sentence_ru": "Грыжа межпозвоночного диска — это когда хрящ между позвонками выпячивается наружу.",
+    "noteId": 1618875175063
+  },
+  {
+    "expression": "助け",
+    "sentence_jp": null,
+    "sentence_kana": "きみのたすけがひつようなんだ。",
+    "meaning_ru": "помощь",
+    "sentence_ru": "Мне нужна твоя помощь.",
+    "noteId": 1618875183863
+  },
+  {
+    "expression": "助け合う",
+    "sentence_jp": null,
+    "sentence_kana": "だからおたがいにたすけあうひつようがあったので、そういういみではいもうととのきずなはつよかった。",
+    "meaning_ru": "помогать друг другу",
+    "sentence_ru": "Поэтому нам нужно было помогать друг другу, и в этом смысле связь с сестрой была крепкой.",
+    "noteId": 1618875199502
+  },
+  {
+    "expression": "～正しい",
+    "sentence_jp": null,
+    "sentence_kana": "ひんしをりかいすることは、ただしいごじゅんかんかくをみにつけるうえでひじょうにたいせつなことです。",
+    "meaning_ru": "правильный (суффикс)",
+    "sentence_ru": "Понимание частей речи очень важно для развития правильного чувства порядка слов.",
+    "noteId": 1618875212341
+  },
+  {
+    "expression": "直ちに",
+    "sentence_jp": null,
+    "sentence_kana": "まんいちまちがいをみつけたら、ただちにしらせてください。",
+    "meaning_ru": "немедленно",
+    "sentence_ru": "Если вдруг найдёте ошибку, пожалуйста, сразу сообщите.",
+    "noteId": 1618875222720
+  },
+  {
+    "expression": "大統領",
+    "sentence_jp": null,
+    "sentence_kana": "にせんにねん：こくどあんぜんほしょうしょうせつりつほうにブッシュだいとうりょうがサインしせいしきなしょうとなる。",
+    "meaning_ru": "президент",
+    "sentence_ru": "2002 год: президент Буш подписал закон об учреждении Министерства внутренней безопасности, оно стало официальным министерством.",
+    "noteId": 1618875283769
+  },
+  {
+    "expression": "ただの",
+    "sentence_jp": null,
+    "sentence_kana": "ただのほんなら、うちゅうけいさつがでしゃばりはしないわ、もんだいはこれがオーバーテクノロジーのかたまりだってこと。",
+    "meaning_ru": "просто, обычный",
+    "sentence_ru": "Если бы это была просто книга, космическая полиция бы не вмешивалась, проблема в том, что это сгусток сверхтехнологий.",
+    "noteId": 1618875319168
+  },
+  {
+    "expression": "畳む",
+    "sentence_jp": "洗濯物を畳む。",
+    "sentence_kana": "せんたくものをたたむ。",
+    "meaning_ru": "складывать",
+    "sentence_ru": "Складывать бельё.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618875329841
+  }
+]
