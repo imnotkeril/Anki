@@ -1,0 +1,416 @@
+[
+  {
+    "expression": "組み込む",
+    "sentence_jp": "新機能を組み込む。",
+    "sentence_kana": "しんきのうをくみこむ。",
+    "meaning_ru": "встраивать",
+    "sentence_ru": "Встроить новую функцию.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618747702755
+  },
+  {
+    "expression": "組み立て式",
+    "sentence_jp": "組み立て式の家具を買った。",
+    "sentence_kana": "くみたてしきのかぐをかった。",
+    "meaning_ru": "сборный, разборный",
+    "sentence_ru": "Я купил(а) сборную мебель.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618747743031
+  },
+  {
+    "expression": "組み立てる",
+    "sentence_jp": null,
+    "sentence_kana": "もけいふねをくみたてるのにわたしはいっしゅうかんいじょうかかった。",
+    "meaning_ru": "собирать (конструкцию)",
+    "sentence_ru": "У меня ушло больше недели, чтобы собрать модель корабля.",
+    "noteId": 1618747761232
+  },
+  {
+    "expression": "悔やむ",
+    "sentence_jp": null,
+    "sentence_kana": "よーし！おぼえてろ。あとでくやむなよ。",
+    "meaning_ru": "сожалеть, раскаиваться",
+    "sentence_ru": "Ну ладно! Запомни это. Потом не пожалей.",
+    "noteId": 1618747771493
+  },
+  {
+    "expression": "くよくよ",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはそこですごしたふこうなひびをくよくよとかんがえていた。",
+    "meaning_ru": "терзаться, зацикливаться (на плохом)",
+    "sentence_ru": "Она терзалась мыслями о несчастливых днях, проведённых там.",
+    "noteId": 1618747780421
+  },
+  {
+    "expression": "暮らしぶり",
+    "sentence_jp": null,
+    "sentence_kana": "このテレビドラマをみればえどじだいのしょみんのくらしぶりがよくわかります。",
+    "meaning_ru": "образ жизни",
+    "sentence_ru": "Посмотрев этот сериал, можно хорошо понять образ жизни простых людей эпохи Эдо.",
+    "noteId": 1618747790506
+  },
+  {
+    "expression": "グラフ",
+    "sentence_jp": "このグラフを見てください。",
+    "sentence_kana": "このグラフをみてください。",
+    "meaning_ru": "график, диаграмма",
+    "sentence_ru": "Посмотрите, пожалуйста, на этот график.",
+    "note": "Tatoeba match used グラフィックカード (graphics card), a different word, replaced",
+    "noteId": 1618747798213
+  },
+  {
+    "expression": "狂う",
+    "sentence_jp": null,
+    "sentence_kana": "たけりくるううみのあらしのようにいちぞくがはげしくはしる。",
+    "meaning_ru": "сходить с ума, буйствовать",
+    "sentence_ru": "Клан мчится яростно, словно бушующий шторм на море.",
+    "noteId": 1618747864157
+  },
+  {
+    "expression": "苦しみ",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはじぶんのくるしみをこちょうしてはなした。",
+    "meaning_ru": "страдание",
+    "sentence_ru": "Она рассказывала о своих страданиях, преувеличивая.",
+    "noteId": 1618747874683
+  },
+  {
+    "expression": "苦しむ",
+    "sentence_jp": null,
+    "sentence_kana": "ちきゅうがわのあっせいにくるしむコロニーのひとびとのなかで、テロによるげんじょうだはをもくろむせいりょくがたんじょう。",
+    "meaning_ru": "страдать",
+    "sentence_ru": "Среди жителей колонии, страдающих от гнёта Земли, зародились силы, замышляющие сломать текущее положение через террор.",
+    "noteId": 1618747903343
+  },
+  {
+    "expression": "くるむ",
+    "sentence_jp": "赤ちゃんを毛布でくるむ。",
+    "sentence_kana": "あかちゃんをもうふでくるむ。",
+    "meaning_ru": "заворачивать",
+    "sentence_ru": "Завернуть младенца в одеяло.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618747913296
+  },
+  {
+    "expression": "クレーム",
+    "sentence_jp": null,
+    "sentence_kana": "クレームがないからといっておきゃくさまがまんぞくしているとはかぎらないのです。",
+    "meaning_ru": "претензия, жалоба",
+    "sentence_ru": "Отсутствие жалоб не всегда значит, что клиенты довольны.",
+    "noteId": 1618747920868
+  },
+  {
+    "expression": "暮れる",
+    "sentence_jp": null,
+    "sentence_kana": "かなしみにくれるそのじょせいはゆうじんたちになぐさめられた。",
+    "meaning_ru": "темнеть, смеркаться",
+    "sentence_ru": "Ту женщину, охваченную горем, утешали друзья.",
+    "noteId": 1618747932193
+  },
+  {
+    "expression": "黒字",
+    "sentence_jp": null,
+    "sentence_kana": "ぼうえきしゅうしはゆしゅつさんぜんひゃくよんじゅうおくドル、ゆにゅうにひゃくさんじゅうおくドルで、ななひゃくろくじゅうおくドルのくろじをけいじょうした。",
+    "meaning_ru": "профицит, положительный баланс",
+    "sentence_ru": "Торговый баланс показал профицит в 76 млрд долларов при экспорте 314 млрд и импорте 23 млрд долларов.",
+    "noteId": 1618748004806
+  },
+  {
+    "expression": "加える",
+    "sentence_jp": null,
+    "sentence_kana": "ビーバーはひとにきがいをくわえることはめったにない。",
+    "meaning_ru": "причинять (вред), добавлять",
+    "sentence_ru": "Бобры редко причиняют вред людям.",
+    "noteId": 1618748031311
+  },
+  {
+    "expression": "詳しい",
+    "sentence_jp": null,
+    "sentence_kana": "ざいじょうはさつじんらしいが、くわしいことはくちにだそうとしない。",
+    "meaning_ru": "подробный",
+    "sentence_ru": "Похоже, обвинение в убийстве, но подробности никто не хочет озвучивать.",
+    "noteId": 1618748040436
+  },
+  {
+    "expression": "加わる",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょがわたしたちにくわわるなんて、おもってもいなかった。",
+    "meaning_ru": "присоединяться",
+    "sentence_ru": "Я и не думал(а), что она к нам присоединится.",
+    "noteId": 1618748056281
+  },
+  {
+    "expression": "訓練",
+    "sentence_jp": null,
+    "sentence_kana": "すべてのへいしをいっきとうせんのつわものにそだてるカギはくんれんをきょうかすることである。",
+    "meaning_ru": "тренировка",
+    "sentence_ru": "Ключ к воспитанию всех солдат как бойцов, стоящих тысячи, — усиление тренировок.",
+    "noteId": 1618748072652
+  },
+  {
+    "expression": "軽～",
+    "sentence_jp": "軽食を食べる。",
+    "sentence_kana": "けいしょくをたべる。",
+    "meaning_ru": "лёгкий (префикс)",
+    "sentence_ru": "Съесть лёгкую закуску.",
+    "note": "Tatoeba match used 口が軽い (blabbermouth), a different sense of 軽い, replaced",
+    "noteId": 1618748097710
+  },
+  {
+    "expression": "～計",
+    "sentence_jp": "温度計で温度を測る。",
+    "sentence_kana": "おんどけいでおんどをはかる。",
+    "meaning_ru": "счётчик, измеритель (суффикс)",
+    "sentence_ru": "Измерять температуру термометром.",
+    "note": "Tatoeba match used the idiom 打ち所, a false positive, replaced",
+    "noteId": 1618748132549
+  },
+  {
+    "expression": "敬意",
+    "sentence_jp": null,
+    "sentence_kana": "ろうどうしゃかいきゅうにはけいいをはらうべきである。",
+    "meaning_ru": "почтение",
+    "sentence_ru": "Рабочему классу следует оказывать уважение.",
+    "noteId": 1618748146557
+  },
+  {
+    "expression": "経営",
+    "sentence_jp": null,
+    "sentence_kana": "きぎょうけいえいでかつやくするためにひつようとなるのがおおくのなかまとしごとをすいこうするためのきょうちょうせいしんです。",
+    "meaning_ru": "менеджмент",
+    "sentence_ru": "Для успешной работы в управлении компанией необходим дух сотрудничества с товарищами.",
+    "noteId": 1618748161726
+  },
+  {
+    "expression": "経営方針",
+    "sentence_jp": "会社は経営方針を変えた。",
+    "sentence_kana": "かいしゃはけいえいほうしんをかえた。",
+    "meaning_ru": "политика управления",
+    "sentence_ru": "Компания изменила политику управления.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748178490
+  },
+  {
+    "expression": "経過",
+    "sentence_jp": null,
+    "sentence_kana": "ゆうじんがなくなってからちょうどいちねんがけいかした。",
+    "meaning_ru": "течение (времени), ход (событий)",
+    "sentence_ru": "Прошёл ровно год с тех пор, как умер друг.",
+    "noteId": 1618748189591
+  },
+  {
+    "expression": "警戒",
+    "sentence_jp": null,
+    "sentence_kana": "けいかいするにこしたことはない。",
+    "meaning_ru": "бдительность, настороженность",
+    "sentence_ru": "Лучше проявить бдительность, чем не проявить.",
+    "noteId": 1618748203924
+  },
+  {
+    "expression": "景気",
+    "sentence_jp": null,
+    "sentence_kana": "なぜか、けいきのよいときにはにほんのしんわにちなんだなまえがつけられています。",
+    "meaning_ru": "экономическая конъюнктура",
+    "sentence_ru": "Почему-то, когда экономика на подъёме, дают имена, связанные с японской мифологией.",
+    "noteId": 1618748222041
+  },
+  {
+    "expression": "契機",
+    "sentence_jp": null,
+    "sentence_kana": "たいしょくをけいきにさどうをはじめた。",
+    "meaning_ru": "повод, толчок",
+    "sentence_ru": "После выхода на пенсию я начал(а) заниматься чайной церемонией.",
+    "noteId": 1618748244415
+  },
+  {
+    "expression": "軽金属",
+    "sentence_jp": "アルミは軽金属だ。",
+    "sentence_kana": "アルミはけいきんぞくだ。",
+    "meaning_ru": "лёгкий металл",
+    "sentence_ru": "Алюминий — лёгкий металл.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748259194
+  },
+  {
+    "expression": "軽減",
+    "sentence_jp": "税負担を軽減する。",
+    "sentence_kana": "ぜいふたんをけいげんする。",
+    "meaning_ru": "облегчение, снижение",
+    "sentence_ru": "Снизить налоговое бремя.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748341455
+  },
+  {
+    "expression": "敬語",
+    "sentence_jp": null,
+    "sentence_kana": "めうえのひとのすることについてはなすとき、そんけいごをつかいます。",
+    "meaning_ru": "вежливая (уважительная) речь",
+    "sentence_ru": "Говоря о действиях вышестоящего человека, используют уважительную речь.",
+    "noteId": 1618748353944
+  },
+  {
+    "expression": "軽工業",
+    "sentence_jp": "軽工業が発展した。",
+    "sentence_kana": "けいこうぎょうがはってんした。",
+    "meaning_ru": "лёгкая промышленность",
+    "sentence_ru": "Лёгкая промышленность развилась.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748372243
+  },
+  {
+    "expression": "経済危機",
+    "sentence_jp": null,
+    "sentence_kana": "ことしのおわりにけいざいききがくるだろう。",
+    "meaning_ru": "экономический кризис",
+    "sentence_ru": "В конце этого года, вероятно, наступит экономический кризис.",
+    "noteId": 1618748391233
+  },
+  {
+    "expression": "計算",
+    "sentence_jp": null,
+    "sentence_kana": "こうもくがふえたりへったりするひょうじなら、アクセスでなくてひょうけいさんソフトをかつようすべきだとおもいます。",
+    "meaning_ru": "расчёт",
+    "sentence_ru": "Если отображение пунктов увеличивается и уменьшается, думаю, стоит использовать программу для электронных таблиц, а не Access.",
+    "noteId": 1618748406471
+  },
+  {
+    "expression": "計算違い",
+    "sentence_jp": null,
+    "sentence_kana": "かれらのひようのみつもりはおおはばなけいさんちがいだった。",
+    "meaning_ru": "ошибка в расчёте",
+    "sentence_ru": "Их смета расходов содержала серьёзную ошибку в расчётах.",
+    "noteId": 1618748427214
+  },
+  {
+    "expression": "形式的",
+    "sentence_jp": "形式的な挨拶をする。",
+    "sentence_kana": "けいしきてきなあいさつをする。",
+    "meaning_ru": "формальный",
+    "sentence_ru": "Обменяться формальными приветствиями.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748444364
+  },
+  {
+    "expression": "携帯電話",
+    "sentence_jp": null,
+    "sentence_kana": "パソコンにくわえ、けいたいでんわでのりようがかのうです。",
+    "meaning_ru": "мобильный телефон",
+    "sentence_ru": "Помимо компьютера, можно пользоваться и с мобильного телефона.",
+    "noteId": 1618748499390
+  },
+  {
+    "expression": "携帯用",
+    "sentence_jp": "携帯用の充電器を買った。",
+    "sentence_kana": "けいたいようのじゅうでんきをかった。",
+    "meaning_ru": "портативный",
+    "sentence_ru": "Я купил(а) портативное зарядное устройство.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748512821
+  },
+  {
+    "expression": "毛糸",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはけいとでセーターをあんでいる。",
+    "meaning_ru": "шерстяная пряжа",
+    "sentence_ru": "Она вяжет свитер из шерстяной пряжи.",
+    "noteId": 1618748521015
+  },
+  {
+    "expression": "芸能界",
+    "sentence_jp": null,
+    "sentence_kana": "かれはげいのうかいにせいつうしている。",
+    "meaning_ru": "шоу-бизнес",
+    "sentence_ru": "Он хорошо разбирается в шоу-бизнесе.",
+    "noteId": 1618748540041
+  },
+  {
+    "expression": "軽犯罪",
+    "sentence_jp": "軽犯罪で逮捕された。",
+    "sentence_kana": "けいはんざいでたいほされた。",
+    "meaning_ru": "мелкое правонарушение",
+    "sentence_ru": "Его арестовали за мелкое правонарушение.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748632696
+  },
+  {
+    "expression": "警備員",
+    "sentence_jp": null,
+    "sentence_kana": "けいびいんになりすましてかれはぎんこうにはいった。",
+    "meaning_ru": "охранник",
+    "sentence_ru": "Выдав себя за охранника, он вошёл в банк.",
+    "noteId": 1618748651714
+  },
+  {
+    "expression": "～警報",
+    "sentence_jp": null,
+    "sentence_kana": "かれらはてきがちかづいてくるのをみるとけいほうをならした。",
+    "meaning_ru": "предупреждение, сигнал тревоги (суффикс)",
+    "sentence_ru": "Увидев приближающегося врага, они подали сигнал тревоги.",
+    "noteId": 1618748668971
+  },
+  {
+    "expression": "外科",
+    "sentence_jp": null,
+    "sentence_kana": "ちちはじゅくれんしたげかいです。",
+    "meaning_ru": "хирургия",
+    "sentence_ru": "Мой отец — опытный хирург.",
+    "noteId": 1618748680252
+  },
+  {
+    "expression": "劇場",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはロンドンにいたころよくそのげきじょうにいったものだ。",
+    "meaning_ru": "театр (здание)",
+    "sentence_ru": "Когда она жила в Лондоне, она часто ходила в этот театр.",
+    "noteId": 1618748706007
+  },
+  {
+    "expression": "下車",
+    "sentence_jp": null,
+    "sentence_kana": "つぎのていりゅうじょでげしゃし、くうこうゆきのバスにのりなさい。",
+    "meaning_ru": "выход из транспорта",
+    "sentence_ru": "Выйди на следующей остановке и сядь на автобус до аэропорта.",
+    "noteId": 1618748718584
+  },
+  {
+    "expression": "下旬",
+    "sentence_jp": null,
+    "sentence_kana": "そのけっか、ごがつげじゅんにふあんしんけいしょうやふみんしょうとしんだんされた。",
+    "meaning_ru": "последняя декада месяца",
+    "sentence_ru": "В результате, в конце мая ей поставили диагноз тревожное расстройство и бессонница.",
+    "noteId": 1618748733231
+  },
+  {
+    "expression": "下水道",
+    "sentence_jp": "下水道が整備された。",
+    "sentence_kana": "げすいどうがせいびされた。",
+    "meaning_ru": "канализация",
+    "sentence_ru": "Канализацию привели в порядок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618748748624
+  },
+  {
+    "expression": "削る",
+    "sentence_jp": null,
+    "sentence_kana": "きみのえんぴつはけずるひつようがある。",
+    "meaning_ru": "точить, соскабливать",
+    "sentence_ru": "Твой карандаш нужно поточить.",
+    "noteId": 1618748766531
+  },
+  {
+    "expression": "けち",
+    "sentence_jp": null,
+    "sentence_kana": "ひとのしごとにけちをつけるのはよくないぞ？",
+    "meaning_ru": "скупой, жадный",
+    "sentence_ru": "Придираться к чужой работе нехорошо, знаешь?",
+    "noteId": 1618748773265
+  },
+  {
+    "expression": "血圧",
+    "sentence_jp": null,
+    "sentence_kana": "けつあつけいがたいせつなけんさきかいです。",
+    "meaning_ru": "кровяное давление",
+    "sentence_ru": "Тонометр — важный измерительный прибор.",
+    "noteId": 1618748785869
+  }
+]
