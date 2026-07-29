@@ -1,0 +1,415 @@
+[
+  {
+    "expression": "熱中",
+    "sentence_jp": null,
+    "sentence_kana": "はははいまテニスにねっちゅうしている。",
+    "meaning_ru": "увлечение, страсть",
+    "sentence_ru": "Мама сейчас увлечена теннисом.",
+    "noteId": 1618914885810
+  },
+  {
+    "expression": "寝不足",
+    "sentence_jp": null,
+    "sentence_kana": "しんぱいやねぶそくでかのじょはさいきんじゅっポンドちかくもやせてしまった。",
+    "meaning_ru": "недосып",
+    "sentence_ru": "Из-за тревог и недосыпа она похудела почти на 10 фунтов в последнее время.",
+    "noteId": 1618914901749
+  },
+  {
+    "expression": "眠り込む",
+    "sentence_jp": null,
+    "sentence_kana": "かれはなまえをよばれたときもうすこしでねむりこむところだった。",
+    "meaning_ru": "крепко заснуть",
+    "sentence_ru": "Когда назвали его имя, он чуть было не заснул крепко.",
+    "noteId": 1618914923123
+  },
+  {
+    "expression": "眠る",
+    "sentence_jp": null,
+    "sentence_kana": "ねむるまえにでんきをけしたほうがいいですよ。",
+    "meaning_ru": "спать",
+    "sentence_ru": "Перед сном лучше выключить свет.",
+    "noteId": 1618914934192
+  },
+  {
+    "expression": "ねらう",
+    "sentence_jp": null,
+    "sentence_kana": "レーシング・カーのドライバーたちは、たいきんをねらうばかりでなく、また、レースのスリルをあじわおうとするのである。",
+    "meaning_ru": "целиться, нацеливаться",
+    "sentence_ru": "Гонщики стремятся не только к большим деньгам, но и хотят испытать острые ощущения гонки.",
+    "noteId": 1618914939610
+  },
+  {
+    "expression": "年賀状",
+    "sentence_jp": null,
+    "sentence_kana": "ねんがじょうをかくのはにほんのしゅうかんである。",
+    "meaning_ru": "новогодняя открытка",
+    "sentence_ru": "Писать новогодние открытки — японская традиция.",
+    "noteId": 1618914955206
+  },
+  {
+    "expression": "年月",
+    "sentence_jp": "長い年月がたった。",
+    "sentence_kana": "ながいねんげつがたった。",
+    "meaning_ru": "годы, время",
+    "sentence_ru": "Прошло много лет.",
+    "note": "Tatoeba match used 出生年月日, a different compound, replaced",
+    "noteId": 1618914971916
+  },
+  {
+    "expression": "年中",
+    "sentence_jp": "この店は年中無休だ。",
+    "sentence_kana": "このみせはねんじゅうむきゅうだ。",
+    "meaning_ru": "круглый год, весь год",
+    "sentence_ru": "Этот магазин работает круглый год без выходных.",
+    "note": "Tatoeba match used 今年中 (within this year), a different word/sense, replaced",
+    "noteId": 1618914982886
+  },
+  {
+    "expression": "年代別",
+    "sentence_jp": "年代別に分類する。",
+    "sentence_kana": "ねんだいべつにぶんるいする。",
+    "meaning_ru": "по возрастным группам/эпохам",
+    "sentence_ru": "Классифицировать по возрастным группам.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618914994325
+  },
+  {
+    "expression": "～年度",
+    "sentence_jp": null,
+    "sentence_kana": "れいさいこうりてんなどはしんねんどにはりえきをあげるでしょう。",
+    "meaning_ru": "финансовый год (суффикс)",
+    "sentence_ru": "Мелкие розничные магазины, вероятно, получат прибыль в новом финансовом году.",
+    "noteId": 1618915355969
+  },
+  {
+    "expression": "農業",
+    "sentence_jp": null,
+    "sentence_kana": "ぼくはけっしてのうぎょうがきらいなわけじゃない。",
+    "meaning_ru": "сельское хозяйство",
+    "sentence_ru": "Я вовсе не то чтобы не люблю сельское хозяйство.",
+    "noteId": 1618915366662
+  },
+  {
+    "expression": "農作業",
+    "sentence_jp": "農作業を手伝う。",
+    "sentence_kana": "のうさぎょうをてつだう。",
+    "meaning_ru": "сельскохозяйственные работы",
+    "sentence_ru": "Помогать с сельхозработами.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618915379160
+  },
+  {
+    "expression": "農水相",
+    "sentence_jp": "農水相が発言した。",
+    "sentence_kana": "のうすいしょうがはつげんした。",
+    "meaning_ru": "министр сельского хозяйства",
+    "sentence_ru": "Министр сельского хозяйства выступил с заявлением.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618915441980
+  },
+  {
+    "expression": "納税",
+    "sentence_jp": null,
+    "sentence_kana": "のうぜいしゃのめせんでどりょくをいたしたいとおもいます。",
+    "meaning_ru": "уплата налогов",
+    "sentence_ru": "Я хотел(а) бы прилагать усилия с точки зрения налогоплательщика.",
+    "noteId": 1618915454654
+  },
+  {
+    "expression": "能率",
+    "sentence_jp": null,
+    "sentence_kana": "にほんのでんわもうはひじょうにのうりつてきにできている。",
+    "meaning_ru": "эффективность, продуктивность",
+    "sentence_ru": "Телефонная сеть Японии устроена очень эффективно.",
+    "noteId": 1618915465340
+  },
+  {
+    "expression": "ノーベル賞",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょは、ノーベルしょうをとったあともあいかわらずひかえめである。",
+    "meaning_ru": "Нобелевская премия",
+    "sentence_ru": "Она осталась такой же скромной даже после получения Нобелевской премии.",
+    "noteId": 1618915477661
+  },
+  {
+    "expression": "逃す",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはせいとたちがかのじょのことばをききのがすといけないからゆっくりはなしました。",
+    "meaning_ru": "упускать",
+    "sentence_ru": "Она говорила медленно, чтобы ученики не пропустили её слова.",
+    "noteId": 1618915484545
+  },
+  {
+    "expression": "ののしる",
+    "sentence_jp": null,
+    "sentence_kana": "はらをたてるとかれはよくくちぎたなくののしる。",
+    "meaning_ru": "ругаться, поносить",
+    "sentence_ru": "Когда он злится, он часто грубо ругается.",
+    "noteId": 1618915495118
+  },
+  {
+    "expression": "伸ばす",
+    "sentence_jp": null,
+    "sentence_kana": "くらやみのなか、おれはとおざかるうしろすがたにひっしにてをのばす。",
+    "meaning_ru": "протягивать, вытягивать",
+    "sentence_ru": "В темноте я отчаянно тянусь рукой к удаляющейся спине.",
+    "noteId": 1618915504920
+  },
+  {
+    "expression": "のびのび",
+    "sentence_jp": null,
+    "sentence_kana": "こどもはのびのびそだつべきだ。",
+    "meaning_ru": "свободно, непринуждённо",
+    "sentence_ru": "Дети должны расти свободно.",
+    "noteId": 1618915513783
+  },
+  {
+    "expression": "上り電車",
+    "sentence_jp": "上り電車に乗る。",
+    "sentence_kana": "のぼりでんしゃにのる。",
+    "meaning_ru": "поезд в сторону центра/столицы",
+    "sentence_ru": "Сесть на поезд, идущий в сторону центра.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618915525673
+  },
+  {
+    "expression": "乗り～",
+    "sentence_jp": null,
+    "sentence_kana": "ひとりでげんしりんへのりこもうとはきみはなんてゆうましいんだ。",
+    "meaning_ru": "садиться, въезжать (префикс)",
+    "sentence_ru": "Как же ты храбр(а), раз собираешься в одиночку отправиться в первобытный лес.",
+    "noteId": 1618915587736
+  },
+  {
+    "expression": "乗り遅れる",
+    "sentence_jp": null,
+    "sentence_kana": "れっしゃにのりおくれるな。",
+    "meaning_ru": "опоздать на транспорт",
+    "sentence_ru": "Не опоздай на поезд.",
+    "noteId": 1618915601947
+  },
+  {
+    "expression": "乗り越える",
+    "sentence_jp": null,
+    "sentence_kana": "かれのだいたんなけついのおかげでききをのりこえることができた。",
+    "meaning_ru": "преодолевать",
+    "sentence_ru": "Благодаря его смелому решению удалось преодолеть кризис.",
+    "noteId": 1618915613401
+  },
+  {
+    "expression": "乗り越す",
+    "sentence_jp": "乗り越したので戻らなければならない。",
+    "sentence_kana": "のりこしたのでもどらなければならない。",
+    "meaning_ru": "проехать свою остановку",
+    "sentence_ru": "Я проехал(а) свою остановку, поэтому нужно вернуться.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618915636579
+  },
+  {
+    "expression": "乗り込む",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはひこうきにのりこむまえに、わたしにてをふった。",
+    "meaning_ru": "садиться (в транспорт)",
+    "sentence_ru": "Она помахала мне рукой перед тем, как сесть в самолёт.",
+    "noteId": 1618915656560
+  },
+  {
+    "expression": "のろのろ",
+    "sentence_jp": null,
+    "sentence_kana": "きゅうじつでくるまはかいどうをのろのろとうごいた。",
+    "meaning_ru": "медленно, еле-еле",
+    "sentence_ru": "В выходной день машины еле ползли по шоссе.",
+    "noteId": 1618915667955
+  },
+  {
+    "expression": "のん気",
+    "sentence_jp": null,
+    "sentence_kana": "ジョンくんははたらきすぎだよ。すわってしばらくはのんきにかまえなさい。",
+    "meaning_ru": "беспечный",
+    "sentence_ru": "Джон, ты слишком много работаешь. Сядь и немного побудь беззаботным.",
+    "noteId": 1618915677302
+  },
+  {
+    "expression": "のんびり",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはもっとのんびりしたせいかつをのぞんだが、あのじょうきょうではそれはふかのうであった。",
+    "meaning_ru": "неспешно, расслабленно",
+    "sentence_ru": "Она хотела более спокойной жизни, но в тех обстоятельствах это было невозможно.",
+    "noteId": 1618915688800
+  },
+  {
+    "expression": "排出量",
+    "sentence_jp": null,
+    "sentence_kana": "アメリカはせかいのよんぶんのいちのにさんかたんそをはいしゅつしており、ひとりあたりのはいしゅつりょうもせかいでもっともおおいのです。",
+    "meaning_ru": "объём выбросов",
+    "sentence_ru": "США выбрасывают четверть всего углекислого газа в мире, и объём выбросов на душу населения тоже самый высокий в мире.",
+    "noteId": 1618915702397
+  },
+  {
+    "expression": "配置",
+    "sentence_jp": null,
+    "sentence_kana": "このため、かいだんのせきのはいちではべいこくとあいたいしてすわるばしょをもとめた。",
+    "meaning_ru": "расположение, размещение",
+    "sentence_ru": "Поэтому в расположении мест на переговорах было запрошено место напротив США.",
+    "noteId": 1618915714914
+  },
+  {
+    "expression": "売店",
+    "sentence_jp": "駅の売店で新聞を買う。",
+    "sentence_kana": "えきのばいてんでしんぶんをかう。",
+    "meaning_ru": "киоск, ларёк",
+    "sentence_ru": "Купить газету в киоске на станции.",
+    "note": "Tatoeba match used 零細小売店 (small retail shops), a different word, replaced",
+    "noteId": 1618915732629
+  },
+  {
+    "expression": "はう",
+    "sentence_jp": "赤ちゃんがはう。",
+    "sentence_kana": "あかちゃんがはう。",
+    "meaning_ru": "ползать",
+    "sentence_ru": "Ребёнок ползает.",
+    "note": "Tatoeba match was unrelated, replaced",
+    "noteId": 1618915741023
+  },
+  {
+    "expression": "墓",
+    "sentence_jp": null,
+    "sentence_kana": "おはかにはきょうかがそなえられていた。",
+    "meaning_ru": "могила",
+    "sentence_ru": "У могилы были положены цветы.",
+    "noteId": 1618915746656
+  },
+  {
+    "expression": "～破壊",
+    "sentence_jp": null,
+    "sentence_kana": "たつまきでむらぜんたいがはかいされた。",
+    "meaning_ru": "разрушение (суффикс)",
+    "sentence_ru": "Из-за торнадо была разрушена вся деревня.",
+    "noteId": 1618915829218
+  },
+  {
+    "expression": "墓参り",
+    "sentence_jp": null,
+    "sentence_kana": "わたしはちちのはかまいりをした。",
+    "meaning_ru": "посещение могилы",
+    "sentence_ru": "Я посетил(а) могилу отца.",
+    "noteId": 1618915856451
+  },
+  {
+    "expression": "吐き気",
+    "sentence_jp": null,
+    "sentence_kana": "とつぜんのはきけがかれはおさえきれなかった。",
+    "meaning_ru": "тошнота",
+    "sentence_ru": "Он не смог сдержать внезапный приступ тошноты.",
+    "noteId": 1618915872154
+  },
+  {
+    "expression": "はきはき",
+    "sentence_jp": null,
+    "sentence_kana": "はきはきといけんをいってください。",
+    "meaning_ru": "чётко, ясно (говорить)",
+    "sentence_ru": "Пожалуйста, высказывайте своё мнение чётко и ясно.",
+    "noteId": 1618915881534
+  },
+  {
+    "expression": "吐く",
+    "sentence_jp": null,
+    "sentence_kana": "ときにはよわねをはくけど。",
+    "meaning_ru": "тошнить; произносить",
+    "sentence_ru": "Иногда я жалуюсь.",
+    "noteId": 1618915891471
+  },
+  {
+    "expression": "掃く",
+    "sentence_jp": null,
+    "sentence_kana": "だいどころをきれいにはくのをわすれないように。",
+    "meaning_ru": "подметать",
+    "sentence_ru": "Не забудь тщательно подмести кухню.",
+    "noteId": 1618915901932
+  },
+  {
+    "expression": "破産",
+    "sentence_jp": null,
+    "sentence_kana": "おとうさんのはさんはかめいのけがれでした。",
+    "meaning_ru": "банкротство",
+    "sentence_ru": "Банкротство отца легло пятном на семейное имя.",
+    "noteId": 1618915911646
+  },
+  {
+    "expression": "走り回る",
+    "sentence_jp": null,
+    "sentence_kana": "へやのなかではしりまわるな。",
+    "meaning_ru": "бегать вокруг",
+    "sentence_ru": "Не бегай по комнате.",
+    "noteId": 1618915929010
+  },
+  {
+    "expression": "恥ずかしがり",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょははずかしがりでむくちだ。",
+    "meaning_ru": "застенчивый",
+    "sentence_ru": "Она застенчива и немногословна.",
+    "noteId": 1618915943132
+  },
+  {
+    "expression": "パスポート",
+    "sentence_jp": null,
+    "sentence_kana": "ふうんなことにかれはパスポートをなくしてしまった。",
+    "meaning_ru": "паспорт",
+    "sentence_ru": "К несчастью, он потерял паспорт.",
+    "noteId": 1618915951681
+  },
+  {
+    "expression": "肌",
+    "sentence_jp": null,
+    "sentence_kana": "だんせいのほうがじょせいよりはだがあぶらっぽいってほんとうですか？",
+    "meaning_ru": "кожа",
+    "sentence_ru": "Правда ли, что у мужчин кожа более жирная, чем у женщин?",
+    "noteId": 1618915956675
+  },
+  {
+    "expression": "畑",
+    "sentence_jp": "畑で野菜を育てる。",
+    "sentence_kana": "はたけでやさいをそだてる。",
+    "meaning_ru": "поле (огород)",
+    "sentence_ru": "Выращивать овощи на поле.",
+    "note": "Tatoeba match used the idiom 畑違い (figurative, unrelated field), replaced",
+    "noteId": 1618915965764
+  },
+  {
+    "expression": "果たして",
+    "sentence_jp": "果たして彼は成功するだろうか。",
+    "sentence_kana": "はたしてかれはせいこうするだろうか。",
+    "meaning_ru": "действительно, в самом деле",
+    "sentence_ru": "Действительно ли он добьётся успеха?",
+    "note": "Tatoeba match used 使い果たす, a different word, replaced",
+    "noteId": 1618915976551
+  },
+  {
+    "expression": "果たす",
+    "sentence_jp": null,
+    "sentence_kana": "ろうどうこうしょうではくみあいのしどうしゃがじゅうようなやくわりをはたす。",
+    "meaning_ru": "выполнять, осуществлять",
+    "sentence_ru": "В трудовых переговорах лидеры профсоюза играют важную роль.",
+    "noteId": 1618915985717
+  },
+  {
+    "expression": "初～",
+    "sentence_jp": "初出勤の日は緊張した。",
+    "sentence_kana": "はつしゅっきんのひはきんちょうした。",
+    "meaning_ru": "первый (префикс)",
+    "sentence_ru": "В первый рабочий день я нервничал(а).",
+    "note": "Tatoeba match used 最初 (unrelated), replaced",
+    "noteId": 1618915997244
+  },
+  {
+    "expression": "～発",
+    "sentence_jp": "東京発の新幹線に乗る。",
+    "sentence_kana": "とうきょうはつのしんかんせんにのる。",
+    "meaning_ru": "отправление из (суффикс)",
+    "sentence_ru": "Сесть на синкансэн, отправляющийся из Токио.",
+    "note": "Tatoeba match used 発表 (unrelated word), replaced",
+    "noteId": 1618916011911
+  }
+]
