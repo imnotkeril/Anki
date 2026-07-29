@@ -1,0 +1,420 @@
+[
+  {
+    "expression": "気を遣う",
+    "sentence_jp": "彼女は人に気を遣う。",
+    "sentence_kana": "かのじょはひとにきをつかう。",
+    "meaning_ru": "быть внимательным, заботиться (о чувствах других)",
+    "sentence_ru": "Она внимательна к другим людям.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746009440
+  },
+  {
+    "expression": "気を取られる",
+    "sentence_jp": "スマホに気を取られる。",
+    "sentence_kana": "スマホにきをとられる。",
+    "meaning_ru": "отвлекаться",
+    "sentence_ru": "Отвлекаться на смартфон.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746027284
+  },
+  {
+    "expression": "菌",
+    "sentence_jp": null,
+    "sentence_kana": "さいきんなどからかくりするため、めんかいしゃぜつとなっています。",
+    "meaning_ru": "бактерия, микроб",
+    "sentence_ru": "Посещения запрещены, чтобы изолировать от бактерий и т.п.",
+    "noteId": 1618746036773
+  },
+  {
+    "expression": "～金",
+    "sentence_jp": "入会金を払う。",
+    "sentence_kana": "にゅうかいきんをはらう。",
+    "meaning_ru": "плата, взнос (суффикс)",
+    "sentence_ru": "Заплатить вступительный взнос.",
+    "note": "Tatoeba match used 貸金庫 (safe deposit box), a different sense of 金, replaced",
+    "noteId": 1618746052146
+  },
+  {
+    "expression": "金額",
+    "sentence_jp": null,
+    "sentence_kana": "ぜんねんのそうしょとくきんがくはいくらでしょうか。",
+    "meaning_ru": "сумма (денег)",
+    "sentence_ru": "Какова была общая сумма дохода за прошлый год?",
+    "noteId": 1618746065103
+  },
+  {
+    "expression": "銀行口座",
+    "sentence_jp": null,
+    "sentence_kana": "ぜいきんのためにかれはぎんこうこうざをこべつにしておきたかった。",
+    "meaning_ru": "банковский счёт",
+    "sentence_ru": "Из-за налогов он хотел вести отдельные банковские счета.",
+    "noteId": 1618746087420
+  },
+  {
+    "expression": "金属製",
+    "sentence_jp": null,
+    "sentence_kana": "それはもくせいですか、それともきんぞくせいですか。",
+    "meaning_ru": "металлический",
+    "sentence_ru": "Это деревянное или металлическое?",
+    "noteId": 1618746105975
+  },
+  {
+    "expression": "緊張",
+    "sentence_jp": null,
+    "sentence_kana": "そんなにきんちょうしなくてもいいですよ。",
+    "meaning_ru": "напряжение",
+    "sentence_ru": "Можешь так сильно не волноваться.",
+    "noteId": 1618746118888
+  },
+  {
+    "expression": "緊張感",
+    "sentence_jp": null,
+    "sentence_kana": "ちょっとてをやすめてきもちをやわらげれば、かたのストレスやきんちょうかんがとれるよ。",
+    "meaning_ru": "чувство напряжения",
+    "sentence_ru": "Если немного передохнуть и расслабиться, снимется напряжение и стресс в плечах.",
+    "noteId": 1618746136851
+  },
+  {
+    "expression": "金融界",
+    "sentence_jp": "金融界で働きたい。",
+    "sentence_kana": "きんゆうかいではたらきたい。",
+    "meaning_ru": "финансовый мир",
+    "sentence_ru": "Хочу работать в финансовой сфере.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746154548
+  },
+  {
+    "expression": "金融危機",
+    "sentence_jp": null,
+    "sentence_kana": "ぶっかのあがりさがりがきんゆうききをひきおこした。",
+    "meaning_ru": "финансовый кризис",
+    "sentence_ru": "Колебания цен вызвали финансовый кризис.",
+    "noteId": 1618746236897
+  },
+  {
+    "expression": "～具",
+    "sentence_jp": null,
+    "sentence_kana": "そして、このゆうぐにはすべりだいのデッキにあがるほうほうがもうひとつあります。",
+    "meaning_ru": "приспособление, снаряжение (суффикс)",
+    "sentence_ru": "И у этого игрового оборудования есть ещё один способ подняться на площадку горки.",
+    "noteId": 1618746257335
+  },
+  {
+    "expression": "クイズ番組",
+    "sentence_jp": null,
+    "sentence_kana": "クイズばんぐみはしちじのニュースのあとだ。",
+    "meaning_ru": "викторина (телепередача)",
+    "sentence_ru": "Викторина идёт после новостей в 7 часов.",
+    "noteId": 1618746274792
+  },
+  {
+    "expression": "食う",
+    "sentence_jp": null,
+    "sentence_kana": "たでくうむしもすきずき。",
+    "meaning_ru": "есть, жрать",
+    "sentence_ru": "На вкус и цвет товарищей нет.",
+    "noteId": 1618746282746
+  },
+  {
+    "expression": "空間",
+    "sentence_jp": null,
+    "sentence_kana": "かれは、じぶんがすむくうかんとねるくうかんとをもったいっこのこじんなのだ。",
+    "meaning_ru": "пространство",
+    "sentence_ru": "Он — отдельная личность, у которой есть своё пространство для жизни и пространство для сна.",
+    "noteId": 1618746294193
+  },
+  {
+    "expression": "偶然",
+    "sentence_jp": null,
+    "sentence_kana": "ぐうぜんにもわたしはかれをしっているの。",
+    "meaning_ru": "случайно",
+    "sentence_ru": "По случайному стечению обстоятельств я его знаю.",
+    "noteId": 1618746309677
+  },
+  {
+    "expression": "茎",
+    "sentence_jp": "花の茎を切る。",
+    "sentence_kana": "はなのくきをきる。",
+    "meaning_ru": "стебель",
+    "sentence_ru": "Обрезать стебель цветка.",
+    "note": "Tatoeba match used 歯茎 (gums), a different word sharing the kanji, replaced",
+    "noteId": 1618746322711
+  },
+  {
+    "expression": "腐る",
+    "sentence_jp": null,
+    "sentence_kana": "かれはおかねをくさるほどもっている。",
+    "meaning_ru": "портиться, гнить",
+    "sentence_ru": "У него денег хоть отбавляй.",
+    "noteId": 1618746336960
+  },
+  {
+    "expression": "くし",
+    "sentence_jp": "くしで髪をとかす。",
+    "sentence_kana": "くしでかみをとかす。",
+    "meaning_ru": "расчёска",
+    "sentence_ru": "Расчёсывать волосы расчёской.",
+    "note": "Tatoeba match used 気長 (patient), a false-positive homophone, replaced",
+    "noteId": 1618746342846
+  },
+  {
+    "expression": "くしゃみ",
+    "sentence_jp": null,
+    "sentence_kana": "かれのくしゃみでわたしたちのかいわがちゅうだんした。",
+    "meaning_ru": "чихание",
+    "sentence_ru": "Его чихание прервало наш разговор.",
+    "noteId": 1618746351213
+  },
+  {
+    "expression": "苦情",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはしはいにんにサービスがわるいとくじょうをいった。",
+    "meaning_ru": "жалоба",
+    "sentence_ru": "Она пожаловалась управляющему на плохое обслуживание.",
+    "noteId": 1618746360927
+  },
+  {
+    "expression": "崩す",
+    "sentence_jp": "一万円札を崩す。",
+    "sentence_kana": "いちまんえんさつをくずす。",
+    "meaning_ru": "разрушать, разменивать (деньги)",
+    "sentence_ru": "Разменять купюру в 10000 иен.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746381119
+  },
+  {
+    "expression": "～崩れ",
+    "sentence_jp": null,
+    "sentence_kana": "ぼうぎょがくずれた。",
+    "meaning_ru": "обвал, разрушение (суффикс)",
+    "sentence_ru": "Оборона рухнула.",
+    "noteId": 1618746395097
+  },
+  {
+    "expression": "具体性",
+    "sentence_jp": null,
+    "sentence_kana": "きみのせつめいはぐたいせいにかける。",
+    "meaning_ru": "конкретность",
+    "sentence_ru": "Твоему объяснению не хватает конкретности.",
+    "noteId": 1618746412045
+  },
+  {
+    "expression": "具体的",
+    "sentence_jp": null,
+    "sentence_kana": "しつもんのないようがぐたいてきにつたわるようにかいてください。",
+    "meaning_ru": "конкретный",
+    "sentence_ru": "Пожалуйста, напишите так, чтобы суть вопроса передавалась конкретно.",
+    "noteId": 1618746424971
+  },
+  {
+    "expression": "くたくた",
+    "sentence_jp": null,
+    "sentence_kana": "かれはくたくたのせびろをきていた。",
+    "meaning_ru": "измотанный, потрёпанный",
+    "sentence_ru": "На нём был потрёпанный костюм.",
+    "noteId": 1618746435278
+  },
+  {
+    "expression": "くたびれる",
+    "sentence_jp": "一日中歩いてくたびれた。",
+    "sentence_kana": "いちにちじゅうあるいてくたびれた。",
+    "meaning_ru": "уставать, изматываться",
+    "sentence_ru": "Я устал(а), проходив целый день.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746448049
+  },
+  {
+    "expression": "くだらない",
+    "sentence_jp": null,
+    "sentence_kana": "かれのいけんはくだらない。",
+    "meaning_ru": "бессмысленный, ничтожный",
+    "sentence_ru": "Его мнение никчёмное.",
+    "noteId": 1618746458508
+  },
+  {
+    "expression": "下り電車",
+    "sentence_jp": "下り電車に乗り遅れた。",
+    "sentence_kana": "くだりでんしゃにのりおくれた。",
+    "meaning_ru": "поезд, идущий от центра",
+    "sentence_ru": "Я опоздал(а) на поезд, идущий из центра.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746773025
+  },
+  {
+    "expression": "口がうまい",
+    "sentence_jp": "彼は口がうまい。",
+    "sentence_kana": "かれはくちがうまい。",
+    "meaning_ru": "красноречивый, речистый (льстец)",
+    "sentence_ru": "Он умеет красиво заговорить.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746786196
+  },
+  {
+    "expression": "口が重い",
+    "sentence_jp": null,
+    "sentence_kana": "かれはくちがおもい。",
+    "meaning_ru": "неразговорчивый, молчаливый",
+    "sentence_ru": "Он неразговорчив.",
+    "noteId": 1618746805433
+  },
+  {
+    "expression": "口が堅い",
+    "sentence_jp": null,
+    "sentence_kana": "かれはくちがかたい。",
+    "meaning_ru": "умеющий хранить тайну",
+    "sentence_ru": "Он умеет держать язык за зубами.",
+    "noteId": 1618746818909
+  },
+  {
+    "expression": "口が軽い",
+    "sentence_jp": null,
+    "sentence_kana": "かのじょはくちがかるい。",
+    "meaning_ru": "болтливый",
+    "sentence_ru": "Она болтушка.",
+    "noteId": 1618746835157
+  },
+  {
+    "expression": "口が滑る",
+    "sentence_jp": "つい口が滑ってしまった。",
+    "sentence_kana": "ついくちがすべってしまった。",
+    "meaning_ru": "проговориться",
+    "sentence_ru": "Я случайно проговорился(лась).",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746853323
+  },
+  {
+    "expression": "口に合う",
+    "sentence_jp": "この料理は口に合う。",
+    "sentence_kana": "このりょうりはくちにあう。",
+    "meaning_ru": "быть по вкусу",
+    "sentence_ru": "Это блюдо мне по вкусу.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746871694
+  },
+  {
+    "expression": "口にする",
+    "sentence_jp": null,
+    "sentence_kana": "かれはおもったことをくちにする。",
+    "meaning_ru": "произносить (вслух)",
+    "sentence_ru": "Он говорит вслух то, что думает.",
+    "noteId": 1618746878617
+  },
+  {
+    "expression": "口に出す",
+    "sentence_jp": null,
+    "sentence_kana": "かれはたにんのかんじょうにかまわずおもっていることをくちにだす。",
+    "meaning_ru": "высказать вслух",
+    "sentence_ru": "Он высказывает свои мысли, не считаясь с чувствами других.",
+    "noteId": 1618746885772
+  },
+  {
+    "expression": "ぐちゃぐちゃ",
+    "sentence_jp": "部屋がぐちゃぐちゃだ。",
+    "sentence_kana": "へやがぐちゃぐちゃだ。",
+    "meaning_ru": "мешанина, беспорядок",
+    "sentence_ru": "В комнате полный беспорядок.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618746895068
+  },
+  {
+    "expression": "口を出す",
+    "sentence_jp": null,
+    "sentence_kana": "かれは、かのじょのふくのきかたについてかならずなにかくちをだす。",
+    "meaning_ru": "вмешиваться (в чужие дела)",
+    "sentence_ru": "Он всегда вставляет своё слово о том, как она одевается.",
+    "noteId": 1618746913227
+  },
+  {
+    "expression": "苦痛",
+    "sentence_jp": null,
+    "sentence_kana": "へいしはくつうでうめいた。",
+    "meaning_ru": "боль, страдание",
+    "sentence_ru": "Солдат застонал от боли.",
+    "noteId": 1618746924404
+  },
+  {
+    "expression": "くっきり",
+    "sentence_jp": null,
+    "sentence_kana": "あおぞらをはいけいにそのとうがくっきりみえた。",
+    "meaning_ru": "отчётливо, ясно",
+    "sentence_ru": "На фоне синего неба башня была видна отчётливо.",
+    "noteId": 1618746931576
+  },
+  {
+    "expression": "ぐったり",
+    "sentence_jp": null,
+    "sentence_kana": "わたしたちはごじかんのたびでぐったりしてしまった。",
+    "meaning_ru": "изнеможённый, обмякший",
+    "sentence_ru": "Мы совсем обессилели после 5-часовой поездки.",
+    "noteId": 1618746939455
+  },
+  {
+    "expression": "ぐっと",
+    "sentence_jp": null,
+    "sentence_kana": "あけがたちかくは、ぐっとひえこむ。",
+    "meaning_ru": "значительно, резко",
+    "sentence_ru": "Ближе к рассвету становится заметно холоднее.",
+    "noteId": 1618746947342
+  },
+  {
+    "expression": "くつろぐ",
+    "sentence_jp": null,
+    "sentence_kana": "かれらがぼくをあたたかくむかえてくれたのでくつろぐことができた。",
+    "meaning_ru": "расслабляться",
+    "sentence_ru": "Они тепло меня приняли, поэтому я смог расслабиться.",
+    "noteId": 1618746965765
+  },
+  {
+    "expression": "くどい",
+    "sentence_jp": "この味付けはくどい。",
+    "sentence_kana": "このあじつけはくどい。",
+    "meaning_ru": "многословный, приторный, вычурный",
+    "sentence_ru": "Эта приправа слишком приторная.",
+    "note": "Tatoeba match actually used the different word あくどい (vicious/gaudy), replaced",
+    "noteId": 1618747106896
+  },
+  {
+    "expression": "首にする",
+    "sentence_jp": "会社は彼を首にした。",
+    "sentence_kana": "かいしゃはかれをくびにした。",
+    "meaning_ru": "увольнять",
+    "sentence_ru": "Компания уволила его.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618747119094
+  },
+  {
+    "expression": "首になる",
+    "sentence_jp": null,
+    "sentence_kana": "くびになるのがこわいから、こようぬしにあえてさからおうとするひとはだれもいない。",
+    "meaning_ru": "быть уволенным",
+    "sentence_ru": "Никто не решается перечить работодателю, потому что боится быть уволенным.",
+    "noteId": 1618747131325
+  },
+  {
+    "expression": "クマ",
+    "sentence_jp": "森でクマを見た。",
+    "sentence_kana": "もりでクマをみた。",
+    "meaning_ru": "медведь",
+    "sentence_ru": "Я видел(а) медведя в лесу.",
+    "note": "Tatoeba match was about Pacman, an unrelated false positive, replaced",
+    "noteId": 1618747143058
+  },
+  {
+    "expression": "組み～",
+    "sentence_jp": "組み立てが簡単だ。",
+    "sentence_kana": "くみたてがかんたんだ。",
+    "meaning_ru": "объединение, комбинация (префикс)",
+    "sentence_ru": "Сборка простая.",
+    "note": "Tatoeba match used 取り組み (effort), a different compound, replaced",
+    "noteId": 1618747664631
+  },
+  {
+    "expression": "組み合わせる",
+    "sentence_jp": "色を組み合わせる。",
+    "sentence_kana": "いろをくみあわせる。",
+    "meaning_ru": "комбинировать, сочетать",
+    "sentence_ru": "Сочетать цвета.",
+    "note": "no Tatoeba match, self-authored",
+    "noteId": 1618747683419
+  }
+]
