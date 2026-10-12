@@ -1,7 +1,7 @@
 from pathlib import Path
 from jpvocab.apkg_reader import open_collection, existing_expressions
 
-CORE_APKG = Path(r"D:\User\Рабочий стол\Анки\колоды которые нужно сравнить\Core 2k_6k [ Pitch Graphs, Optimized, Links ].apkg")
+CORE_APKG = Path(__file__).resolve().parents[3] / "03_Anki" / "Decks" / "Third_Party_Decks" / "Core 2k-6k [Pitch Graphs, Optimized, Links].apkg"
 
 def test_open_collection_reads_real_apkg():
     con = open_collection(CORE_APKG)
