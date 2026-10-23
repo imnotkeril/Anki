@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field
+from functools import cache
 from pathlib import Path
 
 from beartype import beartype
@@ -13,8 +14,32 @@ from jpvocab.pitch_lookup import PitchLookup
 from jpvocab.tatoeba import TatoebaLookup
 
 DATA_DIR = Path(__file__).parent.parent.parent / "data"
-_pitch_lookup = PitchLookup(DATA_DIR / "kanjium_accents.txt")
-_tatoeba_lookup = TatoebaLookup(DATA_DIR / "tatoeba_jpn_eng_pairs.tsv")
+
+
+# Loaded on first use, not at import: the grammar / EN decks import this module for
+# quick_add and build_deck and must work without the fetched JP vocab data files.
+@cache
+def _pitch_lookup() -> PitchLookup:
+    return PitchLookup(DATA_DIR / "kanjium_accents.txt")
+
+
+@cache
+def _tatoeba_lookup() -> TatoebaLookup:
+    return TatoebaLookup(DATA_DIR / "tatoeba_jpn_eng_pairs.tsv")
+
+
+def _find_pitch_svg(expression: str, entry) -> tuple[str, str] | None:
+    """(reading, pitch svg) for the first reading/written-form pair Kanjium knows."""
+    for written in (expression, *entry.kanji_forms):
+        for reading in entry.readings:
+            accents = _pitch_lookup().get(written, reading)
+            if not accents:
+                continue
+            try:
+                return reading, render_pitch_svg(split_morae(reading), accents[0])
+            except ValueError:
+                continue  # accent number does not fit this reading; try the next one
+    return None
 
 
 @dataclass
@@ -27,6 +52,9 @@ class WordDraft:
     sentence_kana: str | None
     sentence_english: str | None
     source: dict[str, str] = field(default_factory=dict)
+    # The text actually found in `sentence` (a verb's stem when the sentence has an
+    # inflected form); this is what gets bolded.
+    sentence_match: str | None = None
 
 
 @beartype
@@ -39,13 +67,12 @@ def draft_words(words: list[str]) -> list[WordDraft]:
         source = {"meaning": "jmdict" if entry else "needs_llm", "reading": "jmdict" if entry else "needs_llm"}
 
         pitch_svg = None
-        if reading:
-            accents = _pitch_lookup.get(expression, reading)
-            if accents:
-                pitch_svg = render_pitch_svg(split_morae(reading), accents[0])
+        found = _find_pitch_svg(expression, entry) if entry else None
+        if found:
+            reading, pitch_svg = found
         source["pitch"] = "kanjium" if pitch_svg else "missing"
 
-        sentence_pair = _tatoeba_lookup.find(expression)
+        sentence_pair = _tatoeba_lookup().find(expression)
         sentence = sentence_pair.japanese if sentence_pair else None
         sentence_english = sentence_pair.english if sentence_pair else None
         source["sentence"] = "tatoeba" if sentence_pair else "needs_llm"
@@ -61,6 +88,7 @@ def draft_words(words: list[str]) -> list[WordDraft]:
                 sentence_kana=None,
                 sentence_english=sentence_english,
                 source=source,
+                sentence_match=sentence_pair.matched if sentence_pair else None,
             )
         )
     return drafts
@@ -95,7 +123,9 @@ def finalize_draft(
     else:
         reading_field = ""
     final_sentence = sentence or draft.sentence or ""
-    final_sentence = _bold_first_occurrence(final_sentence, draft.expression)
+    final_sentence = _bold_first_occurrence(
+        final_sentence, draft.sentence_match or draft.expression
+    )
     final_sentence_kana = sentence_kana or draft.sentence_kana or ""
     final_sentence_english = sentence_english or draft.sentence_english or ""
 

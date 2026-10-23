@@ -85,3 +85,40 @@ def test_finalize_draft_explicit_override_wins_over_dictionary_hit():
     )
     fields = finalize_draft(draft, meaning="это, то")
     assert fields[1] == "это, то"
+
+
+def test_draft_suru_finds_pitch_via_written_form():
+    draft = draft_words(["する"])[0]
+    assert draft.pitch_svg is not None
+    assert draft.source["pitch"] == "kanjium"
+
+
+def test_draft_short_hiragana_gets_no_wrong_sentence():
+    draft = draft_words(["いる"])[0]
+    assert draft.sentence is None
+    assert draft.source["sentence"] == "needs_llm"
+
+
+def test_find_pitch_svg_skips_accent_that_does_not_fit_reading(monkeypatch):
+    from jpvocab import generate
+    from jpvocab.dictionary import DictionaryEntry
+
+    class FakeLookup:
+        def get(self, expression, reading):
+            return {"ふくざつ": [9], "ほか": [0]}.get(reading, [])
+
+    monkeypatch.setattr(generate, "_pitch_lookup", lambda: FakeLookup())
+    entry = DictionaryEntry("語", "ふくざつ", ["x"], readings=("ふくざつ", "ほか"))
+    reading, svg = generate._find_pitch_svg("語", entry)
+    assert reading == "ほか"
+    assert svg.startswith("<svg")
+
+
+def test_finalize_bolds_matched_stem():
+    draft = WordDraft(
+        expression="食べる", reading="たべる", meaning="to eat", pitch_svg=None,
+        sentence="昨日ケーキを食べた。", sentence_kana=None, sentence_english="I ate.",
+        sentence_match="食べ",
+    )
+    fields = finalize_draft(draft)
+    assert "<b>食べ</b>た" in "".join(fields)
