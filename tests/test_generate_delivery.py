@@ -193,3 +193,58 @@ def test_quick_add_dedups_within_same_batch(mock_create, mock_find, mock_add):
     assert report.skipped_duplicates == ["それ"]
     added_fields = mock_add.call_args.kwargs["notes_fields"]
     assert added_fields == [["それ", "that"]]
+
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_counts_notes_refused_by_anki(mock_create, mock_find, mock_add):
+    mock_find.return_value = []
+    mock_add.return_value = [101, None, 103]
+
+    report = quick_add(
+        [["一", "a"], ["二", "b"], ["三", "c"]], field_names=["Expression", "Meaning"]
+    )
+
+    assert report.added_count == 2
+    assert report.skipped_duplicates == ["二"]
+
+
+@patch("jpvocab.generate.ankiconnect.add_notes")
+@patch("jpvocab.generate.ankiconnect.find_notes")
+@patch("jpvocab.generate.ankiconnect.create_deck")
+def test_quick_add_escapes_anki_wildcards(mock_create, mock_find, mock_add):
+    mock_find.return_value = []
+    mock_add.return_value = [1]
+
+    quick_add([[r'a_b*c"d\e', "x"]], field_names=["Expression", "Meaning"])
+
+    query = mock_find.call_args.args[0]
+    assert r'Expression:"a\_b\*c\"d\\e"' in query
+
+
+def test_build_deck_skips_duplicates_inside_one_batch(tmp_path: Path):
+    row = ["それ", "that", "reading", "", "sentence", "kana", "english", ""]
+    result = build_deck(
+        [row, list(row)], deck_name=CORE_DECK, out_path=tmp_path / "out.apkg",
+        existing_words=set(),
+    )
+    assert result.skipped_duplicates == ["それ"]
+
+
+def test_generate_imports_and_builds_without_data_files(tmp_path: Path, monkeypatch):
+    import importlib
+
+    from jpvocab import generate
+
+    monkeypatch.setattr(generate, "DATA_DIR", tmp_path / "missing")
+    reloaded = importlib.reload(generate)  # must not touch DATA_DIR at import
+    try:
+        monkeypatch.setattr(reloaded, "DATA_DIR", tmp_path / "missing")
+        result = reloaded.build_deck(
+            [["それ", "that", "reading", "", "sentence", "kana", "english", ""]],
+            deck_name=CORE_DECK, out_path=tmp_path / "out.apkg", existing_words=set(),
+        )
+        assert (tmp_path / "out.apkg").exists() and result.skipped_duplicates == []
+    finally:
+        importlib.reload(generate)

@@ -147,6 +147,14 @@ class QuickAddReport:
     dry_run_preview: list[list[str]] | None = None
 
 
+def _escape_search_term(value: str) -> str:
+    """Escape a value for use inside a quoted Anki search term: `*` and `_` are
+    wildcards there, and backslash and the quote itself are special."""
+    for char in ("\\", '"', "*", "_"):
+        value = value.replace(char, "\\" + char)
+    return value
+
+
 @beartype
 def quick_add(
     notes_fields: list[list[str]],
@@ -158,8 +166,8 @@ def quick_add(
     notetype: NotetypeSnapshot | None = None,
 ) -> QuickAddReport:
     expression_index = field_names.index(dedup_field)
-    escaped_deck_name = deck_name.replace('"', '\\"')
-    escaped_dedup_field = dedup_field.replace('"', '\\"')
+    escaped_deck_name = _escape_search_term(deck_name)
+    escaped_dedup_field = _escape_search_term(dedup_field)
 
     to_add = []
     skipped = []
@@ -169,7 +177,7 @@ def quick_add(
         if expression in seen_in_batch:
             skipped.append(expression)
             continue
-        escaped_expression = expression.replace('"', '\\"')
+        escaped_expression = _escape_search_term(expression)
         existing = ankiconnect.find_notes(
             f'deck:"{escaped_deck_name}" {escaped_dedup_field}:"{escaped_expression}"'
         )
@@ -208,8 +216,12 @@ def quick_add(
             notes_fields=to_add,
         )
 
+    # AnkiConnect answers None for a note it refused (e.g. Anki's own duplicate check).
+    rejected = [fields[expression_index] for fields, note_id in zip(to_add, added_ids) if note_id is None]
     return QuickAddReport(
-        added_count=len(to_add), skipped_duplicates=skipped, added_note_ids=added_ids
+        added_count=len(to_add) - len(rejected),
+        skipped_duplicates=skipped + rejected,
+        added_note_ids=added_ids,
     )
 
 
@@ -230,11 +242,13 @@ def build_deck(
 ) -> BuildDeckReport:
     to_add = []
     skipped = []
+    seen = set(existing_words)
     for fields in notes_fields:
         expression = fields[expression_index]
-        if expression in existing_words:
+        if expression in seen:
             skipped.append(expression)
         else:
+            seen.add(expression)
             to_add.append(fields)
 
     build_apkg(to_add, deck_name=deck_name, out_path=out_path, notetype=notetype)
